@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+    <EVENT>Переговоры</EVENT> 
+
+    между Россией и Белоруссией о поставках российской нефти не 
+	
+	
+	<EVENT>завершились</EVENT>
+	
+	
+	 заключением соглашения 
+	<SIGNAL sid="s1">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2009-01-01">1 января</TIMEX3>
+	
+	
+	
+	. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 РИА Новости со ссылкой на представителя российской делегации. Источник агентства 
+	
+	
+	<EVENT>добавил</EVENT>
+	
+	
+	, что белорусская делегация возвращается в Минск без &quot;необходимых полномочий и директив&quot;.
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2009-01-01">1 января</TIMEX3>
+	
+	
+	
+	 истекает срок прежнего &quot;нефтяного&quot; соглашения между государствами. Еще 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2009-12-23">23 декабря</TIMEX3>
+	
+	
+	
+	 посол России в Белоруссии Александр Суриков 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	, что дата подписания нового документа не принципиальна: новое соглашение может быть подписано и 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2009-02">феврале</TIMEX3>
+	
+	
+	
+	. При этом Суриков 
+	
+	
+	<EVENT>пообещал</EVENT>
+	
+	
+	, что Россия не будет прекращать поставки нефти в Белоруссию.При этом 
+	
+	
+	<EVENT>сообщалось</EVENT>
+	
+	
+	, что новое соглашение должно включать не только собственно условия поставки нефти, но и предусматривать участие российских компаний в приватизации белорусских предприятий нефтяной отрасли. Ранее о таком условии 
+	
+	
+	<EVENT>упоминал</EVENT>
+	
+	
+	 министр энергетики России Сергей Шматко.
+	
+	
+	
+	<TIMEX3 tid="t9" type="DATE" value="2009-12-10">10 декабря</TIMEX3>
+	
+	
+	
+	 состоялась встреча Александра Лукашенко и Дмитрия Медведева. По итогам встречи президенты 
+	
+	
+	<EVENT>попросили</EVENT>
+	
+	
+	 чиновников найти возможность сохранить 
+	<SIGNAL sid="s3">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2010">2010 год</TIMEX3>
+	
+	
+	
+	 прежние цены на газ и нефть. 
+	
+	
+	
+	<TIMEX3 tid="t17" type="DATE" value="2009-12-30">30 декабря</TIMEX3>
+	
+	
+	
+	 концерн &quot;Газпром&quot; 
+	
+	
+	<EVENT>объявил</EVENT>
+	
+	
+	, что стоимость российского газа для Белоруссии 
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2010-Q1">первом квартале 2010 года</TIMEX3>
+	
+	
+	
+	 составит 168 долларов за тысячу кубометров. Это ниже европейских цен, однако дороже, чем 
+	<SIGNAL sid="s5">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t21" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009/12/31" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2009/12/31</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">завершились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">добавил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пообещал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">сообщалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">упоминал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">попросили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объявил</MAKEINSTANCE>
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="NOUN" tense="None" aspect="None" modality="None">переговоры</MAKEINSTANCE>
+
+	
+	
+
+
+</TimeML>

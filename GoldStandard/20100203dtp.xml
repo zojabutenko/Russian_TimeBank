@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+В Санкт-Петербурге автобус 
+	
+	
+	<EVENT>выехал</EVENT>
+	
+	
+	 на тротуар и 
+	 
+	 
+	 <EVENT>сбил</EVENT> 
+	 
+	 
+	 14 человек. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	  &quot;Интерфакс&quot; со ссылкой на пресс-службу Главного управления МЧС по городу. Инцидент 
+	
+	
+	<EVENT>произошел</EVENT>
+	
+	
+	 приблизительно 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="TIME" value="2010-02-03T16:30">16:30</TIMEX3>
+	
+	
+	
+	 на Невском проспекте в районе домов 106-108.В сообщении МЧС говорится, что автобус 15-го маршрута по неизвестной причине 
+	 
+	 <EVENT>выехал</EVENT> 
+	 
+	 на тротуар и 
+	 
+	 
+	 <EVENT>врезался</EVENT> 
+	 
+	 в рекламный щит. По предварительным данным, два человека в результате этого инцидента 
+	
+	
+	<EVENT>погибли</EVENT>
+	
+	
+	. Остальные двенадцать 
+	
+	
+	<EVENT>получили</EVENT>
+	
+	
+	 травмы различной степени тяжести.В то же время в управлении ГИБДД по Санкт-Петербургу агентству РИА Новости 
+	
+	
+	<EVENT>сообщили</EVENT>
+	
+	
+	, что после этого инцидента были 
+	
+	<EVENT>госпитализированы</EVENT> 
+	
+	10 человек. Также 
+	
+	
+	<EVENT>отмечается</EVENT>
+	
+	
+	, что в аварию попал автобус марки ЛиАЗ.По предварительным данным, ДТП 
+	
+	
+	<EVENT>произошло</EVENT> 
+	
+	
+	из-за технической неисправности. Начальник управления ГИБДД по Петербургу Ленинградской области Сергей Бугров 
+	
+	
+	<EVENT>сообщил</EVENT>
+	
+	
+	, что в автобусе &quot;
+	
+	<EVENT>заела</EVENT> 
+	
+	педаль газа или педаль тормоза&quot;. Об этом сотрудникам милиции 
+	
+	
+	<EVENT>рассказал</EVENT>
+	
+	
+	 сам водитель. Бугров также 
+	
+	
+	<EVENT>добавил</EVENT>
+	
+	
+	, что по его данным в результате ДТП 
+	
+	
+	<EVENT>пострадали</EVENT> 
+	
+	
+	восемь человек.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выехал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">произошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">погибли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отмечается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">рассказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">добавил</MAKEINSTANCE>
+	
+	
+
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сбил</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выехал</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">врезался</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="NONE">госпитализированы</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">произошло</MAKEINSTANCE>
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заела</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пострадали</MAKEINSTANCE>
+
+</TimeML>

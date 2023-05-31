@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Власти китайской провинции Гуандун 
+	
+	
+	<EVENT>запретили</EVENT>
+	
+	
+	 местным средствам массовой информации публиковать любую неофициальную информацию об отравленном меламином молоке, сообщает AFP.Решение касается нового витка так 
+	
+	называемого
+	
+	
+	 &quot;молочного скандала&quot;, который 
+	 
+	 <EVENT>начался</EVENT> 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2008">2008 году</TIMEX3>
+	
+	
+	
+	 со смерти шести детей и отравления 300 тысяч китайцев молочными продуктами с меламином. Химикат 
+	
+	
+	<EVENT>добавлялся</EVENT>
+	
+	
+	 в продукцию для повышения кажущегося содержания белка. Тогда по обвинению в производстве и распространении токсичного молока были 
+	
+	
+	<EVENT>арестованы</EVENT>
+	
+	
+	 более 20 человек. Двое из них были 
+	
+	
+	<EVENT>казнены</EVENT>
+	
+	
+	, остальных участников &quot;молочного скандала&quot; 
+	
+	
+	<EVENT>приговорили</EVENT> 
+	
+	
+	к различным тюремным срокам. 
+	
+	<SIGNAL SignalID="s3">Во</SIGNAL> 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2010-02-02">вторник, 2 февраля</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>стало</EVENT>
+	
+	
+	 известно о проверках пищевой продукции в 16 регионах Китая. 
+	<SIGNAL sid="s2">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2010-02-05">следующий день</TIMEX3>
+	
+	
+	
+	 были 
+	
+	
+	<EVENT>арестованы</EVENT>
+	
+	
+	 четыре человека, 
+	
+	
+	<EVENT>имеющих</EVENT>
+	
+	
+	 отношение к производству молока, что позволило СМИ сделать вывод о новом появлении молока с меламином в китайских магазинах.Введение ограничений на распространение информации о молоке с меламином 
+	
+	
+	<EVENT>осудила</EVENT>
+	
+	
+	 Международная федерация журналистов. По мнению генерального секретаря федерации Эйдана Уайта (Aidan White), эта мера 
+	
+	
+	<EVENT>говорит</EVENT>
+	
+	
+	 о том, что китайские власти 
+	
+	
+	<EVENT>заботятся</EVENT>
+	
+	
+	 о цензуре гораздо больше, чем о здоровье своих граждан, и не способны в должной мере информировать их о грозящей опасности.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">запретили</MAKEINSTANCE>
+	
+	
+		
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Imp" modality="Ind">добавлялся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">арестованы</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">казнены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind" signalID="s3">стало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE" signalID="s2">арестованы</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">имеющих</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">осудила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">говорит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">заботятся</MAKEINSTANCE>
+	
+	
+
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind" signalID="s1">начался</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">приговорили</MAKEINSTANCE>
+
+</TimeML>

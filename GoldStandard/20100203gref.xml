@@ -1,0 +1,293 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Кризис в мировой экономике 
+	
+	
+	<EVENT>возник</EVENT>
+	
+	
+	 не из-за деятельности банков, а из-за &quot;излишнего левериджа&quot; (высокого отношения заемных средств к собственному капиталу) у компаний. Такое мнение на конференции &quot;Россия-2010&quot; 
+	
+	
+	<EVENT>высказал</EVENT>
+	
+	
+	 глава Сбербанка Герман Греф, 
+	 
+	 <EVENT>передает</EVENT> 
+	 
+	 портал Slon.Ru.&quot;Спор о том, нужен ли леверидж, – это спор о еде. Когда люди начинают умирать от ожирения, можно спорить о том, нужны ли продавцы еды&quot;, - провел параллель Герман Греф. Он также 
+	
+	
+	<EVENT>добавил</EVENT>
+	
+	
+	, что 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="PRESENT_REF">сейчас</TIMEX3>
+	
+	
+	
+	 большое количество средств занимают не только частные компании, но и власти. По словам Сбербанка, многие российские компании до кризиса &quot;
+	
+	
+	<EVENT>имели</EVENT>
+	
+	
+	 хороший аппетит&quot; и 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">сейчас</TIMEX3>
+	
+	
+	
+	 &quot;вынуждены сесть на диету&quot;. В связи с этим в Сбербанке 
+	
+	
+	<EVENT>считают</EVENT>
+	
+	
+	, что необходимо кредитовать не крупный, а средний и мелкий бизнес. &quot;От того, как банковская система и публичные власти смогут развить малый и средний бизнес, будет зависеть рост экономики&quot;, - 
+	
+	<EVENT>отметил</EVENT> 
+	
+	Греф.
+	
+	<SIGNAL sid="s1">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2009">2009 год</TIMEX3>
+	
+	
+	
+	 Сбербанк 
+	
+	
+	<EVENT>выдал</EVENT>
+	
+	
+	 кредитов российским компаниям приблизительно на четыре триллиона рублей. 
+	
+	
+	<SIGNAL sid="s3">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DURATION" value="P11M">11 месяцев</TIMEX3>
+	
+	
+	
+	 этот показатель 
+	
+	
+	<EVENT>увеличился</EVENT>
+	
+	
+	 на 6,9 процента по сравнению с аналогичным в
+	
+	ериодом 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2008">2008 года</TIMEX3>
+	
+	
+	
+	. Для сравнения, в целом по российской банковской системе объем 
+	
+	
+	<EVENT>выданных</EVENT>
+	
+	
+	 корпоративным клиентам кредитов 
+	
+	
+	<EVENT>вырос</EVENT>
+	
+	
+	 всего на 1,9 процента.Сбербанк 
+	
+	
+	<EVENT>входит</EVENT>
+	
+	
+	 в число системообразующих российских банков, более 50 процентов его акций 
+	 
+	 
+	 <EVENT>контролируется</EVENT> 
+	 
+	 
+	 ЦБ. Наряду с другими госбанками Сбербанк 
+	
+	
+	<EVENT>решает</EVENT>
+	
+	
+	 не только корпоративные задачи, но и государственные. Так, 
+	
+	
+	<SIGNAL sid="s2">за</SIGNAL>
+	
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 именно перед госбанками правительство 
+	
+	
+	<EVENT>поставило</EVENT>
+	
+	
+	 задачу разморозить рынок кредитования.Мировой экономический кризис 
+	
+	
+	<EVENT>возник</EVENT>
+	
+	
+	 из ипотечного и кредитного. Многие экономисты 
+	
+	
+	считают
+	
+	
+	, что одной из главных причин кризиса является увлеченность финансовых организаций производными инструментами. 
+	
+	
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2008">2008</TIMEX3>
+	
+	
+	
+	-
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2009">2009 годах</TIMEX3>
+	
+	
+	
+	 правительства разных стран 
+	 
+	 <EVENT>вынуждены</EVENT> 
+	 
+	 
+	 были потратить на поддержку местных банков сотни миллиардов долларов.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">возник</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">высказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">передает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">добавил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Imp" modality="Ind">имели</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">считают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">выдал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">увеличился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выданных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вырос</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">входит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">решает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s7">поставило</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">возник</MAKEINSTANCE>
+	
+		
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">контролируется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind" signalID="s4">вынуждены</MAKEINSTANCE>
+
+
+	
+	
+
+
+</TimeML>

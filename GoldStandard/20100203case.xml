@@ -1,0 +1,252 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Американский режиссер и композитор Джозеф Брукс (Joseph Brooks), 
+	
+	
+	<EVENT>обвиненный</EVENT>
+	
+	
+	 в 13 изнасилованиях, 
+	
+	
+	<EVENT>отпущен</EVENT>
+	
+	
+	 под залог в 1,25 миллиона долларов США, 
+	 
+	 
+	 <EVENT>сообщает</EVENT> 
+	 
+	 
+	 Associated Press 
+	 
+	 <SIGNAL sid="s4">во</SIGNAL> 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-02">вторник</TIMEX3>
+	
+	
+	
+	, 2 февраля.71-летний Брукс, 
+	
+	
+	<EVENT>получивший</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="1977">1977 году</TIMEX3>
+	
+	
+	
+	  &quot;Оскар&quot; за песню к фильму &quot;You Light Up My Life&quot;, 
+	  
+	  
+	  <EVENT>обвиняется</EVENT> 
+	  
+	  
+	  в 13 изнасилованиях, 
+	
+	
+	<EVENT>совершенных</EVENT>
+	
+	
+	 в период с 2005 по 2008 годы. По версии следствия, жертвами Брукса 
+	
+	
+	<EVENT>становились</EVENT>
+	
+	
+	 начинающие актрисы, 
+	
+	
+	<EVENT>откликнувшиеся</EVENT>
+	
+	
+	 на объявления о прослушивании, которые композитор 
+	 
+	 
+	 <EVENT>проводил</EVENT> 
+	 
+	 
+	 у себя в квартире. Сам Джозеф Брукс свою вину категорически 
+	
+	
+	<EVENT>отрицает</EVENT>
+	
+	
+	.В поле зрения правоохранительных органов Брукс 
+	
+	
+	<EVENT>попал</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2006-SP">весной 2006 года</TIMEX3>
+	
+	
+	
+	 после того, как одна из его жертв 
+	
+	
+	<EVENT>обратилась</EVENT>
+	
+	
+	 в больницу. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2009-06">июне 2009 года</TIMEX3>
+	
+	
+	
+	 Бруксу было 
+	
+	
+	<EVENT>предъявлено</EVENT>
+	
+	
+	 обвинение в 11 изнасилованиях, тогда суд согласился отпустить его под залог в 250 тысяч долларов. Однако 
+	
+	
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t15" type="DATE" value="2010-01">январе 2010 года</TIMEX3>
+	
+	
+	
+	 его 
+	
+	
+	<EVENT>обвинили</EVENT>
+	
+	
+	 еще в двух случаях насилия, и суд 
+	 
+	 
+	 <EVENT>постановил</EVENT> 
+	 
+	 
+	 увеличить сумму залога до 1,25 миллиона.Чтобы собрать сумму, необходимую для внесения залога, рассказали адвокаты Брукса, их подзащитному 
+	
+	
+	<EVENT>пришлось</EVENT>
+	
+	
+	 продать 
+	
+	
+	<EVENT>принадлежащие</EVENT>
+	
+	
+	 ему акции.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">обвиненный</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отпущен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">получивший</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">совершенных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Imp" modality="Ind">становились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">откликнувшиеся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отрицает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">попал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обратилась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">предъявлено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">обвинили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пришлось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">принадлежащие</MAKEINSTANCE>
+	
+	
+
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" signalID="s4">сообщает</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">обвиняется</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Imp" modality="Ind">проводил</MAKEINSTANCE>
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind">постановил</MAKEINSTANCE>
+
+
+</TimeML>

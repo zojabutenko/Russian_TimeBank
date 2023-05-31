@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Национальный совет по безопасности транспорта (National Transportation Safety Board, NTSB) США поздно вечером <SIGNAL SignalID="s1">во</SIGNAL> 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2010-02-02">вторник, 2 февраля</TIMEX3>
+	
+	
+	
+	 (в Москве было уже утро) 
+	
+	
+	<EVENT>обнародовал</EVENT>
+	
+	
+	 окончательный отчет о катастрофе самолета под Буффало 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2009-02-12">12 февраля 2009 года</TIMEX3>
+	
+	
+	
+	. Согласно этому документу, главной причиной крушения лайнера 
+	
+	
+	<EVENT>стали</EVENT>
+	
+	
+	 действия командира экипажа, вследствие которых самолет 
+	 
+	 <EVENT>потерял</EVENT> 
+	 
+	 скорость и ушел в сваливание, после чего его так и не
+	 
+	 <EVENT>смогли</EVENT> 
+	 
+	 выровнять.Факторами, которые способствовали катастрофе, экспертная комиссия 
+	
+	
+	<EVENT>признала</EVENT>
+	
+	
+	 также невнимание экипажа к датчикам скорости и неспособность капитана полностью контролировать движение воздушного судна и выбирать адекватную скорость для вхождения в воздушный поток в условиях обледенения. Кроме того, от полета командира экипажа - мужчину и второго пилота - женщину 
+	
+	
+	<EVENT>отвлекали</EVENT>
+	
+	
+	 постоянные личные разговоры, которые строго запрещены при заходе на посадку.Ранее по результатам расшифровки черных ящиков основной причиной крушения 
+	
+	
+	<EVENT>называлось</EVENT>
+	
+	
+	 обледенение лайнера.Часть ответственности комиссия 
+	
+	
+	<EVENT>возложила</EVENT>
+	
+	
+	 на оператора рейса, компанию Colgan Air, которая не 
+	 
+	 <EVENT>разработала</EVENT> 
+	 
+	 достаточных рекомендаций для пилотов в условиях обледенения самолета. В докладе 
+	
+	
+	<EVENT>признается</EVENT>
+	
+	
+	 также, что уровень подготовки пилотов и безопасности движения в небольших региональных авиакомпаниях США существенно ниже, чем у перевозчиков федерального уровня.На сайте газеты The Buffalo News доступна видеореконструкция последних 
+	
+	
+	
+	<TIMEX3 tid="t12" type="DURATION" value="PTXM">минут</TIMEX3>
+	
+	
+	
+	 полета лайнера, из которой становится понятно: вместо адекватной реакции на сваливание, которой пилоты обычно обучаются в ходе тренировок, экипаж 
+	 
+	 
+	 <EVENT>продемонстрировал</EVENT> 
+	 
+	 
+	 полную растерянность.По результатам работы комиссии 
+	
+	
+	<EVENT>разработаны</EVENT>
+	
+	
+	 более 20 рекомендаций по улучшению безопасности, которые были 
+	 
+	 
+	 <EVENT>направлены</EVENT> 
+	 
+	 
+	 в Федеральное управление гражданской авиации США (Federal Aviation Administration, FAA). Глава комиссии Дебора Херсман (Deborah Hersman) 
+	
+	
+	<EVENT>подвергла</EVENT>
+	
+	
+	 FAA критике за затягивание решения проблем, которые 
+	 
+	 
+	 <EVENT>вскрылись</EVENT> 
+	 
+	 
+	 в результате инцидента в Буффало. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 Associated Press.Самолет Bombardier Dash 8 Q400, 
+	
+	
+	<EVENT>следовавший</EVENT>
+	
+	
+	 рейсом 3407, 
+	
+	
+	<EVENT>разбился</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t15" type="DATE" value="2009-02-12">12 февраля 2009</TIMEX3>
+	
+	
+	
+	 в пригороде Буффало, штат Нью-Йорк. В результе катастрофы 
+	
+	
+	<EVENT>погибли</EVENT>
+	
+	
+	 50 человек: 44 пассажира, пять членов экипажа и хозяин дома, на который 
+	 
+	 <EVENT>упал</EVENT> 
+	 
+	 лайнер.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" signalID="s1">обнародовал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">признала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Imp" modality="Ind">отвлекали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Imp" modality="Ind">называлось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">возложила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">признается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">разработаны</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подвергла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Imp" modality="NONE">следовавший</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">разбился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">погибли</MAKEINSTANCE>
+	
+	
+
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">потерял</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">смогли</MAKEINSTANCE>
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">разработала</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind">продемонстрировал</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="NONE">направлены</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вскрылись</MAKEINSTANCE>
+
+
+	<MAKEINSTANCE eiid="ei20" pos="VERB" tense="Past" aspect="Perf" modality="Ind">упал</MAKEINSTANCE>
+
+</TimeML>

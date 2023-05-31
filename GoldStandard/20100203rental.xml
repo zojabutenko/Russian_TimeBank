@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Крупнейший видеохостинг YouTube 
+	<SIGNAL sid="s1">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P10D">10 дней</TIMEX3>
+	
+	
+	
+	 после запуска функции видеопроката 
+	
+	
+	<EVENT>заработал</EVENT>
+	
+	
+	 лишь 10709 долларов и 16 центов. Стоимость просмотра фильма 
+	
+	
+	<EVENT>составляла</EVENT>
+	
+	
+	 3 доллара 99 центов. Таким образом, услугой 
+	
+	
+	<EVENT>воспользовались</EVENT>
+	
+	
+	 всего 2684 раза.Представители YouTube 
+	
+	
+	<EVENT>заявили</EVENT>
+	
+	
+	, что результаты превзошли их ожидания. По их словам, просмотр любых фильмов онлайн 
+	
+	
+	<EVENT>остается</EVENT>
+	
+	
+	 новой и во многом непроверенной услугой. 
+	
+	
+	<EVENT>Стоит</EVENT>
+	
+	
+	 отметить, что крупнейший сервис видеопроката в США, Netflix, 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="PAST_REF">недавно</TIMEX3>
+	
+	
+	
+	 <EVENT>объявил</EVENT>
+	 
+	 , что онлайн фильмы смотрят шесть миллионов его подписчиков.Небольшая выручка от видеопроката на YouTube 
+	
+	
+	может
+	
+	
+	 быть связана с тем, что функция 
+	
+	
+	<EVENT>работала</EVENT>
+	
+	
+	 в экспериментальном режиме и была доступна лишь для пяти фильмов фестиваля Sundance. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="PRESENT_REF">настоящее время</TIMEX3>
+	
+	
+	
+	 видеопрокат 
+	
+	
+	<EVENT>отключен</EVENT>
+	
+	
+	. Прибыль YouTube от проката, в отличие от выручки, не 
+	
+	
+	<EVENT>сообщается</EVENT>
+	
+	
+	.
+	
+	
+	Ожидается
+	
+	
+	, что YouTube не сразу начнет сотрудничать с крупными киностудиями, хотя такие переговоры и 
+	
+	
+	<EVENT>ведутся</EVENT>
+	
+	
+	. Первыми его партнерами на рынке видеопроката станут авторы образовательных и мультипликационных фильмов, а также видеофильмов о здоровье.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">заработал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="Ind">составляла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">воспользовались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">остается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Стоит</MAKEINSTANCE>
+	
+		
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind">работала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE" signalID="s2">отключен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">сообщается</MAKEINSTANCE>
+	
+		
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">ведутся</MAKEINSTANCE>
+	
+	
+
+
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объявил</MAKEINSTANCE>
+
+
+</TimeML>

@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Air China, второй по величине китайский авиаперевозчик, закупит 400 самолетов в течение 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P5Y">пяти лет</TIMEX3>
+	
+	
+	
+	, 
+	
+	<EVENT>заявил</EVENT> 
+	
+	старший вице-президент Air China Хэ Ли на авиашоу в Сингапуре, передает AFP.По оценкам Хэ Ли, интенсивность внутренних авиаперевозок в Китае 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2020">через 10 лет</TIMEX3>
+	
+	
+	
+	 достигнет 700 миллионов человек, а  
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2030">через 20 лет</TIMEX3>
+	
+	
+	
+	 составит 1,5 миллиарда. Также Хэ Ли 
+	
+	
+	<EVENT>добавил</EVENT>
+	
+	
+	, что на авиашоу, которое закончится в ближайшее 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2010-01-31">воскресенье</TIMEX3>
+	
+	
+	
+	, никаких контрактов о покупке самолетов подписывать не планируется.Ранее европейский производитель самолетов Airbus 
+	
+	
+	<EVENT>заявлял</EVENT>
+	
+	
+	, что некоторые страны Азиатско-Тихоокеанского региона планируют приобрести около 8 тысяч новых грузовых и пассажирских самолетов общей стоимостью 1,2 триллиона долларов в период 
+	
+	<SIGNAL SignalID="s4">с</SIGNAL> 
+	
+	<TIMEX3 tid="t18" type="DATE" value="2009">2009</TIMEX3>
+	
+	<SIGNAL sid="s2">по</SIGNAL>
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2028">2028 год</TIMEX3>
+	
+	
+	
+	. 
+	
+	
+	<EVENT>Предполагается</EVENT>
+	
+	
+	, что большая часть спроса придется  на Китай, где еженедельный пассажиропоток составляет 5,7 миллиона человек. Для сравнения, в соседней Японии 
+	
+	
+	
+	<TIMEX3 tid="t11" type="SET" value="P1W" quant="EVERY">за неделю</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>перевозится</EVENT>
+	
+	
+	 2,6 миллиона человек, а в России 
+	<SIGNAL sid="s1">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 <EVENT>перевозилось</EVENT> 
+	 
+	 в среднем 860 тысяч человек 
+	
+	
+	
+	<TIMEX3 tid="t12" type="SET" value="P1W" quant="EVERY">в неделю</TIMEX3>
+	
+	
+	
+	.
+	<SIGNAL sid="s3">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t17" type="DATE" value="2010-02-03">сегодня</TIMEX3>
+	
+	
+	
+	 парк авиакомпании Air China 
+	
+	
+	<EVENT>составляет</EVENT>
+	
+	
+	 224 самолета, значительно 
+	
+	
+	<EVENT>превосходя</EVENT>
+	
+	
+	 парк &quot;Аэрофлота&quot; (118 самолетов), но 
+	
+	
+	<EVENT>уступая</EVENT>
+	
+	
+	 крупнейшим мировым авиакомпаниям (у  Lufthansa - 375, у Air France - 417).
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">добавил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="Ind">заявлял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Предполагается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">перевозится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" signalID="s3">составляет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">превосходя</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">уступая</MAKEINSTANCE>
+	
+	
+
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind" signalID="s1">перевозилось</MAKEINSTANCE>
+
+
+	<TLINK timeID="t12" relatedToTime="t11"/>
+	<TLINK timeID="t1" relatedToTime="t2"/>
+	<TLINK timeID="t7" relatedToTime="t10"/>
+	<TLINK timeID="t12" relatedToTime="t10"/>
+</TimeML>

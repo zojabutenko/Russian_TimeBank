@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Литва сможет принять участие в песенном конкурсе &quot;Евровидение&quot; благодаря спонсорской помощи со стороны телекоммуникационной компании TEO LT.Соглашение со спонсором, сообщается на сайте литовского радио и телевидения, было 
+
+
+    <EVENT>заключено</EVENT> 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2009-12-31">31 декабря 2009 года</TIMEX3>
+	
+	
+	
+	. Отборочный тур &quot;Евровидения&quot; пройдет в республике 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2010-02">феврале 2010 года</TIMEX3>
+	
+	
+	
+	, сообщило литовское радио и телевидение.Ранее Литва 
+	
+	
+	<EVENT>объявила</EVENT>
+	
+	
+	, что из-за финансового кризиса не сможет принять участие в &quot;Евровидении&quot;, 
+	
+	
+	<EVENT>проходящем</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2010">2010 году</TIMEX3>
+	
+	
+	
+	 в Норвегии. При этом представители литовского радио и телевидения, 
+	
+	
+	<EVENT>объявившие</EVENT>
+	
+	
+	 о формальном отказе от участия в конкурсе, 
+	
+	
+	<EVENT>выразили</EVENT>
+	
+	
+	 надежду, что средства, 
+	
+	
+	<EVENT>позволяющие</EVENT>
+	
+	
+	 отправить кандидата от Литвы на &quot;Евровидение&quot;, все же удастся отыскать.TEO LT, 
+	
+	
+	<EVENT>выступившая</EVENT>
+	
+	
+	 спонсором участия Литвы в песенном конкурсе, - одна из крупнейших в республике телекоммуникационных компаний.Кроме Литвы об отказе от участия в &quot;Евровидении-2010&quot; 
+	
+	
+	<EVENT>объявила</EVENT>
+	
+	
+	 Чехия. Национальный оргкомитет конкурса 
+	
+	
+	<EVENT>объяснил</EVENT>
+	
+	
+	 отказ от участия отсутствием интереса чешских зрителей к мероприятию, 
+	
+	
+	<EVENT>вызванного</EVENT>
+	
+	
+	 тем, что представители этой страны не 
+	
+	
+	<EVENT>занимают</EVENT>
+	
+	
+	 высоких мест на &quot;Евровидении&quot;.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/01/01" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/01/01</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объявила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="NONE" SignalID="s2">проходящем</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">объявившие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выразили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">позволяющие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выступившая</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объявила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объяснил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE">вызванного</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">занимают</MAKEINSTANCE>
+	
+	
+
+
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">заключено</MAKEINSTANCE>
+
+
+</TimeML>

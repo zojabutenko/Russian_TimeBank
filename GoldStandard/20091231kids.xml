@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Президент РФ Дмитрий Медведев 
+	
+	
+	<EVENT>назначил</EVENT>
+	
+	
+	 нового уполномоченного по правам ребенка в России. Вместо Алексея Голованя, 
+	
+	
+	<EVENT>проведшего</EVENT>
+	
+	
+	 в этой должности лишь 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="PAST_REF">несколько месяцев</TIMEX3>
+	
+	
+	
+	, детским омбудсменом 
+	
+	
+	<EVENT>стал</EVENT>
+	
+	
+	 адвокат Павел Астахов. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 &quot;Интерфакс&quot; со ссылкой на источник в Кремле.Большинству россиян Астахов известен как телеведущий - программа &quot;Час Суда&quot; с его участием выходит 
+	
+	<SIGNAL sid="s1">с</SIGNAL>
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2003">2003 года</TIMEX3>
+	
+	
+	
+	. Новый детский омбудсмен 
+	
+	
+	<EVENT>является</EVENT>
+	
+	
+	 выпускником Высшей школы КГБ и школы права Университета Питтсбурга. Юридической практикой Астахов 
+	
+	
+	<EVENT>занимается</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="1991">1991 года</TIMEX3>
+	
+	
+	
+	.За время своей 
+	
+	<EVENT>работы</EVENT> 
+	
+	адвокатом Астахову 
+	
+	
+	<EVENT>довелось</EVENT>
+	
+	
+	 стать участником ряда громких судебных процессов и представлять интересы главы &quot;Медиа-Моста&quot; Владимира Гусинского, семьи нобелевского лауреата Льва Ландау, мэра Москвы Юрия Лужкова и председателя Счетной палаты России Сергея Степашина.Павел Астахов 
+	
+	
+	<EVENT>является</EVENT>
+	
+	
+	 автором ряда книг по юриспруденции, а также художественных произведений &quot;Рейдер&quot;, &quot;Мэр&quot;, &quot;Продюсер&quot;, &quot;Шпион&quot; и &quot;Квартира&quot;.Предшественник Астахова Алексей Головань 
+	
+	
+	<EVENT>проработал</EVENT>
+	
+	
+	 на посту детского омбудсмена 
+	<SIGNAL sid="s3">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2009-09-01">1 сентября 2009 года</TIMEX3>
+	
+	
+	
+	 (именно 
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2009-09-01">этот день</TIMEX3>
+	
+	
+	
+	 Медведев 
+	 
+	 <EVENT>учредил</EVENT> 
+	 
+	 такую должность) 
+	<SIGNAL sid="s5">по</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t16" type="DATE" value="2009-12-29">29 декабря</TIMEX3>
+	
+	
+	
+	. По имеющимся данным, Головань 
+	
+	
+	<EVENT>ушел</EVENT>
+	
+	
+	 в отставку по собственному желанию.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009/12/31" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2009/12/31</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">назначил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">проведшего</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">является</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" SignalID="s1">занимается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">довелось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">является</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">проработал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">ушел</MAKEINSTANCE>
+	
+	
+
+	<MAKEINSTANCE eiid="ei11" pos="NOUN" tense="None" aspect="None" modality="None">работы</MAKEINSTANCE>
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">учредил</MAKEINSTANCE>
+
+
+</TimeML>

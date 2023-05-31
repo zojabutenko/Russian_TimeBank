@@ -1,0 +1,335 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Продажи шутера Call of Duty: Modern Warfare 2 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>составили</EVENT>
+	
+	
+	 почти 12 миллионов копий. Об этом 
+	
+	
+	<EVENT>пишет</EVENT>
+	
+	
+	 MCV со ссылкой на данные GfK Chart-Track. 
+	<SIGNAL sid="s2">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2010-12" mod="END">концу декабря</TIMEX3>
+	
+	
+	
+	 во всем мире было 
+	
+	
+	<EVENT>продано</EVENT>
+	
+	
+	 11,86 миллиона копий игры. Наибольшим спросом Modern Warfare 2 
+	
+	
+	<EVENT>пользовалась</EVENT>
+	
+	
+	 в США. Жители этой страны 
+	
+	
+	<EVENT>приобрели</EVENT>
+	
+	
+	 8,82 миллиона копий шутера.В Японии, где игру издавала Square Enix, 
+	<SIGNAL sid="s3">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2010" mod="END">концу года</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>удалось</EVENT>
+	
+	
+	 реализовать лишь 238 тысяч копий новой части Call of Duty. В остальных регионах издателем Modern Warfare 2 
+	
+	
+	<EVENT>выступала</EVENT>
+	
+	
+	 компания Activision. Пока точно не известно, сколько копий игры 
+	 
+	 <EVENT>удалось</EVENT> 
+	 
+	 реализовать во всем мире 
+	
+	
+	
+	<SIGNAL sid="s4">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">настоящему времени</TIMEX3>
+	
+	
+	
+	.
+	<SIGNAL sid="s5">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2010-01" mod="MID">середине января</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>сообщалось</EVENT>
+	
+	
+	, что доходы от продаж Call of Duty: Modern Warfare 2 
+	
+	<EVENT>превысили</EVENT> 
+	
+	отметку в миллиард долларов. Исполнительный директор Activision Blizzard Роберт Котик (Robert Kotick) 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	, что успех новой игры 
+	
+	
+	<EVENT>превзошел</EVENT> 
+	
+	
+	ожидания руководства компании.Новая часть Call of Duty 
+	
+	
+	<EVENT>вышла</EVENT>
+	
+	
+	 на консолях PlayStation 3 и Xbox 360, а также на персональных компьютерах. Релиз 
+	
+	
+	<EVENT>состоялся</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2009-11-10">10 ноября 2009 года</TIMEX3>
+	
+	
+	
+	. В шутере, разработкой которого занималась студия Infinity Ward, 
+	
+	
+	<EVENT>рассказывается</EVENT>
+	
+	
+	 о современном военном конфликте, в который оказались вовлечены несколько государств.Только <SIGNAL SignalID="s7">за</SIGNAL> первый 
+	
+	
+	
+	<TIMEX3 tid="t18" type="DURATION" value="P1D">день</TIMEX3>
+	
+	
+	
+	 жители Северной Америки и Великобритании 
+	
+	
+	<EVENT>купили</EVENT>
+	
+	
+	 4,7 миллиона копий игры. Шутер 
+	
+	
+	<EVENT>побил</EVENT>
+	
+	
+	 сразу несколько рекордов в развлекательной индустрии. В частности, по сборам 
+	
+	
+	<SIGNAL sid="s6">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t19" type="DURATION" value="P5D">пять дней</TIMEX3>
+	
+	
+	
+	 Modern Warfare 2 
+	
+	
+	<EVENT>обогнала</EVENT>
+	
+	
+	 такие фильмы, как &quot;Гарри Поттер и Принц-полукровка&quot; и &quot;Темный рыцарь&quot;.В России 
+	
+	
+	<EVENT>продается</EVENT>
+	
+	
+	 только PC-версия Call of Duty: Modern Warfare 2. Издательство Activision 
+	
+	
+	<EVENT>настояло</EVENT>
+	
+	
+	 на том, чтобы из русской версии был 
+	
+	
+	<EVENT>убран</EVENT>
+	
+	
+	 уровень No Russian, в котором присутствует сцена расстрела безоружных людей в аэропорту. Из консольных версий Modern Warfare 2 уровень удалить не 
+	
+	
+	<EVENT>получилось</EVENT>
+	
+	
+	, поэтому было принято решение не продавать их в России.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">составили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">пишет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">продано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Imp" modality="Ind">пользовалась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">приобрели</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">удалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">выступала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind" SignalID="s5">сообщалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вышла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">состоялся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">рассказывается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind" signalID="s7">купили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">побил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обогнала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">продается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind">настояло</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="NONE">убран</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">получилось</MAKEINSTANCE>
+	
+	
+	
+	<MAKEINSTANCE eiid="ei20" pos="VERB" tense="Past" aspect="Perf" modality="Ind" signalID="s4">удалось</MAKEINSTANCE>
+
+	
+	
+	<MAKEINSTANCE eiid="ei21" pos="VERB" tense="Past" aspect="Perf" modality="Ind">превысили</MAKEINSTANCE>
+
+
+
+
+	<MAKEINSTANCE eiid="ei22" pos="VERB" tense="Past" aspect="Perf" modality="Ind">превзошел</MAKEINSTANCE>
+
+</TimeML>

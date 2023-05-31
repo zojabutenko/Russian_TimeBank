@@ -1,0 +1,261 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Хакеры 
+	
+	
+	<EVENT>выкрали</EVENT>
+	
+	
+	 из федерального управления ФРГ по торговле квотами на парниковые газы в Потсдаме (DEHSt) лицензии на выброс углекислого газа и перепродали их новым покупателям, 
+	 
+	 <EVENT>сообщает</EVENT> 
+	 
+	 
+	 Financial Times Deutschland.По словам представителей DEHSt, хакерская атака была 
+	
+	
+	<EVENT>осуществлена</EVENT>
+	
+	
+	 на высокопрофессиональном уровне. Управление по торговле квотами 
+	
+	
+	<EVENT>приостановило</EVENT>
+	
+	
+	 работу и, как сообщается, будет закрыто 
+	<SIGNAL sid="s1">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-07">7 февраля</TIMEX3>
+	
+	
+	
+	. Специалисты в срочном порядке 
+	
+	
+	<EVENT>переделывают</EVENT>
+	
+	
+	 систему защиты.Кроме того, 
+	 
+	 
+	 <SIGNAL sid="s3">с</SIGNAL> 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2010-02-01">понедельника, 1 февраля</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>закрылись</EVENT>
+	
+	
+	 аналогичные управления по торговле квотами в Бельгии, Болгарии, Венгрии, Дании, Греции, Испании, Италии и Румынии. Все 
+	
+	
+	<EVENT>заключающиеся</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="PRESENT_REF">данный момент</TIMEX3>
+	
+	
+	
+	 сделки по покупке прав на выброс углекислого газа не 
+	
+	
+	<EVENT>регистрируются</EVENT>
+	
+	
+	 и будут занесены в национальные и международный реестры позднее.
+	
+	
+	<EVENT>Сообщается</EVENT>
+	
+	
+	, что хакеры от имени федерального управления ФРГ по торговле квотами на парниковые газы 
+	
+	
+	<EVENT>разослали</EVENT> 
+	
+	
+	десяткам предприятий в Германии и за рубежом, в том числе в Японии, электронные письма, в которых 
+	
+	
+	<EVENT>просили</EVENT> 
+	
+	их снова пройти регистрацию, якобы в целях предотвращения хакерских атак.Таким образом, злоумышленники 
+	
+	
+	<EVENT>получили</EVENT>
+	
+	
+	 необходимые данные для доступа к лицензиям на право выброса газов, 
+	
+	
+	<EVENT>хранящимся</EVENT>
+	
+	
+	 в базе DEHSt. Затем права на эмиссию были 
+	
+	
+	<EVENT>переведены</EVENT>
+	
+	
+	 на счета фирм в Великобритании и Дании, а уже оттуда 
+	 
+	 
+	 <EVENT>проданы</EVENT> 
+	 
+	 
+	 новым покупателям, которые не 
+	 
+	 
+	 <EVENT>заподозрили</EVENT>
+	 
+	 
+	 , что покупают краденое.Точная сумма ущерба пока не 
+	
+	
+	<EVENT>определена</EVENT>
+	
+	
+	. 
+	
+	
+	<EVENT>Сообщается</EVENT>
+	
+	
+	, что в Германии было 
+	
+	
+	<EVENT>проведено</EVENT>
+	
+	
+	, по меньшей мере, 12 сделок с украденными лицензиями. При этом только одно средних размеров предприятие 
+	
+	
+	<EVENT>понесло</EVENT>
+	
+	
+	 убытки на 1,5 миллиона евро.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выкрали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">осуществлена</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">приостановило</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">переделывают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" signalID="s3">закрылись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="NONE" SignalID="s1">заключающиеся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">регистрируются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Сообщается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">хранящимся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">переведены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="NONE" polarity="NEG">определена</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Сообщается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">понесло</MAKEINSTANCE>
+	
+	
+
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind">разослали</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Imp" modality="Ind">просили</MAKEINSTANCE>
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="NONE">проданы</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Past" aspect="Imp" modality="Ind" polarity="NEG">заподозрили</MAKEINSTANCE>
+
+
+
+	<MAKEINSTANCE eiid="ei20" pos="VERB" tense="Past" aspect="Perf" modality="NONE">проведено</MAKEINSTANCE>
+
+</TimeML>

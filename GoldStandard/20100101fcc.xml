@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Спамеры при помощи вредоносной программы 
+	
+	
+	<EVENT>получили</EVENT>
+	
+	
+	 доступ к учетной записи на Facebook, 
+	
+	
+	<EVENT>принадлежащей</EVENT>
+	
+	
+	 главе Федеральной комиссии по связи США (FCC) Джулиусу Геначовски (Julius Genachowski). Об этом 
+	
+	
+	<EVENT>пишет</EVENT>
+	
+	
+	 журналист Брэд Стоун в редакционном техноблоге газеты The New York Times.
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-12" mod="END">конце декабря</TIMEX3>
+	
+	
+	
+	 &quot;френдам&quot; Геначовски было 
+	
+	
+	<EVENT>разослано</EVENT>
+	
+	
+	 сообщение от чиновника, 
+	
+	
+	<EVENT>гласящее</EVENT>
+	
+	
+	 &quot;Adam got me started making money with this&quot; (&quot;Адам научил меня делать на этом деньги&quot;) и сопровождавшееся ссылкой на 
+	
+	
+	<EVENT>закрытый</EVENT>
+	
+	
+	 к настоящему моменту сайт.Через  
+	
+	
+	
+	<TIMEX3 tid="t3" type="DURATION" value="PT1.5H">полтора часа</TIMEX3>
+	
+	
+	
+	 после рассылки учетная запись Джулиуса Геначовски на Facebook была 
+	
+	
+	<EVENT>заблокирована</EVENT>
+	
+	
+	 администрацией социальной сети. Представители FCC 
+	
+	
+	<EVENT>отказались</EVENT>
+	
+	
+	 от комментариев.Позднее представители Facebook 
+	
+	
+	<EVENT>дали</EVENT>
+	
+	
+	 развернутый комментарий Брэду Стоуну, из которого следовало, что Геначовски следует внимательнее изучить все, что касается защиты своей учетной записи.Facebook - крупнейшая социальная сеть в мире. Она 
+	
+	
+	<EVENT>объединяет</EVENT>
+	
+	
+	 свыше 350 миллионов пользователей. Для борьбы со спамом в ней 
+	
+	
+	<EVENT>используются</EVENT>
+	
+	
+	 автоматические системы, 
+	
+	
+	<EVENT>обнаруживающие</EVENT>
+	
+	
+	 слишком &quot;активных&quot; пользователей, 
+	
+	
+	<EVENT>рассылающих</EVENT>
+	
+	
+	 одновременно множество сообщений и странных ссылок.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/01/01" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/01/01</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">принадлежащей</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">пишет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">разослано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">гласящее</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">закрытый</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">заблокирована</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отказались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">дали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">объединяет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">используются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">обнаруживающие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">рассылающих</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>
