@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Управление перспективных исследовательских проектов (DARPA) Пентагона 
+	
+	
+	<EVENT>заключило</EVENT>
+	
+	
+	 с американской компанией Boston Dynamics контракт на создание робота, способного переносить тяжести в условиях пересеченной местности. Как сообщает Defense Industry Daily, Boston Dynamics получит 32 миллиона долларов на разработку робота LS3, который внешним видом будет напоминать мула.Использовать новую машину 
+	
+	
+	<EVENT>планируется</EVENT>
+	
+	
+	 в Афганистане, где робот будет переносить до 180 килограмм по скалистой местности на расстояние до 32 километров. При этом масса самого аппарата составит не более 570 килограммов. &quot;Мул&quot; должен будет отличаться автономностью и способностью функционировать на протяжении 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P1D">24 часов</TIMEX3>
+	
+	
+	
+	.По данным DARPA, робот-мул будет обладать четырьмя &quot;ногами&quot; и сможет приспосабливаться к изменяющемуся ландшафту. В частности, аппарат должен уметь ходить, бегать рысью, продвигаться скачками, перепрыгивать препятствия и восстанавливать равновесие в случае, если оно будет 
+	
+	
+	<EVENT>нарушено</EVENT>
+	
+	
+	 внешними факторами.LS3 будет 
+	
+	
+	<EVENT>основан</EVENT>
+	
+	
+	 на уже 
+	
+	
+	<EVENT>имеющейся</EVENT>
+	
+	
+	 разработке Boston Dynamics - роботе BigDog, который уже соответствует некоторым требованиям DARPA. В частности, он 
+	
+	
+	<EVENT>может</EVENT>
+	
+	
+	 ходить, бегать и восстанавливать равновесие даже на скользкой поверхности. Ознакомиться с некоторыми возможностями BigDog можно здесь.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заключило</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">планируется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">нарушено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">основан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">имеющейся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">может</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

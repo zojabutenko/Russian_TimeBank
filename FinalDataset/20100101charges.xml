@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Американский суд в 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-12-31">четверг, 31 декабря</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>снял</EVENT>
+	
+	
+	 обвинения с пяти бывших сотрудников охранной компании Blackwater, сообщает Reuters. Их 
+	
+	
+	<EVENT>обвиняли</EVENT>
+	
+	
+	 в убийстве 14 мирных жителей в Ираке 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2007">2007 году</TIMEX3>
+	
+	
+	
+	.Суд 
+	
+	
+	<EVENT>признал</EVENT>
+	
+	
+	 неконституционными действия правительства по отношению к фигурантам дела: Доналду Боллу (Donald Ball), Дастину Херду (Dustin Heard), Эвану Либерти (Evan Liberty), Нику Слэттену (Nick Slatten) и Полу Слафу (Paul Slough). Так, согласно судебному решению, гособвинители 
+	
+	
+	<EVENT>опирались</EVENT>
+	
+	
+	 на показания, которые обвиняемые дали под страхом потери рабочего места.Инцидент, о котором шла речь в обвинении, 
+	
+	
+	<EVENT>произошел</EVENT>
+	
+	
+	 в Багдаде 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="2007-09-16">16 сентября 2007 года</TIMEX3>
+	
+	
+	
+	. По словам очевидцев, сотрудники Blackwater без причины 
+	
+	
+	<EVENT>открыли</EVENT>
+	
+	
+	 огонь по мирным иракцам во время сопровождения автоколонны с сотрудниками Госдепа. Впоследствии обвиняемые 
+	
+	
+	<EVENT>заявили</EVENT>
+	
+	
+	, что 
+	
+	
+	<EVENT>открытый</EVENT>
+	
+	
+	 ими огонь был ответным.Изначально пятерых охранников 
+	
+	
+	<EVENT>обвиняли</EVENT>
+	
+	
+	 в убийстве 17 человек, однако потом количество 
+	
+	
+	<EVENT>вменяемых</EVENT>
+	
+	
+	 им убийств снизили до 14.Инцидент сказался на имидже охранной компании. Так, местные власти 
+	
+	
+	<EVENT>потребовали</EVENT>
+	
+	
+	 вывода ее сотрудников из Ирака. Кроме того, Blackwater 
+	
+	
+	<EVENT>пришлось</EVENT>
+	
+	
+	 сменить название на Xe (&quot;Зи&quot;) Corporation.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/01/01" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/01/01</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">снял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="Ind" SignalID="s1">обвиняли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">признал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Imp" modality="Ind">опирались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">произошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">открыли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">открытый</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind" SignalID="s1">обвиняли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">вменяемых</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">потребовали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пришлось</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

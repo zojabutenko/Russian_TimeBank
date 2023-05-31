@@ -1,0 +1,274 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Министр спорта, туризма и молодежной политики РФ Виталий Мутко 
+	
+	
+	<EVENT>обвинил</EVENT>
+	
+	
+	 главного тренера сборной России по футболу Гууса Хиддинка в затягивании переговоров о продлении контракта с Российским футбольным союзом (РФС). Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 ИТАР-ТАСС. По словам Мутко, в России 
+	
+	
+	<EVENT>есть</EVENT>
+	
+	
+	 альтернатива кандидатуре Хиддинка.Мутко 
+	
+	
+	<EVENT>сказал</EVENT>
+	
+	
+	, что он советовал Хиддинку выйти &quot;из засады&quot; и работать со сборной 
+	<SIGNAL sid="s1">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-06">июня 2010 года</TIMEX3>
+	
+	
+	
+	, когда контракт голландца с РФС закончится. Новый контракт Мутко 
+	
+	
+	<EVENT>предложил</EVENT>
+	
+	
+	 Хиддинку 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2009" mod="END">конце 2009 года</TIMEX3>
+	
+	
+	
+	 перед матчем с Германией, а затем - после поражения россиян в стыковых матчах со Словенией за выход на чемпионат мира 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010">2010 года</TIMEX3>
+	
+	
+	
+	. Однако Хиддинк, по словам Мутко, &quot;
+	
+	
+	<EVENT>затянул</EVENT>
+	
+	
+	 паузу&quot;, 
+	
+	
+	<EVENT>объяснив</EVENT>
+	
+	
+	 это тем, что ему нужно побеседовать с новым президентом РФС.Как сообщает РИА Новости, в качестве возможных кандидатов на смену Хиддинку Мутко назвал тренера московского &quot;Локомотива&quot; Юрия Семина и наставника киевского &quot;Динамо&quot; Валерия Газзаева. Кроме того, Мутко 
+	
+	
+	<EVENT>отметил</EVENT>
+	
+	
+	, что в России &quot;есть и молодые тренеры&quot;.
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="PRESENT_REF">настоящее время</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>проходят</EVENT>
+	
+	
+	 выборы президента РФС, итоги которых будут оглашены 
+	
+	
+	
+	<TIMEX3 tid="t14" type="TIME" value="2010-02-03T15:00">около 15:00</TIMEX3>
+	
+	
+	
+	 по московскому времени. Основным претендентом на этот пост 
+	
+	
+	<EVENT>считается</EVENT>
+	
+	
+	 бывший президент питерского &quot;Зенита&quot; Сергей Фурсенко. 
+	
+	
+	<EVENT>Выступая</EVENT>
+	
+	
+	 на конференции РФС, Фурсенко 
+	
+	
+	<EVENT>сказал</EVENT>
+	
+	
+	, что Хиддинк должен исполнять свой контракт, а за 
+	
+	
+	<EVENT>оставшееся</EVENT>
+	
+	
+	 до его окончания время должно быть принято решение о будущем тренера.Хиддинк 
+	
+	
+	<EVENT>имеет</EVENT>
+	
+	
+	 право в любой момент расторгнуть свое соглашение с РФС, поскольку сборная России не 
+	
+	
+	<EVENT>пробилась</EVENT>
+	
+	
+	 на ЧМ-2010. 
+	
+	
+	
+	<TIMEX3 tid="t16" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	 турецкие СМИ 
+	
+	
+	<EVENT>сообщили</EVENT>
+	
+	
+	, что голландец уже в ближайшие дни возглавит сборную Турции. 
+	
+	
+	
+	<TIMEX3 tid="t18" type="DATE" value="2010-02-02">2 февраля</TIMEX3>
+	
+	
+	
+	 голландское издание V-Bal 
+	
+	
+	<EVENT>назвало</EVENT>
+	
+	
+	 новым местом работы Хиддинка Китай.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обвинил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">есть</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">предложил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">затянул</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">объяснив</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">проходят</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">считается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">Выступая</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="NONE">оставшееся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">имеет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">пробилась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind">назвало</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t7" relatedToTime="t1"/>
+	<TLINK timeID="t7" relatedToTime="t8"/>
+	<TLINK timeID="t8" relatedToTime="t7"/>
+	<TLINK timeID="t1" relatedToTime="t7"/>
+</TimeML>

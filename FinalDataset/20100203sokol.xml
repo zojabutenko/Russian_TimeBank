@@ -1,0 +1,282 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Вслед за поселком &quot;Речник&quot; в Москве 
+	
+	
+	<EVENT>может</EVENT>
+	
+	
+	 быть снесена приблизительно половина домов в поселке &quot;Сокол&quot;. Об этом префект Северного административного округа Олег Митволь 
+	
+	
+	<EVENT>сообщил</EVENT>
+	
+	
+	 &quot;Коммерсанту&quot;.
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	 на совещании в префектуре обсудят результаты проверки поселка; по результатам совещания Митволь подаст документы в прокуратуру. Префект САО 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	, что примерно 50 из 100 домов в &quot;Соколе&quot; построены 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="PAST_REF">недавно</TIMEX3>
+	
+	
+	
+	, в то время как по документам это малогабаритные квартиры. &quot;Мне не важно, кто там живет. Важно, по закону все 
+	
+	
+	<EVENT>делается</EVENT>
+	
+	
+	 или нет&quot;, - сказал Митволь.&quot;Сокол&quot; известен также как &quot;поселок художников&quot;: улицы в нем названы именами Врубеля, Левитана, Поленова и Сурикова. Он 
+	
+	
+	<EVENT>возник</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="192" mod="START">начале 1920-х</TIMEX3>
+	
+	
+	
+	 после того, как Ленин 
+	
+	
+	<EVENT>подписал</EVENT>
+	
+	
+	 декрет о кооперативном жилищном строительстве, 
+	
+	
+	<EVENT>разрешавший</EVENT>
+	
+	
+	 людям строить жилье самим. &quot;Сокол&quot; 
+	
+	
+	<EVENT>стал</EVENT>
+	
+	
+	 первым советским ЖСК, в нем жили художники, учителя, работники наркоматов, ученые и рабочие завода &quot;Изолятор&quot;.Среди архитекторов, 
+	
+	
+	<EVENT>проектировавших</EVENT>
+	
+	
+	 &quot;Сокол&quot; - Щусев, Кондаков, братья Веснины, Марковников, Колли. Первая в Москве троллейбусная линия 
+	
+	
+	<EVENT>связывала</EVENT>
+	
+	
+	 поселок с центром. В честь ЖСК 
+	
+	
+	<EVENT>назвали</EVENT>
+	
+	
+	 и станцию метро, и район города.Служба приставов 
+	
+	
+	<EVENT>начала</EVENT>
+	
+	
+	 снос поселка &quot;Речник&quot; 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="2010-01-21">21 января</TIMEX3>
+	
+	
+	
+	; по утверждению властей города, дома в Москворецком парке, 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="199" mod="END">конце 1990-х</TIMEX3>
+	
+	
+	
+	 признанном природоохранной зоной, были построены незаконно. Это мнение 
+	
+	
+	<EVENT>подкреплено</EVENT>
+	
+	
+	 решениями суда. Борьбу с &quot;Речником&quot; 
+	
+	
+	<EVENT>начинал</EVENT>
+	
+	
+	 тот же Митволь в свою бытность замглавы Росприроднадзора.
+	
+	
+	<EVENT>Сообщалось</EVENT>
+	
+	
+	, что в дальнейших планах властей - расположенный неподалеку элитный поселок &quot;Остров фантазий&quot;. По словам мэра Юрия Лужкова, власти 
+	
+	
+	<EVENT>разрешали</EVENT>
+	
+	
+	 построить там лишь физкультурно-оздоровительный комплекс. СМИ 
+	
+	
+	<EVENT>писали</EVENT>
+	
+	
+	, что в &quot;Остров фантазий&quot; живут, в частности, федеральные министры Татьяна Голикова и Виктор Христенко, а также бывший сенатор Умар Джабраилов.
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2010-02-02">2 февраля</TIMEX3>
+	
+	
+	
+	 стало известно, что также власти планируют снести 18 построек, 
+	
+	
+	<EVENT>находящихся</EVENT>
+	
+	
+	 напротив &quot;Речника&quot; - на Карамышевской набережной. По данным &quot;Коммерсанта&quot;, речь 
+	
+	
+	<EVENT>идет</EVENT>
+	
+	
+	 об элитном поселке и яхт-клубе &quot;Вираж&quot;.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">может</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">делается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">возник</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подписал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="NONE">разрешавший</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE">проектировавших</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Imp" modality="Ind">связывала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">назвали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">начала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="NONE">подкреплено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Imp" modality="Ind">начинал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Imp" modality="Ind">Сообщалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Imp" modality="Ind">разрешали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Imp" modality="Ind">писали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">находящихся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">идет</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

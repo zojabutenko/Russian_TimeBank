@@ -1,0 +1,346 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Министерство обороны США 
+	
+	
+	<EVENT>обнародовало</EVENT>
+	
+	
+	 план развития военного кораблестроения, военно-воздушных сил и морской авиации, сообщает NavyTimes. План, 
+	
+	
+	<EVENT>рассчитанный</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s1">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DURATION" value="P30Y">30 лет</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>предполагает</EVENT>
+	
+	
+	 ежегодные траты на покупку кораблей в размере &quot;не более 15,9 миллиардов долларов 
+	
+	
+	
+	<TIMEX3 tid="t1" type="SET" value="P1Y" quant="EVERY">в год</TIMEX3>
+	
+	
+	
+	&quot;, отказ от покупки новых бомбардировщиков и сокращение числа пилотируемых боевых самолетов.Министр обороны США Роберт Гейтс 
+	
+	
+	<EVENT>представил</EVENT>
+	
+	
+	 новый план Пентагона Комитету по вооруженным силам Сената 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-02-02">2 февраля 2010 года</TIMEX3>
+	
+	
+	
+	. Документ 
+	
+	
+	<EVENT>разделен</EVENT>
+	
+	
+	 на две части: одна касается непосредственно военного кораблестроения, а вторая - авиации. План развития военной авиации был 
+	
+	
+	<EVENT>разработан</EVENT>
+	
+	
+	 Пентагоном впервые.Кораблестроительная часть 30-летнего плана 
+	
+	
+	<EVENT>предполагает</EVENT>
+	
+	
+	 увеличение числа высокоскоростных судов JHSV до 23, причем их операционные возможности должны быть значительно расширены. Кроме того, Пентагон 
+	
+	
+	<EVENT>решил</EVENT>
+	
+	
+	 отказаться от строительства двух новых кораблей управления и направить освободившиеся средства на продление сроков службы двух действующих судов такого типа, 
+	
+	
+	<EVENT>принятых</EVENT>
+	
+	
+	 на вооружение 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="197">1970-х годах</TIMEX3>
+	
+	
+	
+	. Срок службы кораблей будет 
+	
+	
+	<EVENT>продлен</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s4">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t12" type="DATE" value="2029">2029 года</TIMEX3>
+	
+	
+	
+	.Кроме того, Пентагон 
+	
+	
+	<EVENT>предложил</EVENT>
+	
+	
+	 стандартизировать вспомогательные корабли снабжения так, чтобы в составе ВМС 
+	
+	
+	<EVENT>действовали</EVENT>
+	
+	
+	 такие суда двух типов. Как сообщает Defense News, ВМС получит корабли доставки боеприпасов и сухих грузов T-AKE и двухкорпусные танкеры T-AO(X).В целом, Пентагон намерен поддерживать количество кораблей во флоте на уровне 313 единиц. При этом число авианосцев 
+	<SIGNAL sid="s5">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t15" type="DATE" value="2040">2040 года</TIMEX3>
+	
+	
+	
+	 будет составлять 11 единиц, а после снизится до десяти. Кроме того, Министерство обороны США 
+	
+	
+	<EVENT>подтвердило</EVENT>
+	
+	
+	 планы ограничить развитие проекта по созданию &quot;эсминцев будущего&quot; DDG-1000 тремя кораблями, а также создать новый радар для эсминцев DDG-51 и поддержать число десантных кораблей на уровне 33 единиц.Авиационная часть большого плана Пентагона 
+	
+	
+	<EVENT>предполагает</EVENT>
+	
+	
+	 отказ от покупки новых дальних бомбардировщиков в период 
+	<SIGNAL sid="s6">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t18" type="DATE" value="2011">2011-го</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s8">по</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t19" type="DATE" value="2020">2020 год</TIMEX3>
+	
+	
+	
+	. Вместо этого деньги будут расходоваться только на ремонт и модернизацию действующего парка бомбардировщиков.  Новые закупки подобных самолетов начнутся только 
+	<SIGNAL sid="s9">по</SIGNAL>
+	<SIGNAL sid="s12">за</SIGNAL>
+	<SIGNAL sid="s15">до</SIGNAL>
+	
+	
+	
+	
+	<TIMEX3 tid="t22" type="DATE" value="2020">2020 года</TIMEX3>
+	
+	
+	
+	, когда, по мнению Министерства обороны США, возникнет потребность в самолетах дальней авиации и военных транспортниках. 
+	<SIGNAL sid="s7">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t25" type="DATE" value="2011">2011-го</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s11">по</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t26" type="DATE" value="2015">2015 год</TIMEX3>
+	
+	
+	
+	 Пентагон намерен потратить 1,9 миллиарда долларов на разработку и создание бомбардировщика нового поколения.Военное ведомство также 
+	
+	
+	<EVENT>решило</EVENT>
+	
+	
+	 сделать ставку на беспилотные ударные комплексы - их число 
+	<SIGNAL sid="s2">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t29" type="DURATION" value="P30Y">30 лет</TIMEX3>
+	
+	
+	
+	 должно вырасти в четыре раза. При этом численность пилотируемых боевых самолетов снизится на десять процентов. Так, по оценке Пентагона, число истребителей и штурмовиков снизится с 3264 единиц 
+	<SIGNAL sid="s13">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t31" type="DATE" value="2011">2011 году</TIMEX3>
+	
+	
+	
+	 до 2929 единиц 
+	<SIGNAL sid="s14">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t32" type="DATE" value="202">2020-м</TIMEX3>
+	
+	
+	
+	. Для сравнения, число только морских многоцелевых БПЛА вырастет за тот же период с 72 единиц до 476. Число разведывательных самолетов ВМС снизится с 580 до 542 единиц.В общей сложности Пентагон 
+	
+	
+	<EVENT>планирует</EVENT>
+	
+	
+	 потратить на развитие военной авиации 268 миллиардов долларов, причем ежегодное финансирование этой области будет повышаться. В частности, среднегодовой рост военных авиационных программ составит около трех процентов 
+	<SIGNAL sid="s10">по</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t35" type="DATE" value="2020">2020 года</TIMEX3>
+	
+	
+	
+	.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обнародовало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">рассчитанный</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предполагает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">представил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">разделен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">разработан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предполагает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">решил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s3">принятых</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s4">продлен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">предложил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="Ind">действовали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подтвердило</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предполагает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">решило</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">планирует</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t19" relatedToTime="t1"/>
+</TimeML>

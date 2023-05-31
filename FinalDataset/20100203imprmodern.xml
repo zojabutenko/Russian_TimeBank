@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Картина Пабло Пикассо &quot;Голова женщины (Жаклин)&quot; 
+	
+	
+	<EVENT>стал</EVENT>
+	
+	
+	 самым дорогим лотом аукциона импрессионистов и модернистов, 
+	
+	
+	<EVENT>проведенного</EVENT>
+	
+	
+	 Christie's.На торгах, 
+	
+	
+	<EVENT>состоявшихся</EVENT>
+	
+	
+	 в Лондоне вечером во 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-02-02">вторник, 2 февраля</TIMEX3>
+	
+	
+	
+	, работа Пикассо была 
+	
+	
+	<EVENT>продана</EVENT>
+	
+	
+	 за 8,1 миллиона фунтов (13 миллионов долларов) - более чем в два раза выше предварительной оценки в 3-4 миллиона фунтов. Портрет жены, 
+	
+	
+	<EVENT>написанный</EVENT>
+	
+	
+	 художником 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="1963">1963 году</TIMEX3>
+	
+	
+	
+	, 
+	<SIGNAL sid="s2">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="1967">1967 года</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>принадлежал</EVENT>
+	
+	
+	 частному коллекционеру и не выставлялся на торги.Вторым самым дорогим лотом прошедших торгов 
+	
+	
+	<EVENT>стала</EVENT>
+	
+	
+	 работа одного из основоположников фовизма - голландского художника Кеса ван Донгена (Kees van Dongen). &quot;Цыганка&quot; ван Донгена, 
+	
+	
+	<EVENT>написанная</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t12" type="DATE" value="1910">1910</TIMEX3>
+	
+	
+	
+	-
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="1911">1911 годах</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>ушла</EVENT>
+	
+	
+	 с молотка за 7 миллионов 97 тысяч фунтов (11 миллионов 284 тысячи долларов) - чуть ниже верхней границы эстимейта в 7,5 миллиона фунтов.&quot;Испанка&quot; Натальи Гончаровой, впервые 
+	
+	
+	<EVENT>представленная</EVENT>
+	
+	
+	 на аукционах, была 
+	
+	
+	<EVENT>продана</EVENT>
+	
+	
+	 за 6 миллионов 425 тысяч фунтов (около 10 миллионов 216 тысяч долларов США). До начала торгов устроители аукциона 
+	
+	
+	<EVENT>рассчитывали</EVENT>
+	
+	
+	 продать &quot;Испанку&quot; за 6 миллионов фунтов.Всего на аукционе импрессионистов и модернистов 
+	
+	
+	
+	<TIMEX3 tid="t15" type="DATE" value="2010-02-02">2 февраля</TIMEX3>
+	
+	
+	
+	 были 
+	
+	
+	<EVENT>реализованы</EVENT>
+	
+	
+	 лоты на общую сумму в 66,7 миллиона фунтов стерлингов. До начала торгов Christie's 
+	
+	
+	<EVENT>прогнозировал</EVENT>
+	
+	
+	 суммарную выручку в 48,3-69,1 миллиона фунтов.В 
+	
+	
+	
+	<TIMEX3 tid="t18" type="DATE" value="2010-02-03">среду, 3 февраля</TIMEX3>
+	
+	
+	
+	, в Лондоне свои торги импрессионистами и модернистами проведет главный конкурент Christie's - аукционный дом Sotheby's.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">проведенного</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">состоявшихся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">продана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">написанный</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind" SignalID="s2">принадлежал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">написанная</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">ушла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">представленная</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">продана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="Ind">рассчитывали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="NONE">реализованы</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Imp" modality="Ind">прогнозировал</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Президент Украины Виктор Ющенко 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-04">4 февраля</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>подписал</EVENT>
+	
+	
+	 закон об изменениях в системе работы избирательных комиссий, который премьер Юлия Тимошенко ранее назвала &quot;смертным приговором демократии и честным выборам&quot;, сообщается на сайте главы государства.Согласно одобренным нововведениям,  для принятия легитимных решений избиркомам более не понадобится кворум в 2/3 их членов.Юлия Тимошенко 
+	
+	
+	<EVENT>выступала</EVENT>
+	
+	
+	 категорически против принятия этого закона, 
+	
+	
+	<EVENT>заявляя</EVENT>
+	
+	
+	, что в противном случае ее оппоненты из Партии регионов &quot;выкинут&quot; из комиссий ее сторонников, что приведет к массовым фальсификациям.В то же время в лагере Виктора Януковича 
+	
+	
+	<EVENT>утверждали</EVENT>
+	
+	
+	, что потенциальную опасность несет в себе прежняя редакция закона. По их мнению, БЮТ 
+	
+	
+	<EVENT>мог</EVENT>
+	
+	
+	 парализовать работу комиссий, 
+	
+	
+	<EVENT>отозвав</EVENT>
+	
+	
+	 из них своих членов 
+	
+	
+	
+	<TIMEX3 tid="t3" type="SET" value="P1D" quant="EVERY">в день</TIMEX3>
+	
+	
+	
+	 выборов.Это 
+	
+	
+	<EVENT>привело</EVENT>
+	
+	
+	 бы к срыву голосования, что, полагают регионалы, и является целью их оппонентов.Второй тур выборов состоится в ближайшее 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-02-07">воскресенье 7 февраля</TIMEX3>
+	
+	
+	
+	.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подписал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="Ind">выступала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">заявляя</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Imp" modality="Ind">утверждали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Imp" modality="Ind">мог</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отозвав</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">привело</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

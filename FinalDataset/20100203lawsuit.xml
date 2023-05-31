@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Компания &quot;Система масс медиа&quot; (СММ), 
+	
+	
+	<EVENT>управляющая</EVENT>
+	
+	
+	 медиаактивами АФК &quot;Система&quot;, 
+	
+	
+	<EVENT>подала</EVENT>
+	
+	
+	 в суд на онлайн-магазин Video.ru за распространение телесериала &quot;Братья детективы&quot;, пишет газета &quot;Ведомости&quot;.СММ 
+	
+	
+	<EVENT>обвинила</EVENT>
+	
+	
+	 Video.ru в пиратстве. Представители Video.ru, со своей стороны, 
+	
+	
+	<EVENT>признали</EVENT>
+	
+	
+	, что магазин не имел права торговать &quot;Братьями детективами&quot;, и объяснили инцидент технической ошибкой.  СММ 
+	
+	
+	<EVENT>отказалась</EVENT>
+	
+	
+	 от 
+	
+	
+	<EVENT>предложенной</EVENT>
+	
+	
+	 Video.ru &quot;небольшой компенсации&quot;. Правообладатель намерен взыскать с онлайн-магазина 24 миллиона рублей.Video.ru является одним из крупнейших онлайн-магазинов Рунета, 
+	
+	
+	<EVENT>торгующих</EVENT>
+	
+	
+	 видеоконтентом. По собственным данным компании, 
+	
+	
+	
+	<TIMEX3 tid="t1" type="SET" value="P1M">ежемесячно</TIMEX3>
+	
+	
+	
+	 с сайта Video.ru 
+	
+	
+	<EVENT>скачивается</EVENT>
+	
+	
+	 несколько десятков тысяч фильмов, сериалов и телепередач.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">управляющая</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обвинила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">признали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отказалась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">предложенной</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">торгующих</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">скачивается</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

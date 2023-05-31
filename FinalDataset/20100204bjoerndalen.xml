@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Пятикратный олимпийский чемпион, норвежский биатлонист Уле Эйнар Бьорндален, 
+	
+	
+	<EVENT>прилетев</EVENT>
+	
+	
+	 в Ванкувер, где пройдут Олимпийские игры 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010">2010 года</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>обнаружил</EVENT>
+	
+	
+	 пропажу двух своих винтовок. 
+	
+	
+	<EVENT>Выяснилось</EVENT>
+	
+	
+	, что багаж Бьорндалена по ошибке был отправлен в Амстердам. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 норвежское издание VG.36-летний Бьорндален признался, что, поскольку его багаж не 
+	
+	
+	<EVENT>прибыл</EVENT>
+	
+	
+	, ему пришлось для прогулок по Ванкуверу попросить одежду у партнера по команде Тарьей Бе, который носит форму на два-три размера больше. Бьорндален 
+	
+	
+	<EVENT>сказал</EVENT>
+	
+	
+	, что в одежде Бе он выглядел как &quot;турист из 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="207">семидесятых</TIMEX3>
+	
+	
+	
+	&quot;.Бьорндален 
+	
+	
+	<EVENT>считается</EVENT>
+	
+	
+	 одним из лидеров сборной Норвегии по биатлону. Он 
+	
+	
+	<EVENT>выиграл</EVENT>
+	
+	
+	 одну золотую медаль на Олимпийских играх 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="1998">1998 года</TIMEX3>
+	
+	
+	
+	 в Нагано и четыре золота - на Олимпиаде-2002 в Солт-Лейк-Сити.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">прилетев</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обнаружил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">Выяснилось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">прибыл</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">считается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выиграл</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

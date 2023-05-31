@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Итальянский премьер-министр Сильвио Берлускони 
+	
+	
+	<EVENT>готовит</EVENT>
+	
+	
+	 материал для нового альбома любовных песен. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 AFP. По данным агентства, пластинка выйдет уже 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010">2010 году</TIMEX3>
+	
+	
+	
+	.Готовы уже восемь из 12 песен, которые должны войти в альбом. Однако название пластинки и ее обложка пока 
+	
+	
+	<EVENT>держатся</EVENT>
+	
+	
+	 в секрете.Новый альбом будет 
+	
+	
+	<EVENT>записан</EVENT>
+	
+	
+	 политиком в соавторстве с гитаристом Мариано Апичелли. Вместе с ним Берлускони 
+	
+	
+	<EVENT>выпустил</EVENT>
+	
+	
+	 уже четыре пластинки. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2003">2003 году</TIMEX3>
+	
+	
+	
+	 Апичелли и Берлускони даже 
+	
+	
+	<EVENT>написали</EVENT>
+	
+	
+	 песню, 
+	
+	
+	<EVENT>посвященную</EVENT>
+	
+	
+	 Владимиру Путину.В последние 
+	
+	
+	
+	<TIMEX3 tid="t9" type="DURATION" value="P1W">недели</TIMEX3>
+	
+	
+	
+	 Сильвио Берлускони 
+	
+	
+	<EVENT>поправляется</EVENT>
+	
+	
+	 после 
+	
+	
+	<EVENT>пережитого</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2009-12" mod="START">начале декабря</TIMEX3>
+	
+	
+	
+	 нападения. Психически неуравновешенный житель Милана 
+	
+	
+	<EVENT>швырнул</EVENT>
+	
+	
+	 в политика тяжелую сувенирную статуэтку. У премьер-министра были 
+	
+	
+	<EVENT>выбиты</EVENT>
+	
+	
+	 два зуба и сломан нос.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009/12/31" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2009/12/31</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">готовит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">держатся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">записан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выпустил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">написали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">посвященную</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">поправляется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">пережитого</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">швырнул</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выбиты</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

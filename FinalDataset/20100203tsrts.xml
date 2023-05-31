@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+В Волгограде 
+	
+	
+	<EVENT>возбуждено</EVENT>
+	
+	
+	 уголовное дело в отношении двух милиционеров, которые избили и пытались задушить задержанного. Как сообщает Следственное управление по Волгоградской области, мотивом противозаконных действий 
+	
+	
+	<EVENT>стала</EVENT>
+	
+	
+	 личная неприязнь сотрудников правоохранительных органов.Как установило следствие, вечером 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-01-30">30 января</TIMEX3>
+	
+	
+	
+	 потерпевшего 
+	
+	
+	<EVENT>доставили</EVENT>
+	
+	
+	 в отделение милиции за административное нарушение. Примерно между 2 и 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DURATION" value="PT3H">3 часами</TIMEX3>
+	
+	
+	
+	 ночи 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-01-31">31 января</TIMEX3>
+	
+	
+	
+	 двое дежурных милиционеров 
+	
+	
+	<EVENT>вывели</EVENT>
+	
+	
+	 задержанного из камеры и стали его бить, а также &quot;поочередно сдавливали его шею и грудную клетку&quot;.Возбуждения дела 
+	
+	
+	<EVENT>добился</EVENT>
+	
+	
+	 сам пострадавший. Он 
+	
+	
+	<EVENT>зафиксировал</EVENT>
+	
+	
+	 побои у врача и написал заявление в службу собственной безопасности УВД, пишет &quot;Комсомольская правда&quot;. На конечностях и теле задержанного были синяки, а на шее 
+	
+	
+	<EVENT>виднелись</EVENT>
+	
+	
+	 следы удушения.По словам пострадавшего, он был 
+	
+	
+	<EVENT>задержан</EVENT>
+	
+	
+	 за мелкое хулиганство и оставлен на ночь в камере в качестве профилактической меры.Уголовное дело 
+	
+	
+	<EVENT>возбуждено</EVENT>
+	
+	
+	 по факту превышения полномочий с применением насилия. Подозреваемые милиционеры 
+	
+	
+	<EVENT>задержаны</EVENT>
+	
+	
+	.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">возбуждено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">доставили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вывели</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">добился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">зафиксировал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">виднелись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE">возбуждено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержаны</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t4" relatedToTime="t5"/>
+</TimeML>

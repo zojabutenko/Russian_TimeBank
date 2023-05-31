@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Избранный сенатор от штата Массачусетс Скотт Браун 
+	
+	
+	<EVENT>решил</EVENT>
+	
+	
+	 ускорить свое вступление в должность и занять место Эдварда Кеннеди в верхней палате Конгресса США уже в 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-02-04">четверг, 4 февраля</TIMEX3>
+	
+	
+	
+	, сообщает Associated Press.
+	
+	
+	<EVENT>Ожидается</EVENT>
+	
+	
+	, что Браун официально станет сенатором 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="TIME" value="2010-02-04TAF">четверг днем</TIMEX3>
+	
+	
+	
+	, после чего сможет приступить к работе в Сенате. Ранее 
+	
+	
+	<EVENT>предполагалось</EVENT>
+	
+	
+	, что он начнет работу только 
+	
+	
+	
+	<TIMEX3 tid="t9" type="DATE" value="2010-02-11">11 февраля</TIMEX3>
+	
+	
+	
+	.Свое решение он 
+	
+	
+	<EVENT>объяснил</EVENT>
+	
+	
+	 тем, что в течение 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DURATION" value="P1W">недели</TIMEX3>
+	
+	
+	
+	 Сенат будет рассматривать ряд важных вопросов и его голос может понадобиться Республиканской партии. Между тем ранее демократы 
+	
+	
+	<EVENT>обещали</EVENT>
+	
+	
+	 не выносить на рассмотрение положения ключевой для своей партии и президента США Барака Обамы реформы здравоохранения, отмечает The Boston Globe. Республиканская партия 
+	
+	
+	<EVENT>выступает</EVENT>
+	
+	
+	 против реформы.Место Брауна необходимо республиканцам для блокирования решений Демократической партии, 
+	
+	
+	<EVENT>обладающей</EVENT>
+	
+	
+	 большинством в верхней палате Конгресса. До смерти Эдварда Кеннеди 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="2009-08">августе 2009 года</TIMEX3>
+	
+	
+	
+	 республиканцы 
+	
+	
+	<EVENT>имели</EVENT>
+	
+	
+	 только 40 мест из ста в Сенате и не могли противостоять принятию нежелательных для партии решений.Скотт Браун 
+	
+	
+	<EVENT>выиграл</EVENT>
+	
+	
+	 выборы в Массачусетсе 
+	
+	
+	
+	<TIMEX3 tid="t19" type="DATE" value="2010-01-19">19 января 2010 года</TIMEX3>
+	
+	
+	
+	. Соперницей Брауна на выборах 
+	
+	
+	<EVENT>стала</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t23" type="DATE" value="2010-03">Марта</TIMEX3>
+	
+	
+	
+	 Коукли, в поддержку которой высказалася Обама, что, однако, не помогло ей одержать верх на республиканцем.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">решил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Ожидается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Imp" modality="Ind">предполагалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объяснил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Imp" modality="Ind">обещали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">выступает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">обладающей</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind" SignalID="s1">имели</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выиграл</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стала</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

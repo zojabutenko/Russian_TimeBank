@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Грузия не будет заявлять своих наблюдателей на второй тур президентских выборов на Украине, сообщает ИТАР-ТАСС. Об этом 
+	
+	
+	<EVENT>заявила</EVENT>
+	
+	
+	 пресс-секретарь президента Грузии Манана Манджгаладзе.По ее словам, такое решение 
+	
+	
+	<EVENT>связано</EVENT>
+	
+	
+	 с &quot;различными мнениями&quot; по поводу грузинских наблюдателей на Украине. Всех грузин, 
+	
+	
+	<EVENT>приглашенных</EVENT>
+	
+	
+	 на Украину в качестве международных наблюдателей, Манджгаладзе 
+	
+	
+	<EVENT>призвала</EVENT>
+	
+	
+	 вернуться обратно в Грузию.Конфликт вокруг граждан Грузии, 
+	
+	
+	<EVENT>прибывших</EVENT>
+	
+	
+	 на Украину для наблюдения за выборами, 
+	
+	
+	<EVENT>разгорелся</EVENT>
+	
+	
+	 во время первого тура голосования. Грузия 
+	
+	
+	<EVENT>заявила</EVENT>
+	
+	
+	 около трех тысяч своих представителей, что практически равно общему числу наблюдателей от всех остальных стран, но получила отказ от Центризбиркома Украины. Позднее на избирательных участках Донецка 
+	
+	
+	<EVENT>задержали</EVENT>
+	
+	
+	 несколько грузин, 
+	
+	
+	<EVENT>выдававших</EVENT>
+	
+	
+	 себя за наблюдателей.В отношении задержанных были 
+	
+	
+	<EVENT>возбуждены</EVENT>
+	
+	
+	 уголовные дела, так как у грузин 
+	
+	
+	<EVENT>нашли</EVENT>
+	
+	
+	 поддельные документы. 
+	
+	
+	<EVENT>Сообщалось</EVENT>
+	
+	
+	, что в Донецк 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-02-02">накануне</TIMEX3>
+	
+	
+	
+	 выборов в общей сложности прибыли около 500 граждан Грузии, все они объясняли свое присутствие на Украине визитами к девушкам, с которыми познакомились по интернету.Мэр Донецка Александр Лукьянченко 
+	
+	
+	<EVENT>утверждал</EVENT>
+	
+	
+	, что грузины собираются дожидаться второго тура выборов, а непосредственно перед голосованием в Донецк прибудут еще несколько групп из Грузии.Второй тур президентских выборов состоится 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-02-07">7 февраля</TIMEX3>
+	
+	
+	
+	, участие в нем примут Виктор Янукович и Юлия Тимошенко.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">связано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">приглашенных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">призвала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">прибывших</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">разгорелся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">задержали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="NONE">выдававших</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">возбуждены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">нашли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="Ind">Сообщалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Imp" modality="Ind">утверждал</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

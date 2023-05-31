@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Банк России резко 
+	
+	
+	<EVENT>снизил</EVENT>
+	
+	
+	 официальные курсы доллара и евро на фоне подъема цен на нефть. 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-02-04">4 февраля</TIMEX3>
+	
+	
+	
+	 европейская валюта будет стоить 41,76 рубля, что на 29 копеек меньше, чем 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-03">днем ранее</TIMEX3>
+	
+	
+	
+	. Курс доллара, в свою очередь, 
+	
+	
+	<EVENT>опустился</EVENT>
+	
+	
+	 ниже отметки в 30 рублей. 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2010-01-28">четверг</TIMEX3>
+	
+	
+	
+	 американская валюта будет стоить 29,87 рубля  - сразу на 30 копеек меньше, чем в 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-02-03">среду, 3 февраля</TIMEX3>
+	
+	
+	
+	.На валютных торгах на ММВБ евро и доллар также 
+	
+	
+	<EVENT>падают</EVENT>
+	
+	
+	. К середине торговой сессии средневзвешенный курс евро 
+	
+	
+	<EVENT>снизился</EVENT>
+	
+	
+	 на 23 копейки до 41,82 рубля, а доллара - на 30 копеек до 29,87 рубля.На бирже NYMEX баррель нефти 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>торгуется</EVENT>
+	
+	
+	 выше отметки в 77 долларов. Это 
+	
+	
+	<EVENT>создает</EVENT>
+	
+	
+	 дополнительный спрос на российские активы.Отечественные экспортеры, которые получают за свои товары доллары и евро, 
+	
+	
+	<EVENT>меняют</EVENT>
+	
+	
+	 их на рубли, чтобы обеспечить деятельность в России. Чем больше 
+	
+	
+	<EVENT>стоит</EVENT>
+	
+	
+	 нефть, тем больше долларов 
+	
+	
+	<EVENT>попадает</EVENT>
+	
+	
+	 на рынок, а спрос на рубли увеличивается.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">снизил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">опустился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">падают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">снизился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">торгуется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">создает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">меняют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">стоит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">попадает</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

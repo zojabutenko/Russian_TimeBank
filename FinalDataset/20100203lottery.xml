@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Жительнице Флориды  Дорис &quot;Диди&quot; Мур (Dorice &quot;DeeDee&quot; Moore), 
+	
+	
+	<EVENT>предъявлено</EVENT>
+	
+	
+	 обвинение в соучастии в убийстве &quot;лотерейного миллионера&quot; - Абрахама Шекспира (Abraham Shakespeare), сообщает Associated Press во 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-02-02">вторник</TIMEX3>
+	
+	
+	
+	, 2 февраля.37-летняя Мур, сообщили представители полиции округа Хиллсборо, совладелица дома во Флориде, во дворе которого были найдены останки Шекспира. В чем именно обвиняется Мур, пока не 
+	
+	
+	<EVENT>уточняется</EVENT>
+	
+	
+	, известно лишь, что она подружилась с Шекспиром незадолго до его исчезновения. Мур 
+	
+	
+	<EVENT>взята</EVENT>
+	
+	
+	 под стражу и помещена в окружную тюрьму. Второму совладельцу дома, сожителю Мур, никаких обвинений не 
+	
+	
+	<EVENT>предъявлено</EVENT>
+	
+	
+	, сообщили представители полиции, он остается на свободе.Бывший водитель грузовика Абрахам Шекспир 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2006">2006 году</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>выиграл</EVENT>
+	
+	
+	 в лотерею 31 миллион долларов. 17 миллионов ему было 
+	
+	
+	<EVENT>выплачено</EVENT>
+	
+	
+	 единовременно. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2009-11">ноябре 2009 года</TIMEX3>
+	
+	
+	
+	 родственники Шекспира 
+	
+	
+	<EVENT>обратились</EVENT>
+	
+	
+	 в полицию с заявлением о его исчезновении, 
+	
+	
+	<EVENT>заявив</EVENT>
+	
+	
+	, что он не выходил с ними на связь 
+	<SIGNAL sid="s3">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2010-04">апреля</TIMEX3>
+	
+	
+	
+	.
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2010-01" mod="END">конце января 2010 года</TIMEX3>
+	
+	
+	
+	 во дворе дома в городе Плант-Сити, округ Хиллсборо, штат Флорида, были 
+	
+	
+	<EVENT>найдены</EVENT>
+	
+	
+	 останки, 
+	
+	
+	<EVENT>принадлежащие</EVENT>
+	
+	
+	, как установлено Абрахаму Шекспиру. Тело, сообщалось тогда, 
+	
+	
+	<EVENT>пролежало</EVENT>
+	
+	
+	 под бетонными плитами во дворе длительное время.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">предъявлено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">уточняется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">взята</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">предъявлено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">выиграл</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выплачено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">обратились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">заявив</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s3">найдены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">принадлежащие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пролежало</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

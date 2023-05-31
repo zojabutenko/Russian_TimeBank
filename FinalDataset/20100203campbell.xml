@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Новозеландский спортсмен Логан Кэмпбелл 
+	
+	
+	<EVENT>выставил</EVENT>
+	
+	
+	 на аукцион свой бордель, средства от продажи которого будут потрачены на подготовку и участие в Олимпиаде-2012. 
+	
+	
+	<EVENT>Расположенный</EVENT>
+	
+	
+	 в Окленде бордель &quot;Auckland's most exclusive Gentleman's club&quot; 
+	
+	
+	<EVENT>выставлен</EVENT>
+	
+	
+	 на новозеландский интернет-аукцион Trademe, сообщает Associated Press.На момент написания заметки цена борделя на аукционе 
+	
+	
+	<EVENT>составляла</EVENT>
+	
+	
+	 18050 долларов (следующий шаг - 18100 долларов). Ранее Кэмпбелл, 
+	
+	
+	<EVENT>выступающий</EVENT>
+	
+	
+	 в соревнованиях по тхэквондо, 
+	
+	
+	<EVENT>заявлял</EVENT>
+	
+	
+	, что ему необходимо 210 тысяч долларов для участия в Олимпиаде в Лондоне.
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2008">2008 году</TIMEX3>
+	
+	
+	
+	 Кэмпбелл 
+	
+	
+	<EVENT>участвовал</EVENT>
+	
+	
+	 в летних Олимпийский играх в Пекине, но потерпел поражение в 1/8 финала. Подготовка и участие в Играх-2008 
+	
+	
+	<EVENT>обошлись</EVENT>
+	
+	
+	 ему в 110 тысяч долларов, и эти расходы на себя взяли родители спортсмена.Найти деньги на подготовку к Олимпиаде-2012 Кэмпбелл 
+	
+	
+	<EVENT>решил</EVENT>
+	
+	
+	 сам. Именно для этого он 
+	
+	
+	<EVENT>открыл</EVENT>
+	
+	
+	 бордель в Окленде. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 у него 
+	
+	
+	<EVENT>возникли</EVENT>
+	
+	
+	 неприятности с Олимпийским комитетом Новой Зеландии, который грозил спортсмену судебным разбирательством, если он не перестанет говорить о связи между борделем и Олимпиадой.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выставил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">Расположенный</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выставлен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Imp" modality="Ind">составляла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">выступающий</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">заявлял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind" SignalID="s1">участвовал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обошлись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">решил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">открыл</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">возникли</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

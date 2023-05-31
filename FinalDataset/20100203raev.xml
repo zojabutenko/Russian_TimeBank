@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Директор государственного агентства культуры при правительстве Киргизии Султан Раев 
+	
+	
+	<EVENT>отправлен</EVENT>
+	
+	
+	 в отставку, сообщает ИА Фергана.Ру. Распоряжение об этом 
+	
+	
+	<EVENT>подписал</EVENT>
+	
+	
+	 президент страны Курманбек Бакиев. Причиной отставки чиновника 
+	
+	
+	<EVENT>стал</EVENT>
+	
+	
+	 скандал вокруг выставки американского фотографа и публициста Сергея Мельникоффа.По мнению главы парламентской фракции &quot;Ак-Жол&quot; Улугбека Ормонова, приглашение фотографа в Киргизию 
+	
+	
+	<EVENT>может</EVENT>
+	
+	
+	 &quot;отрицательно сказаться на взаимоотношениях с Россией&quot;. Выставка Мельникоффа &quot;Земля Кыргызов&quot;, которая должна была пройти в Бишкеке, уже 
+	
+	
+	<EVENT>отменена</EVENT>
+	
+	
+	.Сергей Мельникофф известен тем, что 
+	
+	
+	<EVENT>занимает</EVENT>
+	
+	
+	 довольно агрессивную позицию по отношению к действующим российским властям и к России вообще, 
+	
+	
+	<EVENT>называя</EVENT>
+	
+	
+	 себя &quot;диссидентом советской эпохи&quot;. Он 
+	
+	
+	<EVENT>является</EVENT>
+	
+	
+	 одним из создателей и основным автором сайта Gulag.Ipvnews.org.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отправлен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подписал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">может</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отменена</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">занимает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">называя</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">является</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

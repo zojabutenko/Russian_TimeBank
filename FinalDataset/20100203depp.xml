@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Джонни Депп намерен снять документальный фильм о гитаристе группы The Rolling Stones Ките Ричардсе. Об этом сам актер 
+	
+	
+	<EVENT>сообщил</EVENT>
+	
+	
+	 в интервью сербскому изданию Politika.Депп 
+	
+	
+	<EVENT>утверждает</EVENT>
+	
+	
+	, что уже получил согласие Ричардса принять участие в проекте и готов приступить к работе в ближайшие 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P1W">недели</TIMEX3>
+	
+	
+	
+	. &quot;Я очень тронут, что Кит согласился позировать перед моими камерами&quot;, - сказал актер.Напомним, что Деппа и Ричардса связывает давняя дружба, актер не раз говорил, что Ричардс является его кумиром. 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2007">2007 году</TIMEX3>
+	
+	
+	
+	 они вместе 
+	
+	
+	<EVENT>
+		
+		
+		
+		
+		<EVENT>снял</EVENT>
+		
+		
+		ись
+	
+	
+	</EVENT>
+	
+	
+	 в фильме &quot;Пираты Карибского моря: На краю света&quot;, в котором гитарист сыграл роль отца Джека Воробья.Фильм о Ките Ричардсе будет не первым режиссерским проектом Деппа. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="1997">1997 году</TIMEX3>
+	
+	
+	
+	 он снял картину под названием &quot;Храбрец&quot;, весьма прохладно 
+	
+	
+	<EVENT>встреченную</EVENT>
+	
+	
+	 критиками в США.Что касается самого музыканта, то 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2009-10">октябре 2009 года</TIMEX3>
+	
+	
+	
+	 он был признан &quot;бессмертным рокером&quot; и получил из рук Джонни Деппа награду Scream Awards, 
+	
+	
+	<EVENT>учрежденную</EVENT>
+	
+	
+	 американским телеканалом Spike.Ричардс 
+	
+	
+	<EVENT>является</EVENT>
+	
+	
+	 бессменным гитаристом The Rolling Stones вот уже 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DURATION" value="P47Y">47 лет</TIMEX3>
+	
+	
+	
+	. В составе &quot;роллингов&quot; музыкант 
+	
+	
+	<EVENT>записал</EVENT>
+	
+	
+	 25 студийных и 10 концертных альбомов.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">утверждает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">снялись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">снял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">встреченную</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">учрежденную</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">является</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">записал</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

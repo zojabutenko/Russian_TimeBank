@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Суд Житомирской области 
+	
+	
+	<EVENT>признал</EVENT>
+	
+	
+	 трех бывших сотрудников предприятия &quot;МиГремонт&quot; виновными в государственной измене и сборе секретной документации по заданию китайских спецслужб. Об этом 
+	
+	
+	<EVENT>говорится</EVENT>
+	
+	
+	 в сообщении Службы безопасности Украины.Супруги Игорь и Наталья Манжос 
+	
+	
+	<EVENT>получили</EVENT>
+	
+	
+	 11 и 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P10Y">10 лет</TIMEX3>
+	
+	
+	
+	 тюрьмы соответственно, их сообщник Вадим Ковальчук приговорен к 7 годам тюрьмы.Украинцы были 
+	
+	
+	<EVENT>арестованы</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2008-04-15">15 апреля 2008 года</TIMEX3>
+	
+	
+	
+	 с поличным во время копирования секретных документов. Сотрудники СБУ 
+	
+	
+	<EVENT>начали</EVENT>
+	
+	
+	 следить за супругами Манжос и Ковальчуком еще 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t9" type="DATE" value="2007">2007 году</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>заподозрив</EVENT>
+	
+	
+	 их в желании получить доступ к военно-техническим документам.В ходе следствия 
+	
+	
+	<EVENT>выяснилось</EVENT>
+	
+	
+	, что сотрудники &quot;МиГремонта&quot; действовали по указанию спецслужб Китая и должны были получить за передачу секретных сведений 800 тысяч долларов. В СБУ 
+	
+	
+	<EVENT>отмечают</EVENT>
+	
+	
+	, что ущерб от передачи документов Китаю составил бы несколько миллиардов долларов.Предприятие &quot;МиГремонт&quot;, расположенное в Запорожье, 
+	
+	
+	<EVENT>занимается</EVENT>
+	
+	
+	 ремонтом самолетов МиГ-25, Су-17, Су-25 и Су-27 всех модификаций и входит в состав Министерства обороны Украины.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">признал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">говорится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">арестованы</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">начали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">заподозрив</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выяснилось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отмечают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">занимается</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

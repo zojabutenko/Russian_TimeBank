@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Игналинская АЭС в Литве 
+	
+	
+	<EVENT>прекратила</EVENT>
+	
+	
+	 работу 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-12-31">31 декабря</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="TIME" value="2010-01-01T23:00">23:00</TIMEX3>
+	
+	
+	
+	 по местному времени (в полночь 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-01-01">1 января</TIMEX3>
+	
+	
+	
+	 по московскому времени). Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 агентство &quot;Интерфакс&quot;. Единственный реактор станции был 
+	
+	
+	<EVENT>выведен</EVENT>
+	
+	
+	 из эксплуатации по плану.Вывод станции из эксплуатации 
+	
+	
+	<EVENT>связан</EVENT>
+	
+	
+	 с требованиями Евросоюза. Специалисты из ЕС 
+	
+	
+	<EVENT>считали</EVENT>
+	
+	
+	 станцию устаревшей и отмечали, что на ней установлен реактор &quot;чернобыльского типа&quot;. В Литве 
+	
+	
+	<EVENT>пытались</EVENT>
+	
+	
+	 провести референдум об отсрочке прекращения работы Игналинской АЭС, но он не состоялся из-за слишком низкой явки.Как сообщалось ранее, около 35 процентов необходимой стране электроэнергии 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="PRESENT_REF">теперь</TIMEX3>
+	
+	
+	
+	 будет закупаться на аукционах, где будут представлены предложения финских, эстонских, российских, латвийских, белорусских и украинских компаний. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2009-03">марте 2009 года</TIMEX3>
+	
+	
+	
+	 Литва 
+	
+	
+	<EVENT>подписала</EVENT>
+	
+	
+	 десятилетний контракт на поставки электроэнергии из России. Кроме того, выведенную из эксплуатации АЭС частично заменят другие литовские предприятия, в частности, теплоэлектростанция в Электренай.Ранее 
+	
+	
+	<EVENT>появлялись</EVENT>
+	
+	
+	 сообщения о том, что Литва 
+	
+	
+	<EVENT>планирует</EVENT>
+	
+	
+	 строительство новой АЭС, которая будет введена в строй не ранее 
+	
+	
+	
+	<TIMEX3 tid="t12" type="DATE" value="2016">2016 года</TIMEX3>
+	
+	
+	
+	. По другим данным, современная станция будет 
+	
+	
+	<EVENT>построена</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s3">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t15" type="DATE" value="2018">2018 году</TIMEX3>
+	
+	
+	
+	.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/01/01" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/01/01</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">прекратила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выведен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">связан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Imp" modality="Ind">считали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">пытались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">подписала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind">появлялись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">планирует</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s3">построена</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

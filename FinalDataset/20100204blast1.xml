@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Утром 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-04">4 февраля</TIMEX3>
+	
+	
+	
+	 возле похоронного бюро, 
+	
+	
+	<EVENT>находящегося</EVENT>
+	
+	
+	 в Приморском районе Одессы, 
+	
+	
+	<EVENT>произошел</EVENT>
+	
+	
+	 взрыв. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 &quot;Репортер&quot;.
+По информации издания, взрыв 
+	
+	
+	<EVENT>произошел</EVENT>
+	
+	
+	 под аркой, 
+	
+	
+	<EVENT>ведущей</EVENT>
+	
+	
+	 во внутренний дворик. В результате было 
+	
+	
+	<EVENT>повреждено</EVENT>
+	
+	
+	 помещение бюро.
+Что стало причиной взрыва, пока неизвестно. По неподтвержденной информации, при взрыве был 
+	
+	
+	<EVENT>ранен</EVENT>
+	
+	
+	 директор бюро.
+На место происшествия уже 
+	
+	
+	<EVENT>прибыли</EVENT>
+	
+	
+	 сотрудники милиции.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">находящегося</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">произошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">произошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">ведущей</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">повреждено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="NONE">ранен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">прибыли</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

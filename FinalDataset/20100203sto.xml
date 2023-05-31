@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Многопользовательская игра Star Trek Online 
+	
+	
+	<EVENT>вышла</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-02">2 февраля</TIMEX3>
+	
+	
+	
+	 в США с миллионом зарегистрированных пользователей. Об этом 
+	
+	
+	<EVENT>говорится</EVENT>
+	
+	
+	 в пресс-релизе разработчика игры, компании Cryptic Studios.Насколько можно судить по сообщению, в заявленный миллион входят как пользователи, 
+	
+	
+	<EVENT>оформившие</EVENT>
+	
+	
+	 предварительный заказ на игру и получившие доступ к игре 
+	<SIGNAL sid="s1">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="PAST_REF">несколько дней</TIMEX3>
+	
+	
+	
+	 раньше остальных, так и игроки, 
+	
+	
+	<EVENT>создавшие</EVENT>
+	
+	
+	 учетную запись во время открытого бета-тестирования. Не 
+	
+	
+	<EVENT>учитываются</EVENT>
+	
+	
+	 геймеры, 
+	
+	
+	<EVENT>купившие</EVENT>
+	
+	
+	 игру 
+	
+	
+	
+	<TIMEX3 tid="t4" type="SET" value="P1D" quant="EVERY">в день</TIMEX3>
+	
+	
+	
+	 старта. Оценка числа европейских подписчиков, которые начнут играть 
+	<SIGNAL sid="s2">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-02-05">5 февраля</TIMEX3>
+	
+	
+	
+	, не 
+	
+	
+	<EVENT>приводится</EVENT>
+	
+	
+	.В категории игр для PC интернет-магазина Amazon Star Trek Online 
+	
+	
+	<EVENT>занял</EVENT>
+	
+	
+	 первое место по продажам, 
+	
+	
+	<EVENT>обогнав</EVENT>
+	
+	
+	 Mass Effect 2. Коллекционное издание Star Trek Online 
+	
+	
+	<EVENT>заняло</EVENT>
+	
+	
+	 третье место в списке бестселлеров, 
+	
+	
+	<EVENT>обойдя</EVENT>
+	
+	
+	 The Sims 3.Действие игры Star Trek Online разворачивается 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="24">25 веке</TIMEX3>
+	
+	
+	
+	, в основной временной последовательности сериалов и фильмов &quot;Звездный путь&quot;. Игрок 
+	
+	
+	<EVENT>становится</EVENT>
+	
+	
+	 капитаном космического корабля и может встать на сторону как Федерации, так и 
+	
+	
+	<EVENT>находящейся</EVENT>
+	
+	
+	 в состоянии войны с нею Клингонской империи.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вышла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">говорится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">оформившие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">создавшие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">учитываются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">купившие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">приводится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">занял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE">обогнав</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заняло</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">обойдя</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">становится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">находящейся</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

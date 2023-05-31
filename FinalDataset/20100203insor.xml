@@ -1,0 +1,327 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Институт современного развития (ИНСОР) 
+	
+	
+	<EVENT>подготовил</EVENT>
+	
+	
+	 доклад о политическом и экономическом будущем России, пишет газета &quot;Ведомости&quot;. Эксперты института, попечительский совет которого возглавляет президент России Дмитрий Медведев, 
+	
+	
+	<EVENT>предлагают</EVENT>
+	
+	
+	, помимо прочего, упразднить Министерство внутренних дел, Федеральную службу безопасности, вернуть прямые выборы губернаторов и принять ряд других мер.В основном доклад 
+	
+	
+	<EVENT>касается</EVENT>
+	
+	
+	 политической модернизации в России, которая является неотъемлемой частью модернизации экономической. Газета 
+	
+	
+	<EVENT>отмечает</EVENT>
+	
+	
+	, что многие предложенные в докладе реформы перекликаются с политическим устройством при президенте Борисе Ельцине. Так, в числе мер по модернизации политической системы 
+	
+	
+	<EVENT>называется</EVENT>
+	
+	
+	 снижение минимального порога для прохождения в Госдуму до пяти процентов с нынешних семи, а также создание двух основных партий - право- и левоцентристской.Срок президентских полномочий эксперты ИНСОР 
+	
+	
+	<EVENT>предлагают</EVENT>
+	
+	
+	 снизить 
+	<SIGNAL sid="s1">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P5Y">пяти лет</TIMEX3>
+	
+	
+	
+	, а Госдумы - до четырех. Таким образом, в докладе 
+	
+	
+	<EVENT>предлагается</EVENT>
+	
+	
+	 изменить 
+	
+	
+	<EVENT>принятый</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2008-11">ноябре 2008 года</TIMEX3>
+	
+	
+	
+	 закон об увеличении президентского срока 
+	<SIGNAL sid="s4">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DURATION" value="P6Y">шести лет</TIMEX3>
+	
+	
+	
+	. Эксперты также 
+	
+	
+	<EVENT>предлагают</EVENT>
+	
+	
+	 вернуть 
+	
+	
+	<EVENT>отмененные</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s5">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2004">2004 году</TIMEX3>
+	
+	
+	
+	 губернаторские выборы и ввести голосование при избрании членов Совета федерации.МВД должно быть ликвидировано, а его место должна занять Федеральная служба криминальной полиции. В регионах 
+	
+	
+	<EVENT>предлагается</EVENT>
+	
+	
+	 создать муниципальные отряды милиции, а внутренние войска заменить национальной гвардией. ГАИ также должна быть ликвидирована, ее функции возьмут на себя другие милицейские ведомства.ФСБ эксперты 
+	
+	
+	<EVENT>предлагают</EVENT>
+	
+	
+	 разделить на службу контрразведки и на Федеральную службу по охране Конституции, которая возьмет на себя борьбу с терроризмом и сепаратизмом.После ряда политических реформ Россия должна стать полноправным участником многих международных организаций и блоков, считают в ИНСОР. Так, РФ в перспективе должна будет вступить в Евросоюз и стать членом НАТО, а также наладить стратегическое партнерство с США.Доклад &quot;
+	<SIGNAL sid="s2">до</SIGNAL>
+	ссия 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="20">XXI века</TIMEX3>
+	
+	
+	
+	: образ желаемого 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2010-02-04">завтра</TIMEX3>
+	
+	
+	
+	&quot; 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="PAST_REF">несколько недель назад</TIMEX3>
+	
+	
+	
+	 был направлен Медведеву и помощнику президента Аркадию Дворковичу, однако никакого отклика от них не поступило.
+	
+	
+	<EVENT>Стоит</EVENT>
+	
+	
+	 отметить, что многие пункты доклада не совпадают с намерениями президента РФ. Так, Медведев ранее 
+	
+	
+	<EVENT>высказывался</EVENT>
+	
+	
+	, что не видит никакого смысла в возвращении губернаторских выборов, а также выступал за федерализацию правоохранительных органов, тогда как 
+	
+	
+	<EVENT>предложенные</EVENT>
+	
+	
+	 экспертами ИНСОР реформы 
+	
+	
+	<EVENT>подразумевают</EVENT>
+	
+	
+	 децентрализацию.ИНСОР не в первый раз 
+	
+	
+	<EVENT>выступает</EVENT>
+	
+	
+	 с предложениями по реформированию политической системы в России. Так, 
+	<SIGNAL sid="s6">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t17" type="DATE" value="2008" mod="END">конце 2008 года</TIMEX3>
+	
+	
+	
+	 эксперты института 
+	
+	
+	<EVENT>разработали</EVENT>
+	
+	
+	 концепцию ее либерализации и отказа от 
+	
+	
+	<EVENT>действующей</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s7">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t18" type="DATE" value="PRESENT_REF">настоящее время</TIMEX3>
+	
+	
+	
+	 системы &quot;ручного управления&quot;. В концепции 
+	
+	
+	<EVENT>отмечалось</EVENT>
+	
+	
+	, что такая реформа может быть проведена только благодаря &quot;импульсу сверху&quot; и при поддержке президентской власти.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подготовил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предлагают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">касается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отмечает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">называется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предлагают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предлагается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">принятый</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предлагают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">отмененные</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предлагается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предлагают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Стоит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Imp" modality="Ind">высказывался</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="NONE">предложенные</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">подразумевают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">выступает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">разработали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">действующей</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei20" pos="VERB" tense="Past" aspect="Imp" modality="Ind">отмечалось</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

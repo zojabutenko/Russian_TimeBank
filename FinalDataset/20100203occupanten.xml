@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+В интернет 
+	
+	
+	<EVENT>выложен</EVENT>
+	
+	
+	 список жителей Латвии, которые в оформлении своих автомобилей используют российскую символику. Перечень был 
+	
+	
+	<EVENT>создан</EVENT>
+	
+	
+	 в рамках акции латышских националистов &quot;Выяви пятую колонну!&quot; и призван, согласно их задумке, выявить &quot;наиболее агрессивно 
+	
+	
+	<EVENT>настроенных</EVENT>
+	
+	
+	 колонистов&quot;. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 Novonews.
+	
+	
+	<EVENT>Вывешенный</EVENT>
+	
+	
+	 на сайте www.latvietislatvija.com список 
+	
+	
+	<EVENT>включает</EVENT>
+	
+	
+	 в себя данные о 118 автовладельцах, в том числе их имена, фамилии, точные адреса и номера регистрации. Как отмечает Novonews, такая информация 
+	
+	
+	<EVENT>может</EVENT>
+	
+	
+	 быть официально получена только в государственных учреждениях - полиции и дирекции безопасности дорожного движения (CSDD).Акция &quot;Выяви пятую колонну!&quot; началась 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009-03">марте 2009 года</TIMEX3>
+	
+	
+	
+	. Всем &quot;сознательным гражданам&quot; в обращении на сайте Клуба латвийских националистов 
+	
+	
+	<EVENT>предлагали</EVENT>
+	
+	
+	 фотографировать номера автомобилей, на которых обнаруживалась российская или пророссийская символика, например, георгиевская лента или флаг на приборной панели.Впоследствии фотографии 
+	
+	
+	<EVENT>вывешивались</EVENT>
+	
+	
+	 в интернете. Целью акции, по данным Novonews, было выявление &quot;наиболее агрессивно 
+	
+	
+	<EVENT>настроенных</EVENT>
+	
+	
+	 колонистов&quot; в связи с &quot;приближением балагана 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-05-09">9 мая</TIMEX3>
+	
+	
+	
+	 и выборов&quot; и последующая передача информации о них в правоохранительные органы.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выложен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">создан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">настроенных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">Вывешенный</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">включает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">может</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind">предлагали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">вывешивались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">настроенных</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

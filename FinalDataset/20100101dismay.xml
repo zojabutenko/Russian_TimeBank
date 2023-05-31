@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Пресс-служба Администрации США в ночь 
+	<SIGNAL sid="s1">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-01-01">пятницу</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>распространила</EVENT>
+	
+	
+	 сообщение, в котором выразила тревогу в связи с информацией о том, что московские власти не 
+	
+	
+	<EVENT>позволили</EVENT>
+	
+	
+	 гражданам реализовать 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-12-31">31 декабря</TIMEX3>
+	
+	
+	
+	 право на мирные собрания.&quot;В частности, США с озабоченностью 
+	
+	
+	<EVENT>отмечают</EVENT>
+	
+	
+	 задержание протестующих, в том числе выдающейся правозащитницы Людмилы Алексеевой, и сообщения о ненадлежащем обращении с содержащимися под стражей&quot;, - говорится в пресс-релизе.Свобода слова и свобода собраний 
+	
+	
+	<EVENT>являются</EVENT>
+	
+	
+	 общечеловеческими правами, которые правительства любой страны должны защищать и признавать, добавили в Белом доме.Напомним, вечером 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2009-12-31">четверг</TIMEX3>
+	
+	
+	
+	 на Триумфальной площади в Москве были 
+	
+	
+	<EVENT>задержаны</EVENT>
+	
+	
+	, по разным данным, от 30 до 50 человек. Часть из них 
+	
+	
+	<EVENT>пришла</EVENT>
+	
+	
+	 потребовать соблюдения 31-й статьи Конституции России, 
+	
+	
+	<EVENT>гарантирующей</EVENT>
+	
+	
+	 свободу мирных собраний, однако милиция задержала и нескольких прохожих, 
+	
+	
+	<EVENT>участвовавших</EVENT>
+	
+	
+	 в народных гуляниях. По сообщению ряда СМИ, сотрудники правоохранительных органов 
+	
+	
+	<EVENT>вели</EVENT>
+	
+	
+	 себя с гражданами особенно жестко, а главу Московской Хельсинкской группы Алексееву едва не сбили с ног.Задержанные были 
+	
+	
+	<EVENT>доставлены</EVENT>
+	
+	
+	 в отделения милиции, где на них составили протоколы об административных правонарушениях. Позже все были 
+	
+	
+	<EVENT>отпущены</EVENT>
+	
+	
+	. Как сообщает радиостанция &quot;Эхо Москвы&quot;, соответствующее распоряжение 
+	
+	
+	<EVENT>отдал</EVENT>
+	
+	
+	 начальник ГУВД Москвы Владимир Колокольцев.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/01/01" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/01/01</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">распространила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">позволили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отмечают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">являются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержаны</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пришла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">гарантирующей</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="NONE">участвовавших</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">вели</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">доставлены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отпущены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отдал</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

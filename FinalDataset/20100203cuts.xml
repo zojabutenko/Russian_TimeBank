@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Правительство Великобритании намерено сократить часть высшего офицерского состава вооруженных сил, а также ввести новый пост командующего объединенными операциями. Данные инициативы должны быть представлены правительством в рамках реформы, целью которой является сокращение расходов оборонного ведомства. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 The Daily Telegraph.Как сообщает издание, для оптимизации расходов британский кабинет предложит провести сокращения в высшем командном составе армии, авиации и флота. В правительстве 
+	
+	
+	<EVENT>сообщают</EVENT>
+	
+	
+	, что в последнее 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P1DE">десятилетие</TIMEX3>
+	
+	
+	
+	, несмотря на политику сокращения вооруженных сил, число высших офицеров продолжало расти.Так, 
+	<SIGNAL sid="s1">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="PRESENT_REF">данный момент</TIMEX3>
+	
+	
+	
+	 в войсках 
+	
+	
+	<EVENT>насчитывается</EVENT>
+	
+	
+	 47 так 
+	
+	
+	<EVENT>называемых</EVENT>
+	
+	
+	 &quot;трехзвездочных&quot; генералов - генерал-лейтенантов, вице-адмиралов и маршалов авиации. Их общий годовой заработок 
+	
+	
+	<EVENT>составляет</EVENT>
+	
+	
+	 6,8 миллиона фунтов стерлингов. Газета также 
+	
+	
+	<EVENT>отмечает</EVENT>
+	
+	
+	, что, согласно исследованию от 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2008">2008 года</TIMEX3>
+	
+	
+	
+	, в британском Королевском Военно-Морском флоте число старших офицеров превышает количество действующих кораблей.Кроме того, в целях улучшения взаимодействия между армией, флотом и ВВС, правительство также предложит ввести должность командующего объединенными операциями в аналогичном ранге с главами родов войск.Руководство армии и флота ранее 
+	
+	
+	<EVENT>выступали</EVENT>
+	
+	
+	 с противоположными предложениями относительно сокращении финансирования вооруженных сил. Так, глава сухопутных войск генерал сэр Дэвид Ричардс (David Richards) 
+	
+	
+	<EVENT>считает</EVENT>
+	
+	
+	, что основное финансирование должно быть предоставлено армии, в то время как глава Королевского Морского Флота адмирал сэр Марк Стэнхоуп (Mark Stanhope) 
+	
+	
+	<EVENT>заявлял</EVENT>
+	
+	
+	, что Великобритания должна оставаться ведущей морской державой.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" SignalID="s1">насчитывается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">называемых</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">составляет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отмечает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">выступали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">считает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">заявлял</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

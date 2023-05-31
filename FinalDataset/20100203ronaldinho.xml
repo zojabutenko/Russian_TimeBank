@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Футбольный клуб &quot;Милан&quot; 
+	
+	
+	<EVENT>оштрафовал</EVENT>
+	
+	
+	 29-летнего бразильского полузащитника Роналдиньо за то, что перед матчем чемпионата Италии с &quot;Интером&quot; он 
+	
+	
+	<EVENT>устроил</EVENT>
+	
+	
+	 трехдневную гулянку в номере одного из миланских отелей. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 интернет-издание Football Italia. 
+	
+	
+	<EVENT>Подчеркивается</EVENT>
+	
+	
+	, что штраф &quot;неофициален&quot;, а его сумма не называется.Деньги, которые выплатит Роналдиньо, будут 
+	
+	
+	<EVENT>направлены</EVENT>
+	
+	
+	 в благотворительный фонд &quot;Милана&quot;.Матч &quot;Интер&quot; - &quot;Милан&quot; 
+	
+	
+	<EVENT>прошел</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-01-24">24 января 2010 года</TIMEX3>
+	
+	
+	
+	 и закончился победой &quot;Интера&quot; со счетом 2:0. После этого &quot;Интер&quot;, 
+	
+	
+	<EVENT>лидирующий</EVENT>
+	
+	
+	 в чемпионате страны, 
+	
+	
+	<EVENT>оторвался</EVENT>
+	
+	
+	 от преследователей на девять очков.
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t9" type="DATE" value="2010-02" mod="START">начале февраля</TIMEX3>
+	
+	
+	
+	 итальянские СМИ 
+	
+	
+	<EVENT>сообщили</EVENT>
+	
+	
+	, что перед игрой с &quot;Интером&quot; Роналдиньо 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DURATION" value="P3D">три дня</TIMEX3>
+	
+	
+	
+	 развлекался в отеле, 
+	
+	
+	<EVENT>потратив</EVENT>
+	
+	
+	 за это время 75 тысяч евро. На матч, по данным СМИ, бразилец 
+	
+	
+	<EVENT>отправился</EVENT>
+	
+	
+	 непосредственно из отеля.В чемпионате Италии сезона-
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2009">2009</TIMEX3>
+	
+	
+	
+	/
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2010">10</TIMEX3>
+	
+	
+	
+	 Роналдиньо 
+	
+	
+	<EVENT>провел</EVENT>
+	
+	
+	 20 матчей и забил девять мячей. Кроме того, бразилец 
+	
+	
+	<EVENT>отдал</EVENT>
+	
+	
+	 восемь голевых передач.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">оштрафовал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">устроил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Подчеркивается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">направлены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">прошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">лидирующий</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">оторвался</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">сообщили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">потратив</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отправился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">провел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отдал</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

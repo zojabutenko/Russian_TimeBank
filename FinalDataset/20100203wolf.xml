@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+В московском отеле Ritz-Carlton 
+	
+	
+	<EVENT>состоялась</EVENT>
+	
+	
+	 пресс-конференция исполнителей главных ролей в фильме &quot;Человек-волк&quot; Бенисио Дель Торо, Эмили Блант и Хьюго Уивинга, которые прибыли в российскую столицу на премьеру картины.В частности, Дель Торо, который не только сыграл в картине, но и выступил в качестве ее продюсера, 
+	
+	
+	<EVENT>выразил</EVENT>
+	
+	
+	 надежду на то, что классические фильмы ужасов, 
+	
+	
+	<EVENT>являющиеся</EVENT>
+	
+	
+	 основой всего жанра, переживут новое рождение после выхода &quot;Человека-волка&quot;. &quot;Конечно, все будет зависеть от успеха нашего проекта&quot;, - подчеркнул он.На вопрос журналиста о том, как часто ему самому 
+	
+	
+	<EVENT>приходится</EVENT>
+	
+	
+	 иметь дело со &quot;зверем, 
+	
+	
+	<EVENT>сидящем</EVENT>
+	
+	
+	 в каждом человеке&quot;, актер 
+	
+	
+	<EVENT>пошутил</EVENT>
+	
+	
+	, что практически 
+	
+	
+	
+	<TIMEX3 tid="t1" type="SET" value="P1W" quant="EVERY">каждую неделю</TIMEX3>
+	
+	
+	
+	.Он также 
+	
+	
+	<EVENT>признал</EVENT>
+	
+	
+	, что самым сложным для него была не ежедневная трехчасовая процедура наложения грима, а избавление от него. &quot;Представьте. Съемочный 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DURATION" value="P1D">день</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>закончен</EVENT>
+	
+	
+	, все уже давно разошлись по домам, а я все сижу в своем трейлере и пытаюсь очистить лицо. Наши гримеры 
+	
+	
+	<EVENT>проделали</EVENT>
+	
+	
+	 огромную работу, они действительно сделали меня похожим на мою собаку&quot;, - заключил Дель Торо.В свою очередь Хьюго Уивинг 
+	
+	
+	<EVENT>подчеркнул</EVENT>
+	
+	
+	, что эпоха викторианской Англии - наилучший фон для развития сюжетов, подобных изложенному в фильме &quot;Человек-волк&quot;. &quot;Это была эпоха Джека Потрошителя. Времена, когда суеверия были еще сильны, а волк был одним из самых быстрых и страшных существ. Недаром именно тогда 
+	
+	
+	<EVENT>появилось</EVENT>
+	
+	
+	 столько произведений этого жанра, например, о докторе Джекиле и мистере Хайде&quot;, - сказал он.Эмили Блант 
+	
+	
+	<EVENT>добавила</EVENT>
+	
+	
+	, что это было время подавления любых проявлений сексуальности и распространения всевозможных слухов. &quot;Люди были вынуждены скрывать свои истинные чувства&quot;, - уточнила актриса.Все актеры 
+	
+	
+	<EVENT>признали</EVENT>
+	
+	
+	, что Москва произвела на них большое впечатление, и пожалели, что жесткие рамки промо-тура не позволят им задержаться в российской столице надолго.Напомним, что фильм &quot;Человек-волк&quot; - римейк фильма ужасов 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="1941">1941 года</TIMEX3>
+	
+	
+	
+	 режиссера Джорджа Ваггнера с Лоном Чейни и Клодом Рейносом в главных ролях. Герой картины 
+	
+	
+	<EVENT>возвращается</EVENT>
+	
+	
+	 после долгого отсутствия в Англию, чтобы расследовать обстоятельства странной смерти его брата. Постепенно он 
+	
+	
+	<EVENT>начинает</EVENT>
+	
+	
+	 понимать, что жестокое убийство совершено не человеком, а разгадка кроется в доме его отца.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">состоялась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выразил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">являющиеся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">приходится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">сидящем</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пошутил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">признал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">закончен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">проделали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подчеркнул</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">появилось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">добавила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">признали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">возвращается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">начинает</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

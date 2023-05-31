@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+
+	<SIGNAL sid="s1">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010" mod="START">начала 2010 года</TIMEX3>
+	
+	
+	
+	 инфляция в России 
+	
+	
+	<EVENT>достигла</EVENT>
+	
+	
+	 1,7 процента, говорится в официальном пресс-релизе Росстата. 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2009">Годом ранее</TIMEX3>
+	
+	
+	
+	 цены в стране 
+	
+	
+	<EVENT>выросли</EVENT>
+	
+	
+	 в полтора раза больше - на 2,5 процента.
+	<SIGNAL sid="s2">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="2010-01-26">26 января</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s3">по</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t12" type="DATE" value="2010-02-01">1 февраля текущего года</TIMEX3>
+	
+	
+	
+	 инфляция в России 
+	
+	
+	<EVENT>составила</EVENT>
+	
+	
+	 0,1 процента. Сильнее всего, более чем на три процента, 
+	
+	
+	<EVENT>подорожали</EVENT>
+	
+	
+	 репчатый лук и капуста. Цены на сахар 
+	
+	
+	<EVENT>увеличились</EVENT>
+	
+	
+	 на 1,6 процента. Куры, яйца и пшеничная мука 
+	
+	
+	<EVENT>подешевели</EVENT>
+	
+	
+	 на 0,1-0,3 процента.По прогнозам правительства, цены в стране 
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2010">2010 году</TIMEX3>
+	
+	
+	
+	 увеличатся на 6,5-7,5 процента.
+	<SIGNAL sid="s5">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t17" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 инфляция в России 
+	
+	
+	<EVENT>составила</EVENT>
+	
+	
+	 8,8 процента, в шесть раз 
+	
+	
+	<EVENT>превысив</EVENT>
+	
+	
+	 средний показатель в ЕС (1,4 процента). По сравнению 
+	<SIGNAL sid="s6">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t20" type="DATE" value="2008">2008 годом</TIMEX3>
+	
+	
+	
+	, когда инфляция поднялась до 13,3 процента, рост цен в стране существенно 
+	
+	
+	<EVENT>замедлился</EVENT>
+	
+	
+	 из-за падения спроса в условиях кризиса. 
+	<SIGNAL sid="s7">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t23" type="DATE" value="2010-12">декабрь</TIMEX3>
+	
+	
+	
+	 увеличение цен 
+	
+	
+	<EVENT>составило</EVENT>
+	
+	
+	 0,4 процента.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">достигла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выросли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">составила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подорожали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">увеличились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подешевели</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">составила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">превысив</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s4">замедлился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s5">составило</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t12" relatedToTime="t11"/>
+</TimeML>

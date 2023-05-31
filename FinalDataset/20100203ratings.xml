@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Женевская опера не 
+	
+	
+	<EVENT>рекомендовала</EVENT>
+	
+	
+	 одну из своих новых постановок, оперу Берга &quot;Лулу&quot;, к посещению зрителями 
+	<SIGNAL sid="s1">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P16Y">16 лет</TIMEX3>
+	
+	
+	
+	, сообщает швейцарская русскоязычная &quot;Наша газета&quot;.Постановщиком &quot;Лулу&quot; 
+	
+	
+	<EVENT>выступил</EVENT>
+	
+	
+	 режиссер Оливье Пи (Olivier Py). Согласно режиссерскому решению, во время спектакля на большом экране будет демонстрироваться порнофильм. Источник, 
+	
+	
+	<EVENT>побывавший</EVENT>
+	
+	
+	 на репетициях, 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	, что &quot;изображение будет немного размыто, но все отлично видно&quot;. Театр 
+	
+	
+	<EVENT>распространил</EVENT>
+	
+	
+	 среди журналистов и держателей абонементов сообщение, в котором говорится, что порнофильм будут показывать &quot;для передачи намерений композитора и его вдохновителя Франка Ведекинда&quot; (в основе сюжета &quot;Лулу&quot; лежат произведения Ведекинда).Женевская опера вводит возрастные ограничения уже во второй раз: впервые это произошло в сезоне 2005-06 в связи с вагнеровским &quot;Тангейзером&quot; в постановке того же Пи. Во время того спектакля на сцене 
+	
+	
+	<EVENT>совокуплялись</EVENT>
+	
+	
+	 два профессиональных порноактера. &quot;Правда, в тот момент на сцене было много народа, так что это не так 
+	
+	
+	<EVENT>бросалось</EVENT>
+	
+	
+	 в глаза&quot;, - уточнил один из сотрудников театра.Альбан Берг, 
+	
+	
+	<EVENT>умерший</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="1935">1935 году</TIMEX3>
+	
+	
+	
+	, не 
+	
+	
+	<EVENT>успел</EVENT>
+	
+	
+	 завершить инструментовку третьего акта &quot;Лулу&quot;. 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="197">1970-х годах</TIMEX3>
+	
+	
+	
+	 ее 
+	
+	
+	<EVENT>дописал</EVENT>
+	
+	
+	 Фридрих Черха. Тем не менее опера 
+	
+	
+	<EVENT>стала</EVENT>
+	
+	
+	 классикой 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="19">XX века</TIMEX3>
+	
+	
+	
+	. В России 
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2002">2002 году</TIMEX3>
+	
+	
+	
+	 ее 
+	
+	
+	<EVENT>поставил</EVENT>
+	
+	
+	 Дмитрий Бертман в &quot;Геликон-опере&quot;. Премьера спектакля Пи состоится 
+	
+	
+	
+	<TIMEX3 tid="t12" type="DATE" value="2010-02-04">4 февраля</TIMEX3>
+	
+	
+	
+	.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Imp" modality="Ind" polarity="NEG">рекомендовала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выступил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">побывавший</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">распространил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">совокуплялись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">бросалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">умерший</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">успел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">дописал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">поставил</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

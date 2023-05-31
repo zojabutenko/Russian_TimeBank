@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Директор начальной школы Литчфилд в штате Аризона был 
+	
+	
+	<EVENT>отстранен</EVENT>
+	
+	
+	 от работы после того, как 
+	
+	
+	<EVENT>написанное</EVENT>
+	
+	
+	 им шуточное письмо по ошибке 
+	
+	
+	<EVENT>попало</EVENT>
+	
+	
+	 к родителям учеников. Как сообщает Associated Press, даже если Рону Стерру позволят работать в школе, он будет понижен в должности.Родители школьников 
+	
+	
+	<EVENT>получили</EVENT>
+	
+	
+	 письма за подписью Стерра, 
+	
+	
+	<EVENT>содержавшие</EVENT>
+	
+	
+	 следующую фразу: &quot;Программа по математике очень простая. Если ваш ребенок слишком туп или ленив, чтобы освоить программу в классе, поработайте с ним дома и судите сами, что мешает учебе - лень или врожденное слабоумие&quot;.Кроме того, в письме было 
+	
+	
+	<EVENT>написано</EVENT>
+	
+	
+	, что один из учеников страдает от нервного тика, который заставляет его периодически бить себя по лицу. Чтобы он не 
+	
+	
+	<EVENT>выделялся</EVENT>
+	
+	
+	 во время школьной экскурсии, директор 
+	
+	
+	<EVENT>просил</EVENT>
+	
+	
+	 родителей, чтобы остальные дети также &quot;
+	
+	
+	<EVENT>изображали</EVENT>
+	
+	
+	 сумасшедших мазохистов&quot;. В послании также 
+	
+	
+	<EVENT>содержались</EVENT>
+	
+	
+	 насмешки над аллергией на арахис и нервным потрясением, которое один из учеников якобы испытал из-за смерти щенка.
+	
+	
+	<EVENT>Получившие</EVENT>
+	
+	
+	 письма родители были 
+	
+	
+	<EVENT>возмущены</EVENT>
+	
+	
+	 отношением директора к детям. Сам Стерр 
+	
+	
+	<EVENT>утверждает</EVENT>
+	
+	
+	, что не придерживается таких взглядов на воспитательный процесс, а письмо было разослано учителям для того, чтобы продемонстрировать недопустимость подобных убеждений и высмеять тех педагогов, которые мыслят таким образом. Однако одна из учительниц не 
+	
+	
+	<EVENT>прочитала</EVENT>
+	
+	
+	 письмо целиком, распечатала копии и раздала детям для передачи родителям.Стерр 
+	
+	
+	<EVENT>позвонил</EVENT>
+	
+	
+	 каждому из получивших письмо родителей с извинениями. Представители школьного объединения учителей и родителей 
+	
+	
+	<EVENT>уверяют</EVENT>
+	
+	
+	, что любовь Стерра к детям не подлежит сомнениям, и письмо могло быть только неудачной шуткой. Тем не менее, бывшего директора 
+	
+	
+	<EVENT>ожидают</EVENT>
+	
+	
+	 дисциплинарные взыскания.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отстранен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">написанное</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">попало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Imp" modality="NONE">содержавшие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">написано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind" polarity="NEG">выделялся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind">просил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">изображали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Imp" modality="Ind">содержались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">Получившие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="NONE">возмущены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">утверждает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">прочитала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">позвонил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">уверяют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">ожидают</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

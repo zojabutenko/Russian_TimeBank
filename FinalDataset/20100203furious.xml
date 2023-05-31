@@ -1,0 +1,231 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Руководители партии &quot;Единая Россия&quot; во 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-02-02">вторник</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>выразили</EVENT>
+	
+	
+	 возмущение по поводу высказываний спикера Совета Федерации Сергея Миронова о том, что он не во всем 
+	
+	
+	<EVENT>поддерживает</EVENT>
+	
+	
+	 главу российского правительства Владимира Путина. Соответствующие комментарии 
+	
+	
+	<EVENT>размещены</EVENT>
+	
+	
+	 на официальном сайте партии.Так, первый заместитель секретаря президиума генсовета &quot;Единой России&quot; Андрей Исаев 
+	
+	
+	<EVENT>выразил</EVENT>
+	
+	
+	 мнение, что заявление Миронова 
+	
+	
+	<EVENT>является</EVENT>
+	
+	
+	 &quot;его личным моральным крахом&quot;. &quot;Точно так же, как Миронов 
+	
+	
+	<EVENT>лгал</EVENT>
+	
+	
+	, что он поддерживает Путина, он 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-03">сегодня</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>лжет</EVENT>
+	
+	
+	, что поддерживает президента, не 
+	
+	
+	<EVENT>поддерживая</EVENT>
+	
+	
+	 Путина&quot;, - отмечает политик.&quot;Если Миронов 
+	
+	
+	<EVENT>занял</EVENT>
+	
+	
+	 столь оппозиционную позицию, то мне представляется, что для него было бы порядочным и правильным уйти в отставку с 
+	
+	
+	<EVENT>занимаемого</EVENT>
+	
+	
+	 им поста, поста, который предоставлен ему 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-02-03">сегодня</TIMEX3>
+	
+	
+	
+	 &quot;Единой Россией&quot; и никем больше&quot;, - заключает Исаев.Руководитель центрального исполнительного комитета &quot;Единой России&quot; Андрей Воробьев 
+	
+	
+	<EVENT>отмечает</EVENT>
+	
+	
+	, что после выступления Миронова процедура его отзыва с поста спикера Совета Федерации представляется &quot;логичной и целесообразной&quot;. Тем более, что он представляет в верхней палате Заксобрание Санкт-Петербурга, где единоросы располагают большинством голосов.В свою очередь, секретарь президиума генсовета, вице-спикер Госдумы РФ Вячеслав Володин 
+	
+	
+	<EVENT>полагает</EVENT>
+	
+	
+	, что &quot;эти высказывания демонстрируют непорядочность и непоследовательность по отношению к Владимиру Путину - человеку, который многое 
+	
+	
+	<EVENT>сделал</EVENT>
+	
+	
+	 для страны, общества, да и для самого Сергея Миронова&quot;.Миронов сделал 
+	
+	
+	<EVENT>возмутившие</EVENT>
+	
+	
+	 &quot;Единую Россию&quot; заявления в интервью Владимиру Познеру, которое вышло 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-02-01">понедельник</TIMEX3>
+	
+	
+	
+	 на Первом канале. Спикер Совета Федерации, в частности, 
+	
+	
+	<EVENT>сказал</EVENT>
+	
+	
+	, что его партия &quot;Справедливая Россия&quot; была категорически не согласна с бюджетом, который внес Путин, и не одобряет антикризисные меры главы правительства.&quot;Поэтому говорить о том, что мы, и лично я, во всем 
+	
+	
+	<EVENT>поддерживаем</EVENT>
+	
+	
+	 Владимира Путина, это уже устаревшая информация&quot;, - заключил Миронов в беседе с известным тележурналистом.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выразили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">поддерживает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">размещены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выразил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">является</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">лгал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">лжет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="NONE" polarity="NEG">поддерживая</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">занял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">занимаемого</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отмечает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">полагает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сделал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="NONE">возмутившие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">поддерживаем</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

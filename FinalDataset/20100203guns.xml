@@ -1,0 +1,351 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+На совещании по вопросу реформирования МВД Дмитрий Медведев 
+	
+	
+	<EVENT>поручил</EVENT>
+	
+	
+	 министру внутренних дел Рашиду Нургалиеву 
+	<SIGNAL sid="s1">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P10D">10 дней</TIMEX3>
+	
+	
+	
+	 разработать регламент, 
+	
+	
+	<EVENT>регулирующий</EVENT>
+	
+	
+	 оборот травматического оружия. В случае необходимости президент не 
+	
+	
+	<EVENT>исключает</EVENT>
+	
+	
+	 внесения изменений в закон &quot;Об оружии&quot; и другие законодательные документы. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 Infox.ruПо словам Медведева, оборот других видов оружия в России подлежит специальному регулированию, в то время как вопрос с травматическим &quot;
+	
+	
+	<EVENT>урегулирован</EVENT>
+	
+	
+	 очень слабо&quot;. При этом президент 
+	
+	
+	<EVENT>отметил</EVENT>
+	
+	
+	, что применение травматического оружия зачастую приводит к увечьям или смерти.
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-01-27">27 января</TIMEX3>
+	
+	
+	
+	 начальник управления организации лицензионно-разрешительной работы ГУВД Москвы Николай Боев, 
+	
+	
+	<EVENT>выступая</EVENT>
+	
+	
+	  на пресс-конференции, рассказал, что 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 резко выросло число преступлений с использованием травматического оружия. 
+	
+	
+	<EVENT>Говоря</EVENT>
+	
+	
+	 о Москве, он 
+	
+	
+	<EVENT>отметил</EVENT>
+	
+	
+	, что 
+	<SIGNAL sid="s3">в</SIGNAL>
+	<SIGNAL sid="s4">до</SIGNAL>
+	
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2009">2009 года</TIMEX3>
+	
+	
+	
+	 количество 
+	
+	
+	<EVENT>заведенных</EVENT>
+	
+	
+	 по ним уголовных дел в среднем 
+	
+	
+	
+	<TIMEX3 tid="t9" type="SET" value="P1Y" quant="EVERY">за год</TIMEX3>
+	
+	
+	
+	 не превышало 20, в то время как 
+	<SIGNAL sid="s5">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2009">прошедшем году</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>выросло</EVENT>
+	
+	
+	 до 32.По его словам, 
+	<SIGNAL sid="s6">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="PRESENT_REF">сегодняшний день</TIMEX3>
+	
+	
+	
+	 в Москве зарегистрировано 517 тысяч единиц огнестрельного оружия. Из них 213 тысяч единиц 
+	
+	
+	<EVENT>приходятся</EVENT>
+	
+	
+	 на оружие самообороны, к которому относятся травматическое и газовое оружие, а также электрошокеры.Только 
+	<SIGNAL sid="s7">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t18" type="DATE" value="2009-12">декабре прошлого года</TIMEX3>
+	
+	
+	
+	 из травматического оружия были 
+	
+	
+	<EVENT>
+		
+		
+		
+		
+		<EVENT>убит</EVENT>
+		
+		
+		ы
+	
+	
+	</EVENT>
+	
+	
+	 два человека. 
+	
+	
+	
+	<TIMEX3 tid="t21" type="DATE" value="2010-12-26">26 декабря</TIMEX3>
+	
+	
+	
+	 в Москве был убит водитель снегоуборочной машины 60-летний Владимир Демидов. Его автомобиль 
+	
+	
+	<EVENT>задел</EVENT>
+	
+	
+	 на перекрестке иномарку, водитель которой выстрелил в пенсионера из травматического пистолета. Пуля 
+	
+	
+	<EVENT>попала</EVENT>
+	
+	
+	 Демидову в ногу, и он умер от потери крови. По подозрению в убийстве был 
+	
+	
+	<EVENT>задержан</EVENT>
+	
+	
+	 подполковник милиции Анатолий Маурин.
+	
+	
+	
+	<TIMEX3 tid="t23" type="DATE" value="2010-12-22">22 декабря</TIMEX3>
+	
+	
+	
+	 в Подольском районе Подмосковья  был убит настоятель церкви протоиерей Александр Филиппов. Когда он 
+	
+	
+	<EVENT>вышел</EVENT>
+	
+	
+	 на лестничную клетку своего дома, чтобы  сделать замечание 
+	
+	
+	<EVENT>находившимся</EVENT>
+	
+	
+	 там мужчинам, один из них 
+	
+	
+	<EVENT>выстрелил</EVENT>
+	
+	
+	 в священника из травматического пистолета, 
+	
+	
+	<EVENT>переделанного</EVENT>
+	
+	
+	 для стрельбы боевыми патронами.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">поручил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">регулирующий</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">исключает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">урегулирован</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">выступая</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">Говоря</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">заведенных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">выросло</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">приходятся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s4">убиты</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="NONE">убит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">задел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind">попала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вышел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Past" aspect="Imp" modality="NONE">находившимся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei20" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выстрелил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei21" pos="VERB" tense="Past" aspect="Perf" modality="NONE">переделанного</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t8" relatedToTime="t2"/>
+</TimeML>

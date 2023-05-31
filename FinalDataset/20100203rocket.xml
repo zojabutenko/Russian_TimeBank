@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Иран в 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-02-03">среду, 3 февраля</TIMEX3>
+	
+	
+	
+	, успешно 
+	
+	
+	<EVENT>испытал</EVENT>
+	
+	
+	 ракету-носитель &quot;Кавошгар-3&quot; (&quot;Исследователь-3&quot;), предназначенную, по официальной версии, для вывода на орбиту спутников, сообщает Reuters, 
+	
+	
+	<EVENT>цитирующее</EVENT>
+	
+	
+	 местные СМИ. Как передает AFP со ссылкой на арабоязычный иранский телеканал &quot;Аль-Алам&quot;, ракета 
+	
+	
+	<EVENT>доставила</EVENT>
+	
+	
+	 в космос &quot;экспериментальную капсулу&quot;.Технические характеристики ракеты и другие подробности запуска не 
+	
+	
+	<EVENT>сообщаются</EVENT>
+	
+	
+	.Ранее государственные СМИ Ирана 
+	
+	
+	<EVENT>сообщили</EVENT>
+	
+	
+	, что 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2010-02-03">среду</TIMEX3>
+	
+	
+	
+	 исламское государство представит три новых спутника и одну ракету-носитель. Также в стране должен открыться центр изучения данных, 
+	
+	
+	<EVENT>полученных</EVENT>
+	
+	
+	 с иранских спутников.
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-02-02">2 февраля</TIMEX3>
+	
+	
+	
+	 иранское новостное агентство FARS сообщило также, что в стране разработана принципиально новая ракета класса &quot;земля-воздух&quot;. По данным агентства, новое оружие 
+	
+	
+	<EVENT>сконструировано</EVENT>
+	
+	
+	 специально для того, чтобы противостоять американским вертолетам Apache в ходе возможного вторжения в Иран армии США. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="PRESENT_REF">настоящее время</TIMEX3>
+	
+	
+	
+	 США широко 
+	
+	
+	<EVENT>используют</EVENT>
+	
+	
+	 Apache в ходе военных кампаний в Ираке и Афганистане.Демонстрация достижений аэрокосмической сферы традиционно 
+	
+	
+	<EVENT>проводится</EVENT>
+	
+	
+	 в Иране в период февральских государственных праздников. 
+	<SIGNAL sid="s3">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t16" type="DATE" value="2010-02-01">1</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s4">по</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2010-02-11">11 февраля</TIMEX3>
+	
+	
+	
+	 в стране 
+	
+	
+	<EVENT>отмечается</EVENT>
+	
+	
+	 31-я годовщина Исламской революции.
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2009-02-03">3 февраля 2009 года</TIMEX3>
+	
+	
+	
+	 Иран впервые самостоятельно вывел на орбиту собственный спутник &quot;Омид&quot; (&quot;Надежда&quot;). Этот шаг 
+	
+	
+	<EVENT>вызвал</EVENT>
+	
+	
+	 беспокойство Запада, который считает, что под маской разработки ракет-носителей Иран разрабатывает баллистические ракеты, способные нести ядерный боезаряд. Иран эти обвинения 
+	
+	
+	<EVENT>отвергает</EVENT>
+	
+	
+	, 
+	
+	
+	<EVENT>заявляя</EVENT>
+	
+	
+	, что преследует таким образом исключительно гражданские цели - развитие собственной орбитальной группировки для нужд телекоммуникационной отрасли и в исследовательских целях.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">испытал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">цитирующее</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">доставила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">сообщаются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">полученных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">сконструировано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">используют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">проводится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" SignalID="s2">отмечается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вызвал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отвергает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">заявляя</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t13" relatedToTime="t5"/>
+	<TLINK timeID="t14" relatedToTime="t16"/>
+</TimeML>

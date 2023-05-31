@@ -1,0 +1,244 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Фильм &quot;Аватар&quot; режиссера Джеймса Кэмерона 
+	
+	
+	<EVENT>установил</EVENT>
+	
+	
+	 рекорд по сборам в кинотеатрах Северной Америки, сообщает AFP.С 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2009-12-18">18 декабря 2009 года</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s1">по</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2010-02-02">2 февраля 2010 года</TIMEX3>
+	
+	
+	
+	 &quot;Аватар&quot; заработал в кинотеатрах США и Канады 601,1 миллиона долларов. Ранее рекорд по сборам в североамериканском прокате 
+	
+	
+	<EVENT>принадлежал</EVENT>
+	
+	
+	 также фильму Кэмерона - &quot;Титанику&quot;, 
+	
+	
+	<EVENT>заработавшему</EVENT>
+	
+	
+	 600,8 миллиона долларов. Рекорд 
+	
+	
+	<EVENT>продержался</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t15" type="DATE" value="1997">1997 года</TIMEX3>
+	
+	
+	
+	.&quot;Аватар&quot; 
+	
+	
+	<EVENT>обошел</EVENT>
+	
+	
+	 &quot;Титаник&quot; по сборам, однако по числу зрителей, 
+	
+	
+	<EVENT>посмотревших</EVENT>
+	
+	
+	 фильм, лидерство по-прежнему принадлежит романтической истории на фоне кораблекрушения. Билеты на &quot;Аватара&quot; в 3D 
+	
+	
+	<EVENT>стоят</EVENT>
+	
+	
+	 дороже, чем на фильмы, 
+	
+	
+	<EVENT>снятые</EVENT>
+	
+	
+	 без применения этой технологии.Ранее &quot;Аватар&quot; уже 
+	
+	
+	<EVENT>побил</EVENT>
+	
+	
+	 рекорд &quot;Титаника&quot; в международном прокате. &quot;Титаник&quot; без учета США и Канады 
+	
+	
+	<EVENT>заработал</EVENT>
+	
+	
+	 1,242 миллиарда долларов, а сборы &quot;Аватара&quot; за пределами Северной Америки уже 
+	<SIGNAL sid="s3">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t19" type="DATE" value="2010-01-24">24 января</TIMEX3>
+	
+	
+	
+	 достигли в 1,283 миллиарда долларов.По данным 
+	<SIGNAL sid="s4">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t21" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	, общие сборы &quot;Аватара&quot; по всему миру 
+	
+	
+	<EVENT>составили</EVENT>
+	
+	
+	 2,05 миллиарда долларов (601,1 миллиона в Северной Америке + 1,473 миллиарда долларов в остальных странах мира).Однако &quot;Аватар&quot; побил далеко не все рекорды, 
+	
+	
+	<EVENT>установленные</EVENT>
+	
+	
+	 &quot;Титаником&quot;. Так, &quot;Титаник&quot; 
+	
+	
+	<EVENT>занимал</EVENT>
+	
+	
+	 первое место в североамериканском прокате 
+	
+	
+	
+	<TIMEX3 tid="t22" type="DURATION" value="P12W">12 недель</TIMEX3>
+	
+	
+	
+	 подряд (&quot;Аватар&quot; пока семь). &quot;Титаник&quot; был 
+	
+	
+	<EVENT>номинирован</EVENT>
+	
+	
+	 на &quot;Оскар&quot; в 14 категориях и в 11 выиграл. &quot;Аватар&quot; 
+	
+	
+	<EVENT>выдвинут</EVENT>
+	
+	
+	 на соискание &quot;Оскара&quot; лишь в 9 номинациях.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">установил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="Ind">принадлежал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">заработавшему</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">продержался</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">посмотревших</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">стоят</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">снятые</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">побил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заработал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">составили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="NONE">установленные</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Imp" modality="Ind">занимал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="NONE">номинирован</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выдвинут</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t7" relatedToTime="t8"/>
+	<TLINK timeID="t8" relatedToTime="t7"/>
+</TimeML>

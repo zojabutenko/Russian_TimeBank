@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Сотрудники милиции вечером 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2009-12-31">31 декабря</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>уничтожили</EVENT>
+	
+	
+	 в Хасавюрте четверых боевиков. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 РИА Новости со ссылкой на представителей МВД Дагестана. Один из ликвидированных членов незаконного бандформирования - глава боевиков по имени Умалат Магомедов, известный также под кличкой &quot;Альбаро&quot;.Примерно 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="TIME" value="2009-12-31T22:00">22:00</TIMEX3>
+	
+	
+	
+	 милиционеры 
+	
+	
+	<EVENT>попытались</EVENT>
+	
+	
+	 остановить на Грозненской улице автомобиль &quot;Жигули&quot; для проверки. 
+	
+	
+	<EVENT>Находившиеся</EVENT>
+	
+	
+	 в машине люди 
+	
+	
+	<EVENT>начали</EVENT>
+	
+	
+	 стрелять в сотрудников правоохранительных органов и были уничтожены ответным огнем. О жертвах среди милиционеров не 
+	
+	
+	<EVENT>сообщается</EVENT>
+	
+	
+	.На месте происшествия 
+	
+	
+	<EVENT>работают</EVENT>
+	
+	
+	 оперативники. Личности остальных боевиков 
+	
+	
+	<EVENT>устанавливаются</EVENT>
+	
+	
+	.
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2009-12" mod="START">начале декабря</TIMEX3>
+	
+	
+	
+	 представители республиканского МВД 
+	
+	
+	<EVENT>заявили</EVENT>
+	
+	
+	, что на территории Дагестана действуют шесть группировок боевиков: махачкалинская, хасавюртовско-кизилюртовская, губденская, гимринская, балаханинская и южнодагестанская. Численность каждой из них, по данным милиционеров, 
+	
+	
+	<EVENT>составляет</EVENT>
+	
+	
+	 от 10 до 40 человек.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009/12/31" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2009/12/31</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">уничтожили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">попытались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Imp" modality="NONE">Находившиеся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">начали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">сообщается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">работают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">устанавливаются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">заявили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">составляет</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

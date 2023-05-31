@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+В США за нарушение миграционного законодательства был 
+	
+	
+	<EVENT>задержан</EVENT>
+	
+	
+	 бывший советник грузинского президента  Эдуарда Шеварднадзе, Темур Басилия. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 ИА &quot;Новости-Грузия&quot; со ссылкой на грузинское министерство юстиции.
+Представительница ведомства Хатуна Иосава 
+	
+	
+	<EVENT>рассказала</EVENT>
+	
+	
+	, что Басилия просил в Соединенных Штатах убежища, однако получил отказ. Когда конкретно он был 
+	
+	
+	<EVENT>задержан</EVENT>
+	
+	
+	, она не 
+	
+	
+	<EVENT>уточнила</EVENT>
+	
+	
+	.
+Сотрудница министерства юстиции 
+	
+	
+	<EVENT>отметила</EVENT>
+	
+	
+	, что США еще не обсуждали с грузинской прокуратурой вопрос об экстрадиции задержанного. Между тем агентство GHN 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	, что американская сторона уже приняла решение о его высылке в Грузию. Когда Басилия будет 
+	
+	
+	<EVENT>экстрадирован</EVENT>
+	
+	
+	, неизвестно.
+Темур Басилия, который был советником Шеварднадзе по экономическим вопросам, 
+	
+	
+	<EVENT>покинул</EVENT>
+	
+	
+	 Грузию после &quot;революции роз&quot; 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2003">2003 года</TIMEX3>
+	
+	
+	
+	. На родине его 
+	
+	
+	<EVENT>обвиняли</EVENT>
+	
+	
+	, в частности, в превышении служебных полномочий. Впоследствии он был 
+	
+	
+	<EVENT>объявлен</EVENT>
+	
+	
+	 в розыск по линии Интерпола.
+
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2008">2008 году</TIMEX3>
+	
+	
+	
+	 городской суд Тбилиси, 
+	
+	
+	<EVENT>рассматривавший</EVENT>
+	
+	
+	 дело Басилии, 
+	
+	
+	<EVENT>признал</EVENT>
+	
+	
+	 его виновным во взяточничестве и заочно приговорил к девяти годам тюрьмы.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">рассказала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">уточнила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">экстрадирован</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">покинул</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Imp" modality="Ind">обвиняли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">объявлен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="NONE">рассматривавший</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">признал</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

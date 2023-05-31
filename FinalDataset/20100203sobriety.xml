@@ -1,0 +1,248 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Глава фракции справоросов в Госдуме Николай Левичев 
+	
+	
+	<EVENT>посоветовал</EVENT>
+	
+	
+	 &quot;меньше пить&quot; членам &quot;Единой России&quot;, которые выступили с критикой Сергея Миронова, 
+	
+	
+	<EVENT>несогласного</EVENT>
+	
+	
+	 с позицией премьер-министра Владимира Путина по бюджетному вопросу. Как сообщает агентство &quot;Росбалт&quot;, Левичев 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	, что &quot;полное единение не только в делах, но и в мыслях, в итоге приводит  просто к глупости&quot;.Руководители &quot;Единой России&quot; ранее 
+	
+	
+	<EVENT>призвали</EVENT>
+	
+	
+	 Миронова уйти в отставку с поста спикера Совета Федерации, так как он не во всем 
+	
+	
+	<EVENT>поддерживает</EVENT>
+	
+	
+	 политику правительства. В частности, первый заместитель секретаря президиума генсовета партии Андрей Исаев 
+	
+	
+	<EVENT>назвал</EVENT>
+	
+	
+	 заявление Миронова &quot;его личным моральным крахом&quot;.Глава центрального исполнительного комитета &quot;Единой России&quot; Андрей Воробьев 
+	
+	
+	<EVENT>напомнил</EVENT>
+	
+	
+	, что в Заксобрании Петербурга, которое выдвинуло Миронова в сенаторы, единоросы составляют большинство, и было бы целесообразно инициировать процедуру его отзыва.Кроме того, секретарь президиума генсовета и вице-спикер Госдумы РФ Вячеслав Володин 
+	
+	
+	<EVENT>назвал</EVENT>
+	
+	
+	 поведение Миронова непорядочным.Критику единоросов 
+	
+	
+	<EVENT>вызвало</EVENT>
+	
+	
+	 
+	
+	
+	<EVENT>показанное</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-01">1 февраля</TIMEX3>
+	
+	
+	
+	 по Первому каналу интервью лидера &quot;Справедливой России&quot; Владимиру Познеру. В нем Миронов 
+	
+	
+	<EVENT>сказал</EVENT>
+	
+	
+	, что его партия не согласна с предложенным Путиным бюджетом и с антикризисными мерами правительства.Спикер Совета Федерации со своей стороны 
+	
+	
+	<EVENT>указал</EVENT>
+	
+	
+	 на юридическую несостоятельность призывов к его отставке, так как решение об отзыве сенатора 
+	
+	
+	<EVENT>принимается</EVENT>
+	
+	
+	 по представлению председателя верхней палаты парламента. Петербургские единоросы 
+	
+	
+	<EVENT>признали</EVENT>
+	
+	
+	 наличие правовой коллизии, однако пообещали, что припомнят Миронову его слова 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2011">2011 году</TIMEX3>
+	
+	
+	
+	, когда у региональных парламентов появится право отзывать своих представителей в Совете Федерации.
+	
+	
+	<EVENT>Выступивший</EVENT>
+	
+	
+	 в защиту Миронова Левичев 
+	
+	
+	<EVENT>напомнил</EVENT>
+	
+	
+	, что единорос Исаев &quot;в молодые годы числился оппозиционером анархо-синдикалистом&quot;, и назвал его нынешнее поведение образцом &quot;низкопоклонства&quot;. 
+	
+	
+	<EVENT>Касаясь</EVENT>
+	
+	
+	 замечания о вреде пьянства, лидер справоросов в Госдуме 
+	
+	
+	<EVENT>отметил</EVENT>
+	
+	
+	, что Исаеву стоило бы &quot;пореже появляться на телевидении с физиономией, мягко 
+	
+	
+	<EVENT>говоря</EVENT>
+	
+	
+	, неадекватной занимаемому статусу&quot;.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">посоветовал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">несогласного</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">призвали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">поддерживает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">назвал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">напомнил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">назвал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вызвало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">показанное</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">указал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">принимается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">признали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="NONE">Выступивший</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind">напомнил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">Касаясь</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">говоря</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

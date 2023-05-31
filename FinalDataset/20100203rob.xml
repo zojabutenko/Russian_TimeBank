@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Трое злоумышленников в масках 
+	
+	
+	<EVENT>пытались</EVENT>
+	
+	
+	 ограбить универмаг в Киеве. Об этом 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 &quot;Интерфакс&quot;.По информации центра общественных связей МВД в Киеве, 
+	
+	
+	<EVENT>вооруженные</EVENT>
+	
+	
+	 огнестрельным оружием преступники 
+	
+	
+	<EVENT>ворвались</EVENT>
+	
+	
+	 в здание Шевченковского универмага 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="TIME" value="2010-02-03TEV">среду вечером</TIMEX3>
+	
+	
+	
+	. 
+	
+	
+	<EVENT>Проникнув</EVENT>
+	
+	
+	 в ювелирный отдел и угрожая продавцу оружием, они 
+	
+	
+	<EVENT>потребовали</EVENT>
+	
+	
+	 отдать им продававшиеся ювелирные изделия из золота.Продавец отдела 
+	
+	
+	<EVENT>попытался</EVENT>
+	
+	
+	 оказать грабителям сопротивление, в результате чего они открыли огонь и ранили продавца и одного из покупателей.После этого преступники 
+	
+	
+	<EVENT>скрылись</EVENT>
+	
+	
+	, не 
+	
+	
+	<EVENT>забрав</EVENT>
+	
+	
+	 ничего из товаров.
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="PRESENT_REF">настоящее время</TIMEX3>
+	
+	
+	
+	 по факту нападения 
+	
+	
+	<EVENT>возбуждено</EVENT>
+	
+	
+	 уголовное дело, ведется поиск преступников.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Imp" modality="Ind">пытались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">вооруженные</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">ворвались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">Проникнув</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">потребовали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">попытался</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">скрылись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE" polarity="NEG">забрав</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">возбуждено</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+После масштабной проверки пожарной безопасности в развлекательных заведениях России по решению суда была 
+	
+	
+	<EVENT>приостановлена</EVENT>
+	
+	
+	 работа 2729 объектов, сообщает &quot;Коммерсант&quot;. МЧС РФ 
+	
+	
+	<EVENT>проверяло</EVENT>
+	
+	
+	 соблюдение требований пожарной безопасности после инцидента в пермском клубе &quot;Хромая лошадь&quot;.В общей сложности были 
+	
+	
+	<EVENT>проверены</EVENT>
+	
+	
+	 более 17 тысяч клубов. Нарушения правил пожарной безопасности 
+	
+	
+	<EVENT>нашли</EVENT>
+	
+	
+	 в 4538 заведениях, все материалы по ним переданы в суды. Таким образом, еще около двух тысяч клубов 
+	
+	
+	<EVENT>дожидаются</EVENT>
+	
+	
+	 судебных решений.В Москве после проверок были 
+	
+	
+	<EVENT>закрыты</EVENT>
+	
+	
+	 182 заведения, 30 из них нарушения правил пожарной безопасности 
+	<SIGNAL sid="s1">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-01" mod="END">концу января</TIMEX3>
+	
+	
+	
+	 исправить еще не успели.Также в МЧС 
+	
+	
+	<EVENT>прояснили</EVENT>
+	
+	
+	 ситуацию с запретами на использование пиротехники, 
+	
+	
+	<EVENT>введенными</EVENT>
+	
+	
+	 в действие в ряде регионов после пожара в пермском клубе. Разъяснение 
+	
+	
+	<EVENT>потребовалось</EVENT>
+	
+	
+	 в связи с концертом немецкой группы Rammstein, в выступлениях которой традиционно применяется профессиональная пиротехника.В МЧС 
+	
+	
+	<EVENT>объяснили</EVENT>
+	
+	
+	, что постановление правительства о запрете на использование фейерверков в помещении не касается профессиональной пиротехники, и, таким образом, концерт Rammstein может проводиться беспрепятственно. Ранее начальник Госпожнадзора по Москве Олег Найденков 
+	
+	
+	<EVENT>утверждал</EVENT>
+	
+	
+	, что шоу немецкого коллектива под запрет попадает и оно нуждается в корректировке.Вопрос о пожарной безопасности в развлекательных заведениях и использования в них фейерверков 
+	
+	
+	<EVENT>возник</EVENT>
+	
+	
+	 после пожара в клубе &quot;Хромая лошадь&quot; 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2009-12-05">5 декабря 2009 года</TIMEX3>
+	
+	
+	
+	. Причиной пожара, как считается, 
+	
+	
+	<EVENT>стало</EVENT>
+	
+	
+	 использование пиротехники в помещении. В результате происшествия 
+	
+	
+	<EVENT>погибли</EVENT>
+	
+	
+	 более 150 человек.В ходе следствия в &quot;Хромой лошади&quot; 
+	
+	
+	<EVENT>нашли</EVENT>
+	
+	
+	 грубые нарушения правил пожарной безопасности, которые поспособствовали гибели большого количества посетителей клуба.После пожара в Перми в ряде регионов России, в том числе и в Москве, 
+	
+	
+	<EVENT>запретили</EVENT>
+	
+	
+	 применять пиротехнику в помещениях и на массовых мероприятиях.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">приостановлена</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="Ind">проверяло</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">проверены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">нашли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">дожидаются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">закрыты</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">прояснили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">введенными</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">потребовалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объяснили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Imp" modality="Ind">утверждал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">возник</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">погибли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind">нашли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind">запретили</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

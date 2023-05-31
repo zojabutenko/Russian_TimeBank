@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Канал ABC 
+	
+	
+	<EVENT>приступил</EVENT>
+	
+	
+	 к показу последнего (шестого по счету) сезона сериала &quot;Остаться в живых&quot; (Lost). Об этом 
+	
+	
+	<EVENT>сообщается</EVENT>
+	
+	
+	 на официальном сайте шоу. В России этот сериал 
+	
+	
+	<EVENT>транслируется</EVENT>
+	
+	
+	 по &quot;Первому каналу&quot;.Первая серия, 
+	
+	
+	<EVENT>получившая</EVENT>
+	
+	
+	 название LA X, была 
+	
+	
+	<EVENT>показана</EVENT>
+	
+	
+	 вечером 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-02">2 февраля</TIMEX3>
+	
+	
+	
+	, что соответствует утру 3-го в России. Эпизод 
+	
+	
+	<EVENT>состоял</EVENT>
+	
+	
+	 из двух частей суммарной продолжительностью около полутора часов. Для пользователей из США новая серия уже доступна для просмотра на сайте ABC.Российский зритель увидит новый эпизод 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-02-07">7 февраля</TIMEX3>
+	
+	
+	
+	. Как сообщается на сайте &quot;Первого канала&quot;, все эпизоды будут выходить с задержкой всего 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="PAST_REF">несколько дней</TIMEX3>
+	
+	
+	
+	, необходимых на дубляж. В общей сложности в сезоне 
+	
+	
+	<EVENT>обещано</EVENT>
+	
+	
+	 18 серий.Это далеко не первый случай, когда &quot;Первый&quot; старается не отставать от зарубежных телеканалов. Например, &quot;Вспомни, что будет&quot; и &quot;Обмани меня&quot; также 
+	
+	
+	<EVENT>показывались</EVENT>
+	
+	
+	 с задержкой примерно 
+	
+	
+	
+	<TIMEX3 tid="t6" type="SET" value="P1W" quant="EVERY">в неделю</TIMEX3>
+	
+	
+	
+	.Сериал &quot;Остаться в живых&quot; 
+	
+	
+	<EVENT>рассказывает</EVENT>
+	
+	
+	 о группе людей, 
+	
+	
+	<EVENT>попавших</EVENT>
+	
+	
+	 на таинственный остров в результате крушения самолета. С развитием сюжета события 
+	
+	
+	<EVENT>выходят</EVENT>
+	
+	
+	 за рамки острова, и в них оказывается втянуто много людей. Последний сезон 
+	
+	
+	<EVENT>обещает</EVENT>
+	
+	
+	 представить удовлетворительные объяснения большинству сюжетных загадок, которых 
+	<SIGNAL sid="s2">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DURATION" value="P5Y">пять лет</TIMEX3>
+	
+	
+	
+	 накопилось немало.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">приступил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">транслируется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">получившая</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">показана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">состоял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">обещано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind">показывались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">рассказывает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">попавших</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">выходят</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">обещает</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

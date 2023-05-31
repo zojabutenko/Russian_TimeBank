@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Бывшего премьера Грузии Зураба Ногаидели 
+	
+	
+	<EVENT>обвинили</EVENT>
+	
+	
+	 в подкупе одного из активистов партии &quot;Новые правые&quot; Кобы Модебадзе, сообщает ИА &quot;Новости-Грузия&quot;.
+На днях 
+	
+	
+	<EVENT>стало</EVENT>
+	
+	
+	 известно, что Модебадзе, который руководил отделением &quot;Новых правых&quot; в Сачхерском районе (в центральной части Грузии), вместе с восемью соратниками решил перейти в партию Ногаидели (&quot;За справедливую Грузию&quot;). Модебадзе, как сообщало агентство GHN, 
+	
+	
+	<EVENT>сослался</EVENT>
+	
+	
+	 на то, что 
+	
+	
+	<EVENT>поддерживает</EVENT>
+	
+	
+	 политическую позицию бывшего премьера и особенно его курс на восстановление отношений с Россией.
+&quot;Новые правые&quot; между тем 
+	
+	
+	<EVENT>заявили</EVENT>
+	
+	
+	, что их бывший активист руководствовался меркантильными соображениями. &quot;Очень жаль, что Ногаидели для утверждения в политике Ногаидели использует пути подкупа и вербовки. Жаль, что Коба Модебадзе счел деньги более привлекательными, чем верность своей стране&quot;, - сказано в заявлении партии.
+Бывший премьер 
+	
+	
+	<EVENT>ответил</EVENT>
+	
+	
+	 на это, что в переходе человека из одной партии в другую 
+	
+	
+	<EVENT>нет</EVENT>
+	
+	
+	 ничего особенного.
+Между тем один из лидеров &quot;Альянса за Грузию&quot; (объединения, в которое входят и &quot;Новые правые&quot;), Давид Усупашвили, 
+	
+	
+	<EVENT>сообщил</EVENT>
+	
+	
+	, что партия Ногаидели обещала Кобе Модебадзе покрыть его (Модебадзе) задолженность перед налоговыми органами. &quot;Люди 
+	
+	
+	<EVENT>продавались</EVENT>
+	
+	
+	 и будут продаваться&quot;, - цитирует его &quot;Грузия Online&quot;.
+Зураб Ногаидели, напомним, после российско-грузинской войны 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2008">2008 года</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>объявил</EVENT>
+	
+	
+	 о переходе в оппозицию. Позднее, 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	, он 
+	
+	
+	<EVENT>стал</EVENT>
+	
+	
+	 регулярно ездить в Москву и был принят на высоком уровне (в частности, был удостоен встречи с премьер-министром РФ Владимиром Путиным). Бывший премьер 
+	
+	
+	<EVENT>утверждает</EVENT>
+	
+	
+	, что его контакты с российскими властями помогают налаживать отношения с Россией. В Грузии поведение Ногаидели 
+	
+	
+	<EVENT>получило</EVENT>
+	
+	
+	 негативную оценку как со стороны руководства республики, так и со стороны значительной части оппозиции. Политика 
+	
+	
+	<EVENT>обвинили</EVENT>
+	
+	
+	 в попытках договориться с Россией в ущерб грузинским интересам.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обвинили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сослался</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">поддерживает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">ответил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">нет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">продавались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">утверждает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получило</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обвинили</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Президент России Дмитрий Медведев 
+	
+	
+	<EVENT>подписал</EVENT>
+	
+	
+	 указ о создании Фонда поддержки публичной дипломатии имени Александра Горчакова. В качестве учредителя этого фонда 
+	
+	
+	<EVENT>выступает</EVENT>
+	
+	
+	 МИД РФ. Текст документа 
+	
+	
+	<EVENT>опубликован</EVENT>
+	
+	
+	 на официальном сайте администрации президента.Новый фонд будет содействовать &quot;участию российских неправительственных организаций в международном сотрудничестве&quot;. Также одной из целей организации 
+	
+	
+	<EVENT>является</EVENT>
+	
+	
+	 &quot;активное вовлечение институтов гражданского общества во внешнеполитический процесс&quot;. Все эти задачи должны быть перечислены в уставе фонда, который будет утвержден в ближайшее время.Также в документе 
+	
+	
+	<EVENT>говорится</EVENT>
+	
+	
+	, что контролировать деятельность фонда будет попечительский совет. Его сформируют &quot;из числа лиц, 
+	
+	
+	<EVENT>рекомендованных</EVENT>
+	
+	
+	 МИДом России&quot;. Также попечительский совет будет отвечать за использование средств и утверждение долгосрочных программ фонда.Президент уже 
+	
+	
+	<EVENT>поручил</EVENT>
+	
+	
+	 правительству выделить 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010">2010</TIMEX3>
+	
+	
+	
+	-
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2011">2011 годах</TIMEX3>
+	
+	
+	
+	 бюджетные ассигнования из федерального бюджета для осуществления деятельности фонда. Кроме того, имущество фонда будет формироваться за счет добровольных взносов и пожертвований, а также &quot;иных источников в соответствии с законодательством Российской Федерации&quot;.Великий российский дипломат Александр Горчаков 
+	
+	
+	<EVENT>родился</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="1798">1798 году</TIMEX3>
+	
+	
+	
+	. Он 
+	
+	
+	<EVENT>занял</EVENT>
+	
+	
+	 пост министра иностранных дел 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="1856">1856 году</TIMEX3>
+	
+	
+	
+	. Горчаков 
+	
+	
+	<EVENT>стал</EVENT>
+	
+	
+	 последним канцлером Российской империи. Всего этот высший государственный пост в России в разное время 
+	
+	
+	<EVENT>занимали</EVENT>
+	
+	
+	 11 человек.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">подписал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">выступает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">опубликован</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">является</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">говорится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">рекомендованных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">поручил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">родился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">занял</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Imp" modality="Ind">занимали</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

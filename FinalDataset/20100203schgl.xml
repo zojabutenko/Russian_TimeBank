@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+В Москве при получении взятки в размере 3 миллионов рублей 
+	
+	
+	<EVENT>задержан</EVENT>
+	
+	
+	 директор ФГУ &quot;НТЦ Энергобезопасность&quot;, 
+	
+	
+	<EVENT>входящего</EVENT>
+	
+	
+	 в структуру Ростехнадзора, Марк Щеглов. Он 
+	
+	
+	<EVENT>подозревается</EVENT>
+	
+	
+	 в мошенничестве, так как в его компетенцию не 
+	
+	
+	<EVENT>входят</EVENT>
+	
+	
+	 вопросы, за решение которых предназначались деньги, сообщает агентство &quot;Интерфакс&quot;.Вместе с Щегловым были 
+	
+	
+	<EVENT>задержаны</EVENT>
+	
+	
+	 еще несколько человек, которые выполняли функции посредников. Как говорится в пресс-релизе Департамента экономической безопасности (ДЭБ) МВД РФ, взятка 
+	
+	
+	<EVENT>предназначалась</EVENT>
+	
+	
+	 за включение в госреестр сотрудниками Ростехнадзора сведений о саморегулируемой организации, которая занимается выдачей допусков к строительным работам в Татарстане.В ДЭБ 
+	
+	
+	<EVENT>пояснили</EVENT>
+	
+	
+	, что &quot;НТЦ Энергобезопасность&quot; занимается выдачей аккредитаций независимым центрам, которые проверяют на соответствие требованиям безопасности объекты, 
+	
+	
+	<EVENT>входящие</EVENT>
+	
+	
+	 в сферу контроля Ростехнадзора, в том числе плотины и гидроузлы. Что 
+	
+	
+	<EVENT>касается</EVENT>
+	
+	
+	 организации, у представителя которой 
+	
+	
+	<EVENT>вымогались</EVENT>
+	
+	
+	 деньги, то она должна зарегистрироваться в Ростехнадзоре, чтобы получить право на проверку строительных работ.Функция выдачи свидетельств о допуске к проведению строительных работ была 
+	
+	
+	<EVENT>передана</EVENT>
+	
+	
+	 саморегулирующимся организациям 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-01">январе 2010 года</TIMEX3>
+	
+	
+	
+	. Ранее этим 
+	
+	
+	<EVENT>занимался</EVENT>
+	
+	
+	 лицензионный орган Госстройнадзора.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">входящего</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">подозревается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">входят</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержаны</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">предназначалась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пояснили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">входящие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">касается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вымогались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">передана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="Ind">занимался</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

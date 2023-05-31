@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 табачный рынок Великобритании 
+	
+	
+	<EVENT>вырос</EVENT>
+	
+	
+	 на один процент до 45,5 миллиарда сигарет, сообщила Imperial Tobacco, четвертая по величине в мире табачная компания. Газета The Times 
+	
+	
+	<EVENT>пишет</EVENT>
+	
+	
+	, что это первое увеличение объемов отраслевого рынка за последние 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DURATION" value="P40Y">40 лет</TIMEX3>
+	
+	
+	
+	.Издание 
+	
+	
+	<EVENT>отмечает</EVENT>
+	
+	
+	, что одной из причин роста рынка неожиданно стал экономический кризис. Так, многие британцы из соображений экономии 
+	
+	
+	<EVENT>стали</EVENT>
+	
+	
+	 курить самокрутки, а Imperial Tobacco продает более половины резаного табака для самокруток в стране. 
+	<SIGNAL sid="s3">за</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2009">прошлый год</TIMEX3>
+	
+	
+	
+	 объемы рынка резаного табака 
+	
+	
+	<EVENT>увеличились</EVENT>
+	
+	
+	 на 21 процент до 4650 тонн.Еще заметнее успехи британской компании в Испании, экономика которой также серьезно пострадала в результате кризиса. Так, испанский рынок сигарет 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>сократился</EVENT>
+	
+	
+	 на десять процентов до 80,7 миллиарда штук, однако рынок табака для самокруток вырос на 30 процентов до 5150 тонн.Imperial Tobacco была 
+	
+	
+	<EVENT>основана</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="1901">1901 году</TIMEX3>
+	
+	
+	
+	 в Великобритании. По итогам 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2008">2008 года</TIMEX3>
+	
+	
+	
+	 чистая прибыль компании 
+	
+	
+	<EVENT>составила</EVENT>
+	
+	
+	 441 миллиона фунтов стерлингов (около 704 миллионов долларов).
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">вырос</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">пишет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">отмечает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s3">увеличились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s5">сократился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s6">основана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">составила</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Аукционный дом Christie's устроит благотворительные торги, все доходы от которых будут направлены организациям, 
+	
+	
+	<EVENT>занимающимся</EVENT>
+	
+	
+	 охраной окружающей среды, сообщается в пресс-релизе дома. Аукцион состоится 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-04-22">22 апреля</TIMEX3>
+	
+	
+	
+	, 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DURATION" value="P1D">День</TIMEX3>
+	
+	
+	
+	 Земли, в Нью-Йорке.Доходы от продажи лотов будут 
+	
+	
+	<EVENT>распределены</EVENT>
+	
+	
+	 между четырьмя организациями: Conservation International, Oceana, Natural Resources Defense Council и Central Park Conservancy. Это наиболее авторитетные неправительственные организации, 
+	
+	
+	<EVENT>занимающиеся</EVENT>
+	
+	
+	 охраной окружающей среды. Их программы 
+	
+	
+	<EVENT>реализуются</EVENT>
+	
+	
+	 в 150 странах мира, во многих из которых организации представлены собственными отделениями.На торги будут 
+	
+	
+	<EVENT>выставлены</EVENT>
+	
+	
+	 работы таких известных современных художников, как Олафур Элиассон, Субодх Гупта, Кит Тайсон и других. Кроме того, в число лотов войдут драгоценности, также с торгов будет продаваться возможность встречи со знаменитостями - например, актером Хью Джекманом и певицей Кристиной Агилерой.Аукцион пройдет под патронажем Леонардо Ди Каприо, Гаррисона Форда, Сальмы Хайек и других известных актеров, а также архитектора Захи Хадид и известного коллекционера Франсуа Пино - все они намерены посетить торги лично. Главным спонсором аукциона 
+	
+	
+	<EVENT>выступает</EVENT>
+	
+	
+	 Deutsche Bank.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">занимающимся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="NONE">распределены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">занимающиеся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">реализуются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выставлены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">выступает</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

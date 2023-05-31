@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Правительственная комиссия РФ по иностранным инвестициям 
+	
+	
+	<EVENT>одобрила</EVENT>
+	
+	
+	 сделку по слиянию телекоммуникационных активов &quot;Альфа-групп&quot; и норвежской Telenor, в результате которой российский &quot;Вымпелком&quot; (торговая марка &quot;Билайн&quot;) и украинский &quot;Киевстар&quot; будут контролироваться совместным предприятием этих компаний. Об этом 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	 глава Федеральной антимонопольной службы Игорь Артемьев, передает РИА Новости.Telenor и &quot;Альфа-групп&quot; договорились объединить часть своих активов 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009-10">октябре 2009 года</TIMEX3>
+	
+	
+	
+	. Для этого была 
+	
+	
+	<EVENT>создана</EVENT>
+	
+	
+	 специальная компания VimpelCom Ltd со штаб-квартирой в Нидерландах. Руководить компанией 
+	
+	
+	<EVENT>назначен</EVENT>
+	
+	
+	 Александр Изосимов, который ранее много лет возглавлял &quot;Вымпелком&quot;.В  VimpelCom Ltd российской компании будет принадлежать 43,89 процента голосующих акций, а Telenor - 35,42 процента. В &quot;Вымпелкоме&quot; &quot;Альфа-групп&quot;  
+	
+	
+	<EVENT>владеет</EVENT>
+	
+	
+	 44 процентами акций, а норвежская компания - 29,9 процента.Ранее 
+	
+	
+	<EVENT>сообщалось</EVENT>
+	
+	
+	, что правительственная комиссия должна одобрить и другую сделку с телекоммуникационными активами &quot;Альфы-групп&quot; - 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 российская компания договорилась об объединении своей доли в &quot;Мегафоне&quot; с шведско-финской TeliaSonera. В результате у сотового оператора 
+	
+	
+	<EVENT>может</EVENT>
+	
+	
+	 появиться контролирующий акционер, однако поскольку в сделке 
+	
+	
+	<EVENT>задействованы</EVENT>
+	
+	
+	 и телекоммуникационные активы в других странах, TeliaSonera получит больше акций в объединенной компании, чем &quot;Альфа-групп&quot;.В Федеральной антимонопольной службе уже 
+	
+	
+	<EVENT>заявляли</EVENT>
+	
+	
+	, что могут одобрить слияние активов &quot;Альфы-групп&quot; с Telenor, но выступают против сделки по &quot;Мегафону&quot;. С критикой слияния 
+	
+	
+	<EVENT>выступил</EVENT>
+	
+	
+	 и другой акционер &quot;Мегафона&quot; - Алишер Усманов. Он 
+	
+	
+	<EVENT>планирует</EVENT>
+	
+	
+	 поменять свои ценные бумаги сотового оператора на акции государственного &quot;Ростелекома&quot;.В результате слияния активов Telenor и &quot;Альфы-групп&quot; получится одна из крупнейших телекоммуникационных компаний в Восточной Европе. Абонентская база &quot;Вымпелкома&quot; 
+	
+	
+	<EVENT>составляет</EVENT>
+	
+	
+	 65,4 миллиона человек, а &quot;Киевстара&quot; - более 22 миллионов человек.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">одобрила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">создана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">назначен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">владеет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Imp" modality="Ind">сообщалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">может</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задействованы</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">заявляли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выступил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">планирует</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">составляет</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

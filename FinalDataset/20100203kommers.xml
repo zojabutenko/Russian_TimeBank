@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+На сайте издательского дома &quot;Коммерсант&quot; 
+	
+	
+	<EVENT>заработал</EVENT>
+	
+	
+	 раздел блогов. Как 
+	
+	
+	<EVENT>пояснил</EVENT>
+	
+	
+	 Ленте.Ру главный редактор сайта &quot;Коммерсанта&quot; Павел Черников, раздел был 
+	
+	
+	<EVENT>запущен</EVENT>
+	
+	
+	 еще 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2009-12">декабре 2009 года</TIMEX3>
+	
+	
+	
+	, но пока работает в пилотном режиме.Пока у &quot;Коммерсанта&quot; три постоянных блогера: специальные корреспонденты Олег Кашин, Андрей Колесников и Ольга Алленова. Причем Колесников и Алленова, 
+	
+	
+	<EVENT>находящиеся</EVENT>
+	
+	
+	 на Украине, в своих блогах 
+	
+	
+	<EVENT>освещают</EVENT>
+	
+	
+	 ход кампании по выборам президента. Еще для нескольких журналистов &quot;Коммерсанта&quot; блоги уже 
+	
+	
+	<EVENT>заведены</EVENT>
+	
+	
+	, но они еще не начали их вести.По словам Черникова, в дальнейшем 
+	
+	
+	<EVENT>планируется</EVENT>
+	
+	
+	 завести блоги, 
+	
+	
+	<EVENT>посвященные</EVENT>
+	
+	
+	 культуре, международной политике и другим темам. Также 
+	
+	
+	<EVENT>предполагается</EVENT>
+	
+	
+	, что блогерами станут некоторые представители руководства &quot;Коммерсанта&quot;.ИД &quot;Коммерсант&quot; является одним из главных совладельцев компании &quot;Суп&quot;, которой принадлежит популярнейший в России блог-сервис LiveJournal. Руководство &quot;Коммерсанта&quot; ранее 
+	
+	
+	<EVENT>озвучивало</EVENT>
+	
+	
+	 планы более тесной интеграции с блогосферой
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заработал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пояснил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">запущен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">находящиеся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">освещают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">заведены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">планируется</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">посвященные</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предполагается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">озвучивало</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

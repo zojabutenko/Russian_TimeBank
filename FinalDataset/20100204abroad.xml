@@ -1,0 +1,120 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Глава национальной разведки США Деннис Блэр 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	 о том, что спецслужбы будут уничтожать американцев, 
+	
+	
+	<EVENT>состоящих</EVENT>
+	
+	
+	 в международных террористических организациях. Однако для совершения подобных действий разведчикам нужно будет заручиться &quot;специальным разрешением&quot; от вышестоящих инстанций. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 AFP.Заявление стало ответом на публикацию в газете Washington Post, которая ссылается на 
+	
+	
+	<EVENT>пожелавшего</EVENT>
+	
+	
+	 остаться анонимным государственного служащего. По информации издания, в списке людей, которых спецслужбы &quot;приговорили&quot; к уничтожению или захвату, 
+	
+	
+	<EVENT>присутствуют</EVENT>
+	
+	
+	 трое граждан США.Газета обвинила Барака Обаму в том, что он 
+	
+	
+	<EVENT>продолжает</EVENT>
+	
+	
+	 традиции Джорджа Буша-младшего, который также не отрицал возможности уничтожения американцев, 
+	
+	
+	<EVENT>сотрудничающих</EVENT>
+	
+	
+	 с экстремистами.Блэр в ответ 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	, что спецслужбы со всей ответственностью относятся к подобным решениям и допускают убийство американских граждан лишь в крайнем случае. &quot;Нам нужна стопроцентная уверенность в том, что этот человек 
+	
+	
+	<EVENT>состоит</EVENT>
+	
+	
+	 в экстремистской группе, то есть представляет опасность для других американцев&quot;, - заявил глава разведки.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">состоящих</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">пожелавшего</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">присутствуют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">продолжает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">сотрудничающих</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">состоит</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

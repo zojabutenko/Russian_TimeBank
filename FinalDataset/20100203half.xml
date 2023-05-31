@@ -1,0 +1,293 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Большой адронный коллайдер в 2011 и, вероятно, 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2012">2012 годах</TIMEX3>
+	
+	
+	
+	 будет работать вполсилы, сообщается в научном блоге портала ScienceNOW со ссылкой на слова руководителя CERN Стива Майерса. CERN (Европейский центр ядерных исследований) - это организация, 
+	
+	
+	<EVENT>курирующая</EVENT>
+	
+	
+	 эксперименты на БАК.Ранее ученые планировали довести энергию столкновений пучков протонов до 50 процентов от максимально возможной (то есть до 7 тераэлектронвольт) 
+	<SIGNAL sid="s3">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-03">марту текущего года</TIMEX3>
+	
+	
+	
+	. Не 
+	
+	
+	<EVENT>исключалось</EVENT>
+	
+	
+	, что 
+	<SIGNAL sid="s4">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-06" mod="END">концу июня</TIMEX3>
+	
+	
+	
+	 энергия каждого из пучков может быть увеличена до 4-5 тераэлектронвольт (а значит, энергия столкновений составила бы 8-10 тераэлектронвольт соответственно).Согласно последним данным, максимальная энергия столкновений 
+	<SIGNAL sid="s5">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t9" type="DATE" value="2010">2010</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2011">2011 годах</TIMEX3>
+	
+	
+	
+	 составит 7 тераэлектронвольт. Причиной такого решения 
+	
+	
+	<EVENT>стали</EVENT>
+	
+	
+	 опасения, что работа на чрезмерных энергиях 
+	
+	
+	<EVENT>может</EVENT>
+	
+	
+	 вызвать неполадки в электрической системе ускорителя. Именно дефектный контакт 
+	
+	
+	<EVENT>стал</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s6">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2008">2008 году</TIMEX3>
+	
+	
+	
+	 причиной аварии, из-за которой эксперименты на БАК были прерваны 
+	<SIGNAL sid="s7">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t12" type="DURATION" value="P14M">14 месяцев</TIMEX3>
+	
+	
+	
+	.Майерс 
+	
+	
+	<EVENT>добавил</EVENT>
+	
+	
+	, что после 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DURATION" value="P2Y">двух лет</TIMEX3>
+	
+	
+	
+	 работы коллайдер будет остановлен 
+	<SIGNAL sid="s8">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t15" type="DURATION" value="P1Y">12 месяцев</TIMEX3>
+	
+	
+	
+	. За это время инженеры заменят около 10 тысяч электрических соединений. После проведения такого &quot;апгрейда&quot; физики смогут 
+	<SIGNAL sid="s9">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t16" type="DATE" value="2013">2013 году</TIMEX3>
+	
+	
+	
+	 довести энергию столкновений пучков на БАК до максимальных 14 тераэлектронвольт.Несмотря на как минимум двухлетнюю отсрочку выхода на максимальные мощности исследователи 
+	
+	
+	<EVENT>уверяют</EVENT>
+	
+	
+	, что данных, 
+	
+	
+	<EVENT>собранных</EVENT>
+	
+	
+	 за время работы БАК на пониженных энергиях, будет достаточно для уточнения многих существующих физических теорий.Со своей стороны, ученые, 
+	
+	
+	<EVENT>работающие</EVENT>
+	
+	
+	 на &quot;конкуренте&quot; Большого адронного коллайдера - американском ускорителе Тэватрон - не 
+	
+	
+	<EVENT>исключают</EVENT>
+	
+	
+	, что эксперименты на нем будут продлены 
+	<SIGNAL sid="s10">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t19" type="DURATION" value="P1Y">год</TIMEX3>
+	
+	
+	
+	. Ранее 
+	
+	
+	<EVENT>планировалось</EVENT>
+	
+	
+	 прекратить работу Тэватрона 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t20" type="DATE" value="2011">2011 году</TIMEX3>
+	
+	
+	
+	. Ранее &quot;тэватронщики&quot; 
+	
+	
+	<EVENT>заявляли</EVENT>
+	
+	
+	, что им удастся опередить коллег с БАК в поисках бозона Хиггса - пока еще не обнаруженной частицы, которая отвечает за наличие у других частиц массы. Если бозон Хиггса будет 
+	
+	
+	<EVENT>найден</EVENT>
+	
+	
+	, это открытие докажет правомерность Стандартной модели - одной из наиболее популярных физических теорий, 
+	
+	
+	<EVENT>объясняющих</EVENT>
+	
+	
+	 фундаментальные взаимодействия в природе.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">курирующая</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="Ind" polarity="NEG">исключалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" SignalID="s1">может</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">стал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">добавил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">уверяют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">собранных</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">работающие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">исключают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Imp" modality="Ind">планировалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="Ind">заявляли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="NONE">найден</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">объясняющих</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t1" relatedToTime="t8"/>
+	<TLINK timeID="t8" relatedToTime="t9"/>
+</TimeML>

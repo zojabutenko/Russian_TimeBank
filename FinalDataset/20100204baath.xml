@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Правительство Ирака 
+	
+	
+	<EVENT>назвало</EVENT>
+	
+	
+	 незаконным решение апелляционного комитета допустить подозреваемых в связях с бывшей партией Саддама Хусейна &quot;Баас&quot; кандидатов к всеобщим выборам, сообщает Reuters.Апелляционный комитет 
+	
+	
+	<EVENT>обнародовал</EVENT>
+	
+	
+	 свое решение 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	. Согласно ему, около 500 подозреваемых в сотрудничестве с &quot;Баас&quot; человек 
+	
+	
+	<EVENT>могут</EVENT>
+	
+	
+	 принять участие в парламентских выборах 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-03-07">7 марта</TIMEX3>
+	
+	
+	
+	. Вместе с тем, после голосования им придется ответить на обвинения.Представитель правительства, в свою очередь, 
+	
+	
+	<EVENT>охарактеризовал</EVENT>
+	
+	
+	 это решение как незаконное и неконституционное. Представители шиитских движений, которые пострадали от репрессий со стороны суннитской партии &quot;Баас&quot; во времена диктатуры Саддама, также 
+	
+	
+	<EVENT>осудили</EVENT>
+	
+	
+	 реабилитацию &quot;баасистов&quot;.Решение отстранить от выборов сторонников &quot;Баас&quot;, которое отменил апелляционный комитет, было 
+	
+	
+	<EVENT>принято</EVENT>
+	
+	
+	 ЦИК Ирака 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="2010-01" mod="MID">середине января</TIMEX3>
+	
+	
+	
+	.В годы правления Хусейна &quot;Баас&quot; 
+	
+	
+	<EVENT>насчитывала</EVENT>
+	
+	
+	 около 2,5 миллиона членов. 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2003">2003 году</TIMEX3>
+	
+	
+	
+	, после свержения режима, партия была 
+	
+	
+	<EVENT>распущена</EVENT>
+	
+	
+	 и запрещена. 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="2007" mod="MID">середине 2007 года</TIMEX3>
+	
+	
+	
+	 в стране 
+	
+	
+	<EVENT>начался</EVENT>
+	
+	
+	 процесс снятия запретов на профессиональную деятельность для бывших членов партии.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">назвало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обнародовал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">могут</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">охарактеризовал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">осудили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s3">принято</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">насчитывала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s4">распущена</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s6">начался</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

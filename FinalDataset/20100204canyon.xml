@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+В США было 
+	
+	
+	<EVENT>подписано</EVENT>
+	
+	
+	 соглашение, которое должно спасти от уничтожения около 10 тысяч наскальных рисунков в Девятимильном каньоне (или Найн-Майл-Каньоне, Nine Mile Canyon) в штате Юта, сообщает The Art Newspaper. (Вопреки названию длина каньона 
+	
+	
+	<EVENT>составляет</EVENT>
+	
+	
+	 60 километров; из-за петроглифов его называют &quot;самой длинной галереей искусств в мире&quot;).В последние 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="PAST_REF">несколько лет</TIMEX3>
+	
+	
+	
+	 на близлежащей территории производились работы по разведке месторождений газа и нефти. Организации, 
+	
+	
+	<EVENT>занимавшиеся</EVENT>
+	
+	
+	 охраной каньона, 
+	
+	
+	<EVENT>утверждали</EVENT>
+	
+	
+	, что выхлопы от транспорта угрожают наскальным рисункам. 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2008">2008 году</TIMEX3>
+	
+	
+	
+	 денверская компания Bill Barrett Corporation 
+	
+	
+	<EVENT>попросила</EVENT>
+	
+	
+	 у местных властей разрешения на бурение 800 скважин.Согласно соглашению, 
+	
+	
+	<EVENT>подписанному</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2010-01">январе 2010 года</TIMEX3>
+	
+	
+	
+	 Bill Barrett, местными и федеральными властями, на деньги нефте- и газодобытчиков будут осуществляться процедуры по защите петроглифов, а также проводиться исследования воздействия на них выхлопов.Наскальные изображения в каньоне 
+	
+	
+	<EVENT>оставили</EVENT>
+	
+	
+	 индейцы фремонтской культуры (в 950-
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="1250">1250 годах</TIMEX3>
+	
+	
+	
+	) и племени юте (начиная 
+	<SIGNAL sid="s3">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="15">XVI века</TIMEX3>
+	
+	
+	
+	). В каньоне 
+	
+	
+	<EVENT>насчитывается</EVENT>
+	
+	
+	 не менее тысячи образцов наскального искусства, 
+	
+	
+	<EVENT>содержащих</EVENT>
+	
+	
+	 в общей сложности около 10 тысяч отдельных изображений.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">подписано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">составляет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Imp" modality="NONE">занимавшиеся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Imp" modality="Ind">утверждали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">попросила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">подписанному</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">оставили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">насчитывается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">содержащих</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

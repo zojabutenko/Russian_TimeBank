@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Национальная портретная галерея Великобритании 
+	
+	
+	<EVENT>выложила</EVENT>
+	
+	
+	 в интернет свой архив. В нем 
+	
+	
+	<EVENT>содержатся</EVENT>
+	
+	
+	 как собственные документы галереи, так и материалы, 
+	
+	
+	<EVENT>собранные</EVENT>
+	
+	
+	 ею за более чем 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P150Y">150 лет</TIMEX3>
+	
+	
+	
+	 ее существования.Как выяснилось, в архиве, впервые 
+	
+	
+	<EVENT>ставшем</EVENT>
+	
+	
+	 общедоступным, широкую публику 
+	
+	
+	<EVENT>интересует</EVENT>
+	
+	
+	 не столько подробно задокументированная история богатейшей коллекции портретов, сколько различные происшествия, 
+	
+	
+	<EVENT>связанные</EVENT>
+	
+	
+	 с галереей и имевшие место около ста 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2009">лет назад</TIMEX3>
+	
+	
+	
+	. Так, газета The Independent особое внимание 
+	
+	
+	<EVENT>уделила</EVENT>
+	
+	
+	 убийству, 
+	
+	
+	<EVENT>произошедшему</EVENT>
+	
+	
+	 в одном из залов галереи 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="1909">1909 году</TIMEX3>
+	
+	
+	
+	: некий пожилой человек после оживленного спора застрелил свою жену, а затем застрелился сам. The Guardian 
+	
+	
+	<EVENT>отметила</EVENT>
+	
+	
+	 новые данные о выходке суфражистки Энн Хант 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="1914">1914 году</TIMEX3>
+	
+	
+	
+	: она порезала огромным мясницким ножом портрет историка Томаса Карлейля кисти Джона Эверетта Милле в знак протеста против задержания ее соратницы.В архивах галереи 
+	
+	
+	<EVENT>обнаружились</EVENT>
+	
+	
+	 также документы, 
+	
+	
+	<EVENT>содержащие</EVENT>
+	
+	
+	 новые сведения о том, как она 
+	
+	
+	<EVENT>работала</EVENT>
+	
+	
+	 во время мировых войн. В Первую мировую часть коллекции 
+	
+	
+	<EVENT>хранилась</EVENT>
+	
+	
+	 на одной из станций лондонского метро, причем охраняли ее сотрудники галереи, 
+	
+	
+	<EVENT>получившие</EVENT>
+	
+	
+	 оружие. Во Вторую мировую здание галереи 
+	
+	
+	<EVENT>пустовало</EVENT>
+	
+	
+	, а все портреты хранились в поместье Ментмор в графстве Букингемшир, где многие картины пострадали от крыс.Публикация архивов в интернете 
+	
+	
+	<EVENT>стала</EVENT>
+	
+	
+	 в последние годы одним из приоритетных направлений деятельности многих британских музеев и библиотек. К примеру, национальная библиотека страны 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2010-01" mod="END">конце января</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>выложила</EVENT>
+	
+	
+	 в Сеть богатую коллекцию архивных материалов, 
+	
+	
+	<EVENT>создав</EVENT>
+	
+	
+	 из них онлайн-путеводитель по британской истории.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">выложила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">содержатся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE">собранные</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">ставшем</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">интересует</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">связанные</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">уделила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">произошедшему</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">обнаружились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">содержащие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="Ind">работала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Imp" modality="Ind">хранилась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="NONE">получившие</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Imp" modality="Ind">пустовало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s2">выложила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="NONE">создав</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t1" relatedToTime="t2"/>
+</TimeML>

@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Министр обороны США Роберт Гейтс и председатель Объединенного комитета начальников штабов Майк Маллен на слушаниях в Сенате 
+	
+	
+	<EVENT>объявили</EVENT>
+	
+	
+	 о начале кампании по легализации положения геев и лесбиянок в вооруженных силах, пишет The New York Times. 
+	
+	
+	<EVENT>Ожидается</EVENT>
+	
+	
+	, что инициатива высших военных чиновников приведет к полной отмене положений 
+	
+	
+	<EVENT>принятого</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="1993">1993 году</TIMEX3>
+	
+	
+	
+	 закона, согласно которому в отношении военнослужащих-гомосексуалистов действует принцип &quot;не спрашивай-не говори&quot; (&quot;don't ask-don't tell&quot;).Согласно этому принципу военнослужащим запрещается служить в армии в том случае, если они открыто 
+	
+	
+	<EVENT>признаются</EVENT>
+	
+	
+	 в гомосексуализме. В то же время командованию 
+	
+	
+	<EVENT>запрещается</EVENT>
+	
+	
+	 задавать солдатам вопросы об их сексуальной ориентации. Кроме того, закон 
+	
+	
+	<EVENT>предусматривает</EVENT>
+	
+	
+	 демобилизацию военных в тех случаях, если их нетрадиционная ориентация была 
+	
+	
+	<EVENT>доказана</EVENT>
+	
+	
+	 в ходе специального расследования, 
+	
+	
+	<EVENT>инициированного</EVENT>
+	
+	
+	 в результате обращения третьих лиц.На слушаниях в Сенате военные руководители, в частности, 
+	
+	
+	<EVENT>объявили</EVENT>
+	
+	
+	 о том, что впредь не будут поддерживать подобные расследования. Кроме того, они 
+	
+	
+	<EVENT>призвали</EVENT>
+	
+	
+	 к полной отмене упомянутого закона, подготовкой к чему займется специальная комиссия под руководством главного юрисконсульта Пентагона Джея Джонсона (Jeh Johnson) и генерала Армии США Картера Хэма (Carter Ham).Ожидается, что результаты работы комиссии будут представлены общественности 
+	<SIGNAL sid="s5">к</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2010" mod="END">концу 2010 года</TIMEX3>
+	
+	
+	
+	.Закон, об отмене которого идет речь, был 
+	
+	
+	<EVENT>принят</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="1993">1993 году</TIMEX3>
+	
+	
+	
+	 при президенте Билле Клинтоне и стал компромиссом между его позицией и требованиями Конгресса США. Дело в том, что президент-демократ тогда 
+	
+	
+	<EVENT>хотел</EVENT>
+	
+	
+	 снять все ограничения на службу геев в армии, однако законодательный орган США выступил против этой инициативы.
+	<SIGNAL sid="s6">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t11" type="DATE" value="2009-10">октябре 2009 года</TIMEX3>
+	
+	
+	
+	 о предстоящей отмене ограничений на службу геев в армии 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	 президент США Барак Обама. Тем не менее, когда именно закон 
+	
+	
+	<EVENT>планируют</EVENT>
+	
+	
+	 отменить, Обама не 
+	
+	
+	<EVENT>уточнил</EVENT>
+	
+	
+	.Согласно данным опросов, которые приводит The Wall Street Journal, 
+	<SIGNAL sid="s7">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t16" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 в поддержку отмены ограничений для геев в ВС 
+	
+	
+	<EVENT>высказывались</EVENT>
+	
+	
+	 69 процентов американцев. Для сравнения, в момент вступления закона в силу 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t19" type="DATE" value="1993">1993 году</TIMEX3>
+	
+	
+	
+	 ограничения 
+	
+	
+	<EVENT>поддержали</EVENT>
+	
+	
+	 43 процента граждан США.По информации Army Times, 
+	<SIGNAL sid="s8">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t23" type="DATE" value="2009">2009 году</TIMEX3>
+	
+	
+	
+	 за гомосексуализм из армии США были уволены 428 человек, в то время как 
+	<SIGNAL sid="s9">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t24" type="DATE" value="200">2008-м</TIMEX3>
+	
+	
+	
+	 - 619. Всего 
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t27" type="DATE" value="1993">1993 года</TIMEX3>
+	
+	
+	
+	 из-за нетрадиционной сексуальной ориентации армейских погон 
+	
+	
+	<EVENT>лишились</EVENT>
+	
+	
+	 более десяти тысяч человек.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объявили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">Ожидается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s4">принятого</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">признаются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">запрещается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предусматривает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">доказана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">инициированного</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">объявили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">призвали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s8">принят</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Imp" modality="Ind">хотел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s9">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">планируют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">уточнил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Imp" modality="Ind" SignalID="s11">высказывались</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind">поддержали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s15">лишились</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t16" relatedToTime="t1"/>
+	<TLINK timeID="t1" relatedToTime="t16"/>
+</TimeML>

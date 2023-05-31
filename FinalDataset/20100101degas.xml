@@ -1,0 +1,260 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+По подозрению в причастности к краже пастельного рисунка Эдгара Дега &quot;Хористы&quot; из музея Кантини в Марселе 
+	
+	
+	<EVENT>задержан</EVENT>
+	
+	
+	 ночной сторож. Об этом 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-01-01">пятницу</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 Agence France-Presse.Как сообщили источники в местной полиции, мужчина 
+	
+	
+	<EVENT>находится</EVENT>
+	
+	
+	 под стражей 
+	<SIGNAL sid="s3">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="TIME" value="2010-01-01T17:00">17:00</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-12-31">31 декабря</TIMEX3>
+	
+	
+	
+	, однако картина пока не обнаружена. Следствие 
+	
+	
+	<EVENT>пытается</EVENT>
+	
+	
+	 установить, действовал ли подозреваемый в одиночку или же на свободе остаются его сообщники.Исчезновение картины с выставки было 
+	
+	
+	<EVENT>замечено</EVENT>
+	
+	
+	 утром 
+	<SIGNAL sid="s4">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2009-12-31">четверг</TIMEX3>
+	
+	
+	
+	, когда экспозиция 
+	
+	
+	<EVENT>открылась</EVENT>
+	
+	
+	 для посетителей. Полиция 
+	
+	
+	<EVENT>предполагает</EVENT>
+	
+	
+	, что кража произошла с 5 
+	<SIGNAL sid="s6">до</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t6" type="TIME" value="2010-01-01T07:00">7 утра</TIMEX3>
+	
+	
+	
+	, когда задержанный 
+	
+	
+	<EVENT>заступил</EVENT>
+	
+	
+	 на дежурство.Пастель &quot;Хористы&quot; была 
+	
+	
+	<EVENT>написана</EVENT>
+	
+	
+	 Дега 
+	<SIGNAL sid="s7">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="1877">1877 году</TIMEX3>
+	
+	
+	
+	. Размеры картины - 32 на 27 сантиметров. По некоторым данным,  она 
+	
+	
+	<EVENT>оценивается</EVENT>
+	
+	
+	 примерно в 800 тысяч евро.Выставка &quot;От сцены к картине&quot; (De la scene au tableau) 
+	
+	
+	<EVENT>проходит</EVENT>
+	
+	
+	 в музее Кантини 
+	<SIGNAL sid="s8">с</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2009-10-06">6 октября 2009 года</TIMEX3>
+	
+	
+	
+	 и уже привлекла почти 70 тысяч посетителей. В связи со следственными действиями 
+	<SIGNAL sid="s5">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t17" type="DATE" value="2009-12-31">четверг</TIMEX3>
+	
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t18" type="DATE" value="2010-01-01">пятницу</TIMEX3>
+	
+	
+	
+	 экспозиция была 
+	
+	
+	<EVENT>закрыта</EVENT>
+	
+	
+	, а 
+	<SIGNAL sid="s9">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t19" type="DATE" value="2009-12-26">субботу</TIMEX3>
+	
+	
+	
+	 и 
+	
+	
+	
+	<TIMEX3 tid="t20" type="DATE" value="2009-12-27">воскресенье</TIMEX3>
+	
+	
+	
+	 будет работать в Марселе последние дни.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/01/01" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/01/01</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">задержан</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" SignalID="s2">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" SignalID="s3">находится</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">пытается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">замечено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">открылась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">предполагает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заступил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s4">написана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">оценивается</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" SignalID="s5">проходит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s7">закрыта</MAKEINSTANCE>
+	
+	
+
+
+	<TLINK timeID="t3" relatedToTime="t4"/>
+</TimeML>

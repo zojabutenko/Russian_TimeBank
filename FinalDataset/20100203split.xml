@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Певица Мадонна 
+	
+	
+	<EVENT>рассталась</EVENT>
+	
+	
+	 с 23-летним манекенщиком Хесусом Лусом, с которым встречалась на протяжении 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DURATION" value="P1Y">года</TIMEX3>
+	
+	
+	
+	. Как сообщает The Daily Mail со ссылкой на американскую Chicago Sun-Times, инициатором разрыва 
+	
+	
+	<EVENT>выступил</EVENT>
+	
+	
+	 Лус.Причинами расставания пары 
+	
+	
+	<EVENT>называют</EVENT>
+	
+	
+	 отсутствие общих интересов и тем для разговоров, а также значительную разницу в возрасте - певица 
+	<SIGNAL sid="s1">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DURATION" value="P28Y">28 лет</TIMEX3>
+	
+	
+	
+	 старше манекенщика. Официально слухи о разрыве пока не 
+	
+	
+	<EVENT>подтверждены</EVENT>
+	
+	
+	.Мадонна и Лус 
+	
+	
+	<EVENT>познакомились</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2008" mod="END">конце 2008 года</TIMEX3>
+	
+	
+	
+	, вскоре после развода певицы с кинорежиссером Гаем Ричи. Отношения с Мадонной 
+	
+	
+	<EVENT>оказали</EVENT>
+	
+	
+	 положительное влияние на карьеру манекенщика: отчасти благодаря ее связям он получил много выгодных контрактов с известными модельерами. Кроме того, в СМИ 
+	
+	
+	<EVENT>появлялись</EVENT>
+	
+	
+	 сообщения о том, что Мадонна 
+	
+	
+	<EVENT>оплатила</EVENT>
+	
+	
+	 бойфренду диджейские мастер-классы и подарила аппаратуру.
+	
+	
+	<EVENT>Сообщалось</EVENT>
+	
+	
+	, что Мадонна и Лус намерены пожениться. Певица даже 
+	
+	
+	<EVENT>съездила</EVENT>
+	
+	
+	 в Бразилию для того, чтобы познакомиться с матерью манекенщика. Несколько 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="2010-W04">недель назад</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>появились</EVENT>
+	
+	
+	 сообщения о том, что Мадонна 
+	
+	
+	<EVENT>подыскивает</EVENT>
+	
+	
+	 суррогатную мать, чтобы завести ребенка от Хесуса Луса. В то же время сайт ShowBizSpy 
+	
+	
+	<EVENT>сообщал</EVENT>
+	
+	
+	 о том, что певица 
+	
+	
+	<EVENT>завела</EVENT>
+	
+	
+	 роман с пожилым финансистом, который разделяет ее каббалистические верования.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">рассталась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">выступил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">называют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE" polarity="NEG">подтверждены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">познакомились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">оказали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">появлялись</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">оплатила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">Сообщалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">съездила</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">появились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">подыскивает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Imp" modality="Ind">сообщал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">завела</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

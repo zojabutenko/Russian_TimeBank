@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Орбитальный телескоп &quot;Хаббл&quot; 
+	
+	
+	<EVENT>сфотографировал</EVENT>
+	
+	
+	 загадочный объект P/2010 A2. В результате 
+	
+	
+	<EVENT>удалось</EVENT>
+	
+	
+	 подтвердить, что данный объект является результатом столкновения двух астероидов. Фото и их описания 
+	
+	
+	<EVENT>появились</EVENT>
+	
+	
+	 на официальном сайте телескопа. Снимок (1,3 Мб) в высоком разрешении можно посмотреть тут.Впервые P/2010 был 
+	
+	
+	<EVENT>обнаружен</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-01">январе 2010 года</TIMEX3>
+	
+	
+	
+	 в рамках научной программы LINEAR. Уже тогда астрофизики 
+	
+	
+	<EVENT>отметили</EVENT>
+	
+	
+	 необычность объекта - внешне он напоминал комету, однако его местоположение (внутри главного пояса астероидов) вместе с необычной траекторией заставили исследователей предположить, что перед ними тело совершенно иной природы.На новых снимках &quot;Хаббла&quot; хорошо видно, что у основания хвоста имеется хаотичная структура, нехарактерная для комет. Кроме этого ядро P/2010 A2 
+	
+	
+	<EVENT>лежит</EVENT>
+	
+	
+	 вне пылевого гало, что также несвойственно этому классу объектов. Таким образом, исследователи 
+	
+	
+	<EVENT>получили</EVENT>
+	
+	
+	 подтверждение своей основной гипотезы - P/2010 A2 появился в результате столкновения двух астероидов относительно 
+	
+	
+	
+	<TIMEX3 tid="t6" type="DATE" value="PAST_REF">недавно</TIMEX3>
+	
+	
+	
+	.Более того, новые данные 
+	
+	
+	<EVENT>показывают</EVENT>
+	
+	
+	, что столкновение было, скорее всего, лобовым.  Скорость сближения двух тел 
+	
+	
+	<EVENT>составляла</EVENT>
+	
+	
+	 примерно 17 тысяч километров 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DURATION" value="PT1H">час</TIMEX3>
+	
+	
+	
+	. Ученые 
+	
+	
+	<EVENT>подчеркивают</EVENT>
+	
+	
+	, что столкновения объектов в поясе астероидов являются достаточно частым событием, однако исследователям впервые удалось зарегистрировать его следы явно.Телескоп &quot;Хаббл&quot; был 
+	
+	
+	<EVENT>запущен</EVENT>
+	
+	
+	 на орбиту 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="1990-04">апреле 1990 года</TIMEX3>
+	
+	
+	
+	. За это время аппаратом было 
+	
+	
+	<EVENT>сделано</EVENT>
+	
+	
+	 большое количество открытий как в Солнечной системе, так и далеко за ее пределами.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сфотографировал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">удалось</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">появились</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">обнаружен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отметили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">лежит</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">показывают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind">составляла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">подчеркивают</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">запущен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="NONE">сделано</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

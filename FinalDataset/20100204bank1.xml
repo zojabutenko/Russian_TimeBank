@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+По делу о незаконном обналичивании и выводе за рубеж более трех миллиардов рублей 
+	
+	
+	<EVENT>арестованы</EVENT>
+	
+	
+	 четыре человека, и с еще одного участника преступной группы взята подписка о невыезде. Как сообщили агентству &quot;Интерфакс&quot; в департаменте экономической безопасности (ДЭБ) МВД России, фигуранты дела 
+	
+	
+	<EVENT>являются</EVENT>
+	
+	
+	 жителями Москвы и Липецка, причем троих задержанных считают организаторами незаконной финансовой схемы.В МВД 
+	
+	
+	<EVENT>пояснили</EVENT>
+	
+	
+	, что в схеме по обналичиванию использовались более 50 фирм-однодневок, которые перечисляли денежные средства на счета кипрских и болгарских банков по фиктивным валютным контрактам. В ходе проведенных обысков была 
+	
+	
+	<EVENT>изъята</EVENT>
+	
+	
+	 документация о движении средств и печати. Уголовное дело 
+	
+	
+	<EVENT>возбуждено</EVENT>
+	
+	
+	 по части 2, статьи 172 УК РФ &quot;незаконная банковская деятельность, 
+	
+	
+	<EVENT>совершенная</EVENT>
+	
+	
+	 организованной группой, 
+	
+	
+	<EVENT>сопряженное</EVENT>
+	
+	
+	 с извлечением дохода в особо крупном размере&quot;.Ранее УВД Липецкой области 
+	
+	
+	<EVENT>сообщило</EVENT>
+	
+	
+	 о задержании заместителя руководителя липецкого отделения Сбербанка России и его сообщника по подозрению в переводе за рубеж через подставные фирмы 3,8 миллиарда рублей.Правоохранительные органы не 
+	
+	
+	<EVENT>называли</EVENT>
+	
+	
+	 имен фигурантов дела, однако, по сведениям газеты &quot;Коммерсант&quot;, задержанного банкира зовут Кирилл Тормышов, и он занимает должность замначальника отделения Центрально-Черноземного банка Сбербанка РФ в Липецке.В то же время официальный представитель Сбербанка 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	 РИА Новости о том, что банк 
+	
+	
+	<EVENT>проводил</EVENT>
+	
+	
+	 проверку работы своего липецкого отделения и не выявил никаких нарушений. Дату проверки источник не 
+	
+	
+	<EVENT>указал</EVENT>
+	
+	
+	. Он также 
+	
+	
+	<EVENT>отказался</EVENT>
+	
+	
+	 комментировать задержание высокопоставленного сотрудника Сбербанка.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">арестованы</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">являются</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пояснили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">изъята</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">возбуждено</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">совершенная</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">сопряженное</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщило</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Imp" modality="Ind" polarity="NEG">называли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Imp" modality="Ind">проводил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">указал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">отказался</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Нигериец Умар Фарук Абдулмуталлаб, 
+	
+	
+	<EVENT>пытавшийся</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-12-25">25 декабря</TIMEX3>
+	
+	
+	
+	 устроить взрыв на борту самолета, 
+	
+	
+	<EVENT>летевшего</EVENT>
+	
+	
+	 в Детройт, 
+	
+	
+	<EVENT>согласился</EVENT>
+	
+	
+	 сотрудничать со следствием, сообщает Associated Press 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2010-02-02">2 февраля</TIMEX3>
+	
+	
+	
+	 со ссылкой на представителей правоохранительных органов США, 
+	
+	
+	<EVENT>пожелавших</EVENT>
+	
+	
+	 остаться неназванными.Террорист, рассказали собеседники AP, 
+	
+	
+	<EVENT>начал</EVENT>
+	
+	
+	 давать показания 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t8" type="DATE" value="2010-01" mod="END">конце января 2010 года</TIMEX3>
+	
+	
+	
+	. Умар Фарук Абдулмуталлаб 
+	
+	
+	<EVENT>сообщил</EVENT>
+	
+	
+	 &quot;ценную информацию&quot;, которую ФБР и разведслужбы уже взяли в разработку как в Соединенных Штатах, так и за их пределами.Ранее Associated Press со ссылкой на источники, близкие к расследованию попытки теракта на борту самолета, 
+	
+	
+	<EVENT>сообщало</EVENT>
+	
+	
+	, что Умар Фарук Абдулмуталлаб в первые часы после задержания неоднократно признавал свою вину, а также говорил, что действовал по приказу &quot;Аль-Каеды&quot;.Показания нигериец 
+	
+	
+	<EVENT>давал</EVENT>
+	
+	
+	 до тех пор, пока ему не 
+	
+	
+	<EVENT>зачитали</EVENT>
+	
+	
+	 его права. Затем он 
+	
+	
+	<EVENT>воспользовался</EVENT>
+	
+	
+	 правом хранить молчание. На заседании суда, 
+	
+	
+	<EVENT>состоявшегося</EVENT>
+	
+	
+	 
+	
+	
+	
+	<TIMEX3 tid="t13" type="DATE" value="2010-01-08">8 января</TIMEX3>
+	
+	
+	
+	, Абдулмуталлаб 
+	
+	
+	<EVENT>заявил</EVENT>
+	
+	
+	, что не признает своей вины ни по одному из шести пунктов 
+	
+	
+	<EVENT>выдвинутого</EVENT>
+	
+	
+	 против него обвинения.Умар Фарук Абдулмуталлаб 
+	
+	
+	<EVENT>пытался</EVENT>
+	
+	
+	 привести в действие взрывное устройство, 
+	
+	
+	<EVENT>спрятанное</EVENT>
+	
+	
+	 в нижнем белье, на борту самолета компании Northwest Airlines, 
+	
+	
+	<EVENT>выполнявшего</EVENT>
+	
+	
+	 рейс из Амстердама в Детройт. При попытке привести взрывчатку в действие 
+	
+	
+	<EVENT>произошел</EVENT>
+	
+	
+	 сбой, из-за которого бомба не взорвалась, а лишь воспламенилась. Террорист 
+	
+	
+	<EVENT>получил</EVENT>
+	
+	
+	 сильные ожоги и после посадки самолета в Детройте был под охраной доставлен в одну из местных больниц, где ему оказали первую помощь. Позже Умар Фарук Абдулмуталлаб был 
+	
+	
+	<EVENT>выписан</EVENT>
+	
+	
+	 из больницы и помещен в тюрьму штата Мичиган.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/03" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/03</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Imp" modality="NONE">пытавшийся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Imp" modality="NONE">летевшего</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">согласился</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="NONE">пожелавших</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind" SignalID="s1">начал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">сообщало</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Imp" modality="Ind">давал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind" polarity="NEG">зачитали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="Ind">воспользовался</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="NONE">состоявшегося</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="Ind">заявил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выдвинутого</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Imp" modality="Ind">пытался</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="NONE">спрятанное</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei16" pos="VERB" tense="Past" aspect="Imp" modality="NONE">выполнявшего</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei17" pos="VERB" tense="Past" aspect="Perf" modality="Ind">произошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei18" pos="VERB" tense="Past" aspect="Perf" modality="Ind">получил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei19" pos="VERB" tense="Past" aspect="Perf" modality="NONE">выписан</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

@@ -1,0 +1,117 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Примерно 120 тысяч человек 
+	
+	
+	<EVENT>пришли</EVENT>
+	
+	
+	 встретить 
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010-01-01">Новый год</TIMEX3>
+	
+	
+	
+	 на Красной площади и Васильевском спуске в центре Москвы. Об этом 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 РИА Новости со ссылкой на штаб по обеспечению порядка ГУВД Москвы.По словам представителей столичной милиции, никаких серьезных инцидентов в новогодней Москве 
+	
+	
+	<EVENT>зафиксировано</EVENT>
+	
+	
+	 не было. Атмосферу на улицах сотрудники штаба 
+	
+	
+	<EVENT>охарактеризовали</EVENT>
+	
+	
+	 как праздничную. В штабе 
+	
+	
+	<EVENT>напомнили</EVENT>
+	
+	
+	, что правопорядок в центре города этой ночью обеспечивают дополнительно 4 тысячи милиционеров.Как сообщалось ранее, всего во время новогодних праздников порядок в Москве 
+	
+	
+	<EVENT>охраняют</EVENT>
+	
+	
+	 25 тысяч сотрудников милиции. Под особым контролем 
+	
+	
+	<EVENT>находятся</EVENT>
+	
+	
+	 не только Красная площадь и Васильевский спуск, но и Тверская улица, Пушкинская и Манежная площади. Милиционерам 
+	
+	
+	<EVENT>помогают</EVENT>
+	
+	
+	 народные дружинники.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/01/01" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/01/01</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="Ind">пришли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="NONE" polarity="NEG">зафиксировано</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Past" aspect="Perf" modality="Ind">охарактеризовали</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">напомнили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">охраняют</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">находятся</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">помогают</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

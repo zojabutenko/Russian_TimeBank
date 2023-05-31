@@ -1,0 +1,229 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Скульптура работы швейцарского мастера Альберто Джакометти &quot;Шагающий человек&quot; (&quot;L'homme qui marche&quot;) была 
+	
+	
+	<EVENT>продана</EVENT>
+	
+	
+	 на аукционе Sotheby's за рекордную сумму в 65 миллионов фунтов (104,3 миллиона долларов). Об этом 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	 
+	
+	
+	<EVENT>сообщает</EVENT>
+	
+	
+	 Agence France-Presse.Первоначально организаторы торгов 
+	
+	
+	<EVENT>оценили</EVENT>
+	
+	
+	 лот в 18 миллионов фунтов (28,6 миллиона долларов), однако покупатель, имя которого не разглашается, по телефону приобрел скульптуру за сумму, более чем в три раза 
+	
+	
+	<EVENT>превышающую</EVENT>
+	
+	
+	 первоначальные ожидания.Таким образом, 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DATE" value="2010-02-04">сегодня</TIMEX3>
+	
+	
+	
+	 был 
+	
+	
+	<EVENT>установлен</EVENT>
+	
+	
+	 новый рекорд по стоимости произведения искусства, 
+	
+	
+	<EVENT>проданного</EVENT>
+	
+	
+	 на аукционе. До этого самым дорогим лотом 
+	
+	
+	<EVENT>считалась</EVENT>
+	
+	
+	 картина Пабло Пикассо &quot;Мальчик с трубкой&quot;, 
+	
+	
+	<EVENT>проданная</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s1">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t4" type="DATE" value="2004">2004 году</TIMEX3>
+	
+	
+	
+	 в Нью-Йорке за 104,2 миллиона долларов.Скульптура &quot;Шагающий человек&quot; была 
+	
+	
+	<EVENT>создана</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s2">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t7" type="DATE" value="1961">1961 году</TIMEX3>
+	
+	
+	
+	, она стала одной из самых крупных работ Джакометти - ее высота составляет 183 сантиметра.Предыдущий рекорд для работ Джакометти на аукционе - 27, 4 миллиона долларов. Эта сумма была 
+	
+	
+	<EVENT>выручена</EVENT>
+	
+	
+	 
+	<SIGNAL sid="s3">в</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t10" type="DATE" value="2008">2008 году</TIMEX3>
+	
+	
+	
+	 за скульптуру &quot;Большая стоящая женщина&quot; (Grande femme debout).Кроме того, 
+	
+	
+	
+	<TIMEX3 tid="t14" type="DATE" value="2010-02-03">3 февраля</TIMEX3>
+	
+	
+	
+	, на Sotheby's был установлен еще один мировой рекорд. Самым дорогим пейзажем в истории 
+	
+	
+	<EVENT>стала</EVENT>
+	
+	
+	 картина австрийского художника Густава Климта &quot;Церковь в Кассоне&quot;, 
+	
+	
+	<EVENT>проданная</EVENT>
+	
+	
+	 за 26,9 миллиона фунтов (43 миллиона долларов).Еще одним топ-лотом аукциона считалось полотно французского художника Поля Сезанна &quot;Кувшин и фрукты на столе&quot;, проданное за 11,8 миллиона фунтов (18,7 миллиона долларов). &quot;Лежащая женщина&quot; французского художника Анри Матисса 
+	
+	
+	<EVENT>ушла</EVENT>
+	
+	
+	 с молотка за 4,4 миллиона фунтов (6,9 миллиона долларов).На аукционе также была представлена работа Натальи Гончаровой &quot;Сенокос&quot;. Организаторы торгов 
+	
+	
+	<EVENT>рассчитывали</EVENT>
+	
+	
+	 выручить за эту картину до 800 тысяч фунтов, однако в итоге она была продана за 1,1 миллиона фунтов (1,7 миллиона долларов).
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">продана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Pres" aspect="Imp" modality="Ind">сообщает</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Past" aspect="Perf" modality="Ind">оценили</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">превышающую</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="NONE">установлен</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">проданного</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Imp" modality="Ind">считалась</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">проданная</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s2">создана</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s3">выручена</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">стала</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Past" aspect="Perf" modality="NONE" SignalID="s1">проданная</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="Ind">ушла</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Imp" modality="Ind">рассчитывали</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>

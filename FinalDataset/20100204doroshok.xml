@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<TimeML>
+	
+	
+	
+	
+
+Встреча губернатора Калининградской области Георгия Бооса с организатором оппозиционного митинга Константином Дорошком, которая ранее была назначена 
+	<SIGNAL sid="s1">на</SIGNAL>
+	 
+	
+	
+	
+	<TIMEX3 tid="t2" type="DATE" value="2010-02-04">4 февраля</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>отложена</EVENT>
+	
+	
+	 на неопределенный срок, сообщает &quot;Коммерсант&quot;. Об этом Дорошку 
+	
+	
+	<EVENT>сообщил</EVENT>
+	
+	
+	 спикер регионального парламента и руководитель местного отделения &quot;Единой России&quot; Сергей Булычев; он же ранее встречу и назначал. Причины переноса газета не 
+	
+	
+	<EVENT>называет</EVENT>
+	
+	
+	.Сам Дорошок, 
+	
+	
+	<EVENT>возглавляющий</EVENT>
+	
+	
+	 местное движение &quot;Справедливость&quot; и отделение &quot;Солидарности&quot;, 
+	
+	
+	<EVENT>рассказал</EVENT>
+	
+	
+	, что на заседании штаба протестных действий было решено 
+	
+	
+	
+	<TIMEX3 tid="t3" type="DURATION" value="P1M">месяц</TIMEX3>
+	
+	
+	
+	 ждать ответ калининградских властей на резолюцию митинга. После этого оппозиционеры будут разрабатывать план действий, в том числе акций протеста.&quot;Нас можно подкупить, только 
+	
+	
+	<EVENT>построив</EVENT>
+	
+	
+	 детсады, школы, 
+	
+	
+	<EVENT>сделав</EVENT>
+	
+	
+	 бесплатными медицину и образование, 
+	
+	
+	<EVENT>создав</EVENT>
+	
+	
+	 рабочие места&quot;, - сказал Дорошок.Митинг, поводом к которому стало недовольство повышением ставки транспортного налога, 
+	
+	
+	<EVENT>прошел</EVENT>
+	
+	
+	 в центре Калининграда 
+	
+	
+	
+	<TIMEX3 tid="t5" type="DATE" value="2010-01-30">30 января</TIMEX3>
+	
+	
+	
+	, 
+	
+	
+	<EVENT>собрав</EVENT>
+	
+	
+	 около 10 тысяч человек. Демонстранты 
+	
+	
+	<EVENT>вышли</EVENT>
+	
+	
+	 в том числе и с политическими лозунгами, 
+	
+	
+	<EVENT>требуя</EVENT>
+	
+	
+	 отставки Бооса, премьер-министра РФ Владимира Путина и возвращения к выборам губернаторов.После митинга в Калининград для разбирательства были 
+	
+	
+	<EVENT>отправлены</EVENT>
+	
+	
+	 полпред президента в Северо-Западном федеральном округе Илья Клебанов и заместитель генерального прокурора Александр Гуцан. Также в регион 
+	
+	
+	<EVENT>приехал</EVENT>
+	
+	
+	 заместитель секретаря президиума Генсовета &quot;Единой России&quot; Сергей Неверов. По данным СМИ, был 
+	
+	
+	<EVENT>отправлен</EVENT>
+	
+	
+	 в отставку куратор северо-запада России в президентской администрации Олег Матвейчев.
+
+
+	
+	
+	
+	<TIMEX3 tid="t1" type="DATE" value="2010/02/04" temporalFunction="false" functionInDocument="PUBLICATION_TIME">2010/02/04</TIMEX3>
+	
+	
+	
+
+	
+	
+	<MAKEINSTANCE eiid="ei1" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отложена</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei2" pos="VERB" tense="Past" aspect="Perf" modality="Ind">сообщил</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei3" pos="VERB" tense="Pres" aspect="Imp" modality="Ind" polarity="NEG">называет</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei4" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">возглавляющий</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei5" pos="VERB" tense="Past" aspect="Perf" modality="Ind">рассказал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei6" pos="VERB" tense="Past" aspect="Perf" modality="NONE">построив</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei7" pos="VERB" tense="Past" aspect="Perf" modality="NONE">сделав</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei8" pos="VERB" tense="Past" aspect="Perf" modality="NONE">создав</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei9" pos="VERB" tense="Past" aspect="Perf" modality="Ind">прошел</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei10" pos="VERB" tense="Past" aspect="Perf" modality="NONE">собрав</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei11" pos="VERB" tense="Past" aspect="Perf" modality="Ind">вышли</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei12" pos="VERB" tense="Pres" aspect="Imp" modality="NONE">требуя</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei13" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отправлены</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei14" pos="VERB" tense="Past" aspect="Perf" modality="Ind">приехал</MAKEINSTANCE>
+	
+	
+	
+	
+	<MAKEINSTANCE eiid="ei15" pos="VERB" tense="Past" aspect="Perf" modality="NONE">отправлен</MAKEINSTANCE>
+	
+	
+
+
+</TimeML>
