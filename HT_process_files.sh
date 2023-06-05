@@ -1,6 +1,6 @@
 #!/bin/bash
 
-LENTA_FILES="/Users/zoiabutenko/Desktop/диплом/golden_corpus/news/raw/lenta/txt/*"
+LENTA_FILES='./raw/*'
 for f in $LENTA_FILES
 do
   # take action on each file. $f store current file name
@@ -12,7 +12,7 @@ do
   echo $dct
   # get properly formatted document creation time:
   dct_formatted=$(echo "${dct:0:4}"-"${dct:4:2}"-"${dct:6}")
-  res_path="/Users/zoiabutenko/Desktop/диплом/golden_corpus/news/processed_heideltime/lenta/"
+  res_path="./processed_heideltime/"
   extension=".xml"
   final_path=$(echo "${new_name:63}"$extension)
   # process the file with HeidelTime:
