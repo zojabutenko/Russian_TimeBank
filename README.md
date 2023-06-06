@@ -17,3 +17,6 @@ Event instances in Russian can be expressed by verbs, nominal phrases, pronouns,
 
 ## Temporal Information
 All temporal expressions have been extracted using the [HeidelTime system](https://github.com/HeidelTime/heideltime) for Russian. 
+Signals have been extracted using dependencies and a pre-defined set of most common signals in Russian (_в, до, после_, etc.)
+
+
